@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<img class="hero" src="assets/img/hero-ltl-index.jpg" alt="Truck Driving on Bridge" />
+						<h1>Xtreme Customer Service</h1>
+    					<h3>We take service to the Xtreme.</h3>
+    					<div class="relative">
+	    					<img src="assets/img/img_xtreme_guaranteed.png" alt="Xtreme Guaranteed" width="100" height="100" class="left" />
+							<p>Superior customer service starts with knowledgeable people who have extensive training. Our customer service representatives undergo a 20-day training program and are measured each day on their customer service performance levels to ensure fast, accurate, responsive service. With call centers in Atlanta, Ga and Boise, Id, we will always be able to support you, even if there is a temporary outage at one location. At Saia, you can expect:</p>
+							<ul class="list">
+								<li class="noTopSpacing"><span class="red bold">Single Call Resolution:</span> Receive information, answered questions, order confirmation - on the first call.</li>
+								<li><span class="red bold">Attendance:</span> By tracking CSR attendance, we help ensure that our customer service center is running at full strength. In short, we have the manpower to respond to your needs.</li>
+								<li><span class="red bold">Quality Monitoring:</span> Are we telling you everything you need to know concerning new services or programs? We monitor these calls to make sure the information you are getting is helpful, current and delivered with courtesy.</li>
+							</ul>
+						</div>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

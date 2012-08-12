@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<img class="hero" src="assets/img/hero-ltl-index.jpg" alt="Truck Driving on Bridge" />
+						<h1>President's Message</h1>
+						<img src="assets/img/env_quality_matters.jpg" width="186" height="96" alt="Quality Matters" style="float:left;margin:20px 20px 10px 0;" />
+    					<p>Quality isn't a new concept at Saia but we are raising the bar even higher under the banner of Quality Matters! This initiative highlights our mission to provide our customers with superior service each and every day.</p>
+    					<p>At Saia, we have a 360 degree view of quality. Indeed, we have programs in place within every department of the company dedicated to quality improvement. One aspect of Quality Matters will focus on Saia continuing to purchase new equipment throughout 2012. We have already taken delivery of 300 new tractors and have ordered several hundred more. We also have ordered 700 new 28 foot trailers, we have purchased 2,500 new hand trucks and pallet jack stops for our drivers, and we are replenishing our straps, load bars, dunnage, and airbags on a monthly basis.</p>
+						<p>Aside from new equipment, we continue to invest in new technology, personnel, and employee training. In fact, every Saia city driver has been equipped with a new handheld device that provides our customers with real-time data that encompasses more detail than ever before on every shipment we handle. New load quality inspectors have been added who are solely responsible for making sure every Saia trailer is expertly loaded so our shippers' freight arrives just as we promised. And, all employees will receive ongoing training to ensure every team member is using the latest in proper freight handling techniques.</p>
+						<p>Along with these improvements, we also have created a new department solely dedicated to quality assurance. These individuals are tasked with making sure our processes and goals are continuously being met. As always, our Customer Service Indicators, or CSIs, reflect our pursuit of quality. That's why we are excited to announce that we recently increased our delivery goal to 98%, on-time. In addition to this, we also raised our "delivery before exception," or DBE, goal to 100. This is the number of error-free deliveries that are made before a delivery exception is noted.</p>
+						<p>Throughout the coming year, in addition to the above investments, we will continue to develop and evaluate new products and services that will benefit our shippers. You can trust that each of us at Saia is committed to offering our customers nothing less than excellence. After all, we realize just how much Quality Matters - not only to our shippers but ourselves.</p>
+						<p>Thanks,</p>
+						<p>Rick O'Dell<br />
+						President &amp; CEO</p>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+                        <img class="hero" src="assets/img/hero-ltl-index.jpg" alt="Truck Driving on Bridge" />
+						<h1>Mission Statement</h1>
+    					<p>At Saia, we are guided by a three-part mission that recognizes both our customers' needs as well as the needs of our employees. Based in part on our proprietary CSI&reg; (Customer Service Indicators) program, it is a mission that is truly unique in the industry.</p>
+						<p class="quote"><span class="left">"</span>Provide best-in-class service defined by our Customer Service Indicators through <span class="emph">quality</span> processes in an environment that <span class="emph">respects</span> employees, <span class="emph">advocates</span> safety and recognizes excellence.<span class="right">"</span></p>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

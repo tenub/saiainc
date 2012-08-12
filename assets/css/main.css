@@ -1,0 +1,2051 @@
+/* Main Styles */
+@font-face {
+	font-family: beval;
+    src: url('../fonts/beval.eot');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: beval;
+    src: url('../fonts/beval?#iefix') format('embedded-opentype'),
+         url('../fonts/beval.woff') format('woff'),
+         url('../fonts/beval.ttf') format('truetype'),
+         url('../fonts/beval.svg#beval') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+body {
+	background: #ccc;
+	font: 16px helvetica, arial, sans-serif;
+}
+a {
+	color: #ccc;
+	text-decoration: none;
+	outline: 0;
+	font-size: 16px;
+}
+a:hover {
+	color: #fff;
+}
+h1, h2, h3, h4 {
+	font-family: beval, helvetica, arial, sans-serif;
+}
+label{
+ display: inline-block;
+ line-height: 20px;
+ vertical-align: middle;
+}
+.bold {
+	font-weight: bold;
+}
+.clear {
+	clear: both;
+	line-height: 0;
+	height: 0;
+	margin: 0;
+	padding: 0;
+}
+.center {
+	text-align: center;
+}
+.desc, .desc1 {
+	display: none;
+}
+.indent {
+	padding-left: 20px;
+}
+.hrContainer {
+	height: 20px;
+	min-width: 100%;
+	padding: 0;
+}
+.relative {
+	position: relative;
+}
+.required {
+	color: #333;
+	font-weight: bold;
+}
+#main .container .formBody form > div.clear {
+	min-width: 100%;
+	padding: 0;
+}
+/* Header Styles */
+header hr {
+	position: absolute;
+	top: 65px;
+	background: #d51d24;
+	color: #d51d24;
+	width: 100%;
+	height: 1px;
+	border: 0;
+}
+header {
+	position: relative;
+	height: 114px;
+}
+#logo {
+	position: absolute;
+	top: 0;
+	left: 50px;
+	width: 130px;
+	height: 120px;
+	z-index: 2;
+}
+#logo a {
+	display: block;
+	height: 120px;
+}
+#topLinks {
+	position: absolute;
+	top: 20px;
+	right: 30px;
+	font: 12px helvetica, arial, sans-serif;
+	color: #999;
+	letter-spacing: 1px;
+}
+#topLinks ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#topLinks ul li {
+	float: left;
+	margin: 0 15px;
+	line-height: 17px;
+}
+#topLinks span {
+	font-size: 15px;
+}
+#topLinks ul li a {
+	color: #999;
+	text-transform: uppercase;
+	text-decoration: none;
+	font: 12px helvetica, arial, sans-serif;
+}
+#topLinks ul li a:hover {
+	color: #fff;
+}
+#headerLinks {
+	position: absolute;
+	width: 100%;
+	margin: 74px 0 0 0;
+	font: 17px beval, helvetica, arial, sans-serif;
+	color: #ccc;
+}
+#headerLinks > ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#headerLinks > ul li {
+	float: left;
+	padding: 0 10px;
+}
+#headerLinks > ul > li > a {
+	color: #ccc;
+	font-size: 17px;
+	text-decoration: none;
+	white-space: nowrap;
+}
+#headerLinks > ul#last {
+	float: right;
+	margin: 0 50px 0 0;
+	line-height: 40px;
+}
+#headerLinks > ul#last > li {
+	color: #666;
+}
+#headerLinks > ul#last a:hover {
+	color: #d51d24;
+}
+#headerLinks > ul#last img {
+	vertical-align: middle;
+}
+#mainMenu > li {
+	background: transparent url('../img/bullet.png') no-repeat 0 50%;
+	padding: 0 15px !important;
+	overflow: visible;
+	/* width: 115px; */
+	text-align: center;
+	line-height: 40px;
+}
+#mainMenu > li:hover {
+	border-bottom: 6px #d51d24 solid;
+}
+#mainMenu > li:hover > a {
+	color: #d51d24;
+}
+#mainMenu > li:hover .menu {
+	display: block;
+	/* width: 405px; */
+	height: 250px;
+}
+#mainMenu > li.first-child {
+	padding: 0 15px 0 0;
+	background: transparent;
+}
+#mainMenu {
+	float: left !important;
+	margin: 0 0 0 230px !important;
+}
+#mainMenu ul.menu {
+	position: absolute;
+	left: 245px;
+	display: none;
+	margin: 6px 0 0 -15px;
+	padding: 15px 0;
+	background: #333;
+	-moz-border-radius-bottomright: 5px;
+	border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-left-radius: 5px;
+	-moz-box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+	box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+	z-index: 100;
+	line-height: 1em;
+}
+#mainMenu ul.twoCol {
+	position: absolute;
+	left: 405px;
+	display: none;
+	margin: 6px 0 0 -15px;
+	padding: 15px 0;
+	background: #333;
+	-moz-border-radius-bottomright: 5px;
+	border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-left-radius: 5px;
+	-moz-box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+	box-shadow: 5px 5px 20px rgba(0,0,0,0.5);
+	z-index: 100;
+	line-height: 1em;
+}
+#mainMenu .menu a {
+	color: #999;
+	font: 13px beval, helvetica, arial, sans-serif;
+}
+#mainMenu .menu a:hover {
+	color: #ccc;
+}
+#mainMenu .menu > li {
+	width: 119px;
+	height: 100%;
+	border-right: 1px solid #666;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+#mainMenu .menu > li.twoColFirst {
+	width: 120px;
+}
+#mainMenu .menu > li.first-child {
+	width: 140px;
+}
+#mainMenu .menu > li.twoCol {
+	width: 280px;
+}
+#mainMenu .menu > li.twoColLast {
+	width: 111px;
+	border: none;
+}
+#mainMenu .menu > li.last-child {
+	width: 111px;
+	border: none;
+}
+#mainMenu .menu > li ul {
+	text-align: left;
+}
+#mainMenu .twoColSubMenu {
+	float: left;
+	width: 50%;
+}
+#mainMenu .subMenu li {
+	float: none;
+	margin: 0.75em 0 0 0;
+}
+#mainMenu .subMenu li.subMenuHead {
+	float: none;
+	margin: 0.75em 0 0 0;
+	padding-top: 5px;
+	font-size: 13px;
+	color: #999;
+}
+/* Footer Styles */
+footer {
+	width: 100%;
+	text-align: center;
+}
+footer .top {
+	position: relative;
+	list-style: none;
+	margin: 20px 0 0 0;
+	padding: 0;
+	color: #ccc;
+	font: bold 11px helvetica, arial, sans-serif;
+	text-transform: uppercase;
+	line-height: 2em;
+	overflow: hidden;
+}
+footer .top li.section {
+	position: relative;
+	width: 30%;
+	height: 100%;
+	float: left;
+	text-align: left;
+}
+footer .top li.sectionFirst {
+	position: absolute;
+	left: 50px;
+	top: 0;
+	width: 25%;
+	height: 100%;
+	text-align: left;
+}
+footer .top li.sectionMid {
+	position: relative;
+	top: 0;
+	width: 40%;
+	min-width: 398px;
+	margin: 0 auto;
+	height: 100%;
+	text-align: left;
+}
+footer .top li.sectionLast {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 28%;
+	height: 100%;
+	text-align: left;
+}
+footer .top li > div {
+	/* position: relative;
+	left: 50px; */
+}
+footer .top li ul {
+	margin: 0;
+}
+footer .top li ul li {
+	float: left;
+	font: 12px helvetica, arial, sans-serif;
+	text-transform: none;
+	line-height: 1.25em;
+}
+footer .top li ul li a {
+	font: 12px helvetica, arial, sans-serif;
+}
+footer .top li ul li ul {
+	float: left;
+	position: relative;
+}
+footer .top li ul li ul li {
+	float: none;
+	margin-left: 0;
+	background: transparent url('../img/bullet.png') no-repeat 0 9px;
+	padding: 5px 20px 5px 10px;
+}
+footer .top li ul li ul li.first {
+	background: transparent;
+	text-indent: -10px;
+}
+footer .spacer {
+	width: 100%;
+	height: 10px;
+}
+footer .bottom {
+	position: relative;
+	top: 100%;
+	height: 20px;
+	margin: 10px 30px;
+	font: 9px helvetica, arial, sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	list-style: none;
+	color: #999;
+}
+footer .bottom a {
+	color: #999;
+	text-decoration: none;
+}
+footer .bottom a:hover {
+	color: #ccc;
+}
+footer .bottom li {
+	display: inline;
+	padding: 0 20px;
+	font-size: 10px;
+}
+footer .bottom li a {
+	font-size: 10px;
+}
+footer .bottom ul {
+	float: left;
+}
+footer .bottom ul #copy {
+	float: right;
+	position: absolute;
+	right: 0;
+	padding: 0 20px 0 10px;
+	min-width: 80px;
+}
+body > .container {
+	max-width: 1260px;
+	min-width: 900px;
+	overflow: hidden;
+	background: #333;
+	margin: 0 auto;
+}
+/* Homepage Styles */
+#content {
+	background: #fff;
+	width: 100%;
+	overflow: hidden;
+	padding: 20px 0 40px 0;
+	font-family: helvetica, arial, sans-serif;
+}
+#content a {
+	color: #d51d24;
+}
+#content a:hover {
+	color: #000;
+}
+.spacer {
+	clear: both;
+}
+#content h1 {
+	color: #d51d24;
+	font-size: 23px;
+	font-family: beval, helvetica, arial, sans-serif;
+}
+#content h2 {
+	font: 22px helvetica, arial, sans-serif;
+	color: #333;
+}
+#content h3 {
+	font: 18px helvetica, arial, sans-serif;
+	color: #333;
+	line-height: 30px;
+}
+#content h3.last {
+	padding-top: 5px;
+}
+#main {
+	padding: 28px 0 0 0;
+	color: #666;
+	margin: 0 0 0 -366px;
+	width: 100%;
+	min-height: 620px;
+	float: left;
+	border-right: 1px #d51d24 solid;
+}
+#main p {
+	font-size: 16px;
+	line-height: 30px;
+	padding: 0 0 15px 0;
+}
+#main > .container > .fullBody > a {
+	color: #d51d24;
+	text-decoration: none;
+}
+#main .container {
+	margin: 0 25px 0 416px;
+	min-width: 401px;
+	position: relative;
+}
+#main .container div.imgContainer {
+	position: relative;
+	height: 150px;
+}
+#main .container div.imgContainer > div {
+	position: relative;
+	height: 150px;
+	width: 150px;
+	margin: 0 auto;
+}
+#main .container div.imgContainer img.left {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#main .container div.imgContainer img.right {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#main .container div.relative > img.left {
+	float: left;
+	margin-right: 1.5em;
+}
+#main .container .fullBody .noSpacing, #main .container .formBody .noSpacing {
+	margin: 0;
+	padding: 0;
+}
+#main .container ul.awards > li {
+	border-bottom: 1px dashed #d51d24;
+}
+#main .container ul.awards > li.last {
+	border-bottom: 1px dashed #fff;
+}
+#main .container ul.awards > li > h2 {
+	line-height: 26px;
+	height: 80px;
+	cursor: pointer;
+	background: #fff;
+	border-radius: 10px;
+	margin: 10px 0;
+	padding: 5px 10px;
+	border: 1px solid #fff;
+	min-width: 433px;	
+}
+#main .container ul.awards > li.first > h2 {
+	margin-top: 0;	
+}
+#main .container ul.awards > li.last > h2 {
+	margin-bottom: 0;	
+}
+#main .container ul.awards h2 > div {
+	position: relative;
+}
+#main .container ul.awards h2:hover {
+	border: 1px solid #eee;
+	background: #eee;
+}
+#main .container ul.awards h2.active {
+	border: 1px solid #eee;
+	background: #eee;
+}
+#main .container ul.awards h2 > div > a {
+	font: 22px helvetica, arial, sans-serif;
+	color: #333;
+	padding: 0 0 0 5px;
+}
+#main .container ul.awards h2 > div > img {
+	position: absolute;
+	left: 333px;
+	top: 0;
+}
+#main .container ul.awards h2 > div > div.sub {
+	font: 16px helvetica, arial, sans-serif;
+	color: #333;
+	padding: 5px 0 0 5px;
+	line-height: 1.5em;
+}
+#main .container ul.awards h3 {
+	padding: 0;
+	margin: 0;
+	line-height: 22px;
+	position: relative;
+}
+#main .container ul.awards h3 > a {
+	font: 18px helvetica, arial, sans-serif;
+	color: #333;
+
+}
+#main .container ul.awards h2 > a:hover, #main .container ul.awards h3 > a:hover {
+	color: #d51d24;
+}
+#main .container ul.awards > li > ul {
+	margin-left: 20px;
+}
+#main .container ul.awards > li > ul > li {
+	margin: 20px 0;
+	padding: 0;
+	line-height: 24px;
+	background: none;
+}
+#main .container ul.awards > li > ul > li.first {
+	margin: 20px 0 10px 0;
+}
+#main .container ul.awards > li > ul > li > div {
+	margin-left: 0;
+}
+#main .container ul.awards > li > ul > li > div > p {
+	padding: 10px 0;
+}
+#main .container ul.awards > li > ul > li > div > h4 {
+	font: bold 18px helvetica, arial, sans-serif;
+	color: #333;
+	line-height: 30px;
+}
+#main .container .accordion .ui-state-focus, #main .container .accordion1 .ui-state-focus {
+    outline: none;
+}
+#main .container ul.accordion > li > h2 > span.ui-icon {
+    margin-top: 3px;
+    z-index: 999;
+}
+#main .container ul.accordion1 > li > h3 > span.ui-icon {
+    margin-top: 2px;
+    z-index: 999;
+}
+#main .container ul.sitemap h2 {
+	margin: 10px 0;
+	padding: 0;
+	line-height: 16px;
+	height: 16px;
+	position: relative;
+}
+#main .container ul.sitemap h2 > a {
+	font: 16px helvetica, arial, sans-serif;
+	color: #333;
+	position: absolute;
+	left: 20px;
+	top: 0;
+}
+#main .container ul.sitemap h3 {
+	padding: 0;
+	margin: 0;
+	line-height: 16px;
+	position: relative;
+}
+#main .container ul.sitemap h3 > a {
+	font: 16px helvetica, arial, sans-serif;
+	color: #333;
+
+}
+#main .container ul.sitemap h2 > a:hover, #main .container ul.sitemap h3 > a:hover {
+	color: #d51d24;
+}
+#main .container ul.sitemap > li > ul {
+	margin-left: 20px;
+}
+#main .container ul.sitemap > li > ul > li {
+	margin: 10px 0;
+	padding: 0;
+	line-height: 24px;
+	background: none;
+}
+#main .container ul.sitemap > li > ul > li > div {
+	margin-left: 40px;
+}
+#main .container ul.sitemap > li > ul > li > div > p {
+	padding: 10px 0 0 0;
+}
+#main .container .sitemap .ui-state-focus, #main .container .accordion1 .ui-state-focus {
+    outline: none;
+}
+#main .container ul.sitemap > li > h2 > span.ui-icon {
+    margin-top: 0;
+}
+#main .container ul.sitemap ul.accordion1 > li > h3 > span.ui-icon {
+    margin-top: 0;
+}
+#main .container ul.sitemap > li > h2, #main .container ul.sitemap ul.accordion1 > li > h3 {
+    padding-left: 16px;
+}
+#main .container ul.sitemap ul.accordion1 > li > h3.noArrow > span.ui-icon {
+    display: none;
+}
+#main .container ul.sitemap ul.accordion1 > li a {
+	color: #333;
+}
+#main .container ul.sitemap ul.accordion1 > li a:hover {
+	color: #d51d24;
+}
+#main .container #hor-minimalist1 div.popup {
+    width: 16px;
+    height: 16px;
+}
+#main .container #hor-minimalist1 div.popup > div.ui-icon {
+    float: right;
+    position: static;
+}
+#main .container .disclaimer {
+	font: 12px helvetica, arial, sans-serif;
+}
+#main .container .disclaimer a {
+	color: #333;
+	text-decoration: underline;
+	font-size: 12px;
+}
+#main .container .disclaimer a:hover {
+	color: #d51d24;
+}
+#main .container ul > li > ul > li {
+	background: transparent url('../img/bullet.png') no-repeat 0 9px;
+	padding: 0 10px 12px 10px;
+}
+#main .container ul > li > ul > li.first {
+	background: none;
+	padding: 0;
+}
+#main .container > ul > li {
+	max-width: 33%;
+}
+#main .container > ul > li > ul {
+	float: left;
+	font-size: 18px;
+	position: relative;
+	padding: 100px 0 0 0;
+	min-width: 150px;
+	margin-right: 0;
+}
+#main .container > ul > li.middle-child {
+	float: right;
+	position: relative;
+	left: -50%;
+	text-align: left;
+}
+#main .container > ul > li.middle-child > ul {
+	position: relative;
+	left: 50%;
+	margin-left: 10px;
+}
+#main .container > ul > li:last-child {
+	position: absolute;
+	right: 0;
+	margin-right: 0;
+}
+#main .container > ul > li.last-child {
+	position: absolute;
+	right: 0;
+	margin-right: 0;
+}
+#main .container > ul > li > ul > li > div {
+	position: absolute;
+	left: 100px;
+	top: 35px;
+	z-index: 2;
+	font: 20px beval;
+	color: #000;
+}
+#main .container > ul > li:last-child > ul > div > div {
+	left: 92px;
+}
+#main .container > ul > li.last-child > ul > div > div {
+	left: 92px;
+}
+#main .container > ul > li > ul > li > img {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#main .container li > a {
+	font: 16px beval;
+	color: #666;
+}
+#main .container li > a:hover {
+	color: #d51d24;
+}
+#main .container .fullBody, #main .container .formBody {
+    margin: 0 0 0 0;
+}
+/* #main .container .formBody {
+    margin: 20px 0 25px 0;
+} */
+#main .container .fullBody h1 {
+	margin: 0 0 0 0;
+}
+#main .container .fullBody h2 {
+	padding: 15px 0 0 0;
+}
+#main .container .fullBody .noTopSpacing, #main .container .formBody .noTopSpacing {
+	padding-top: 0;
+}
+#main .container .fullBody ul.right {
+	float: right;
+    width: 40%;
+}
+#main .container .fullBody ul.left {
+	float: left;
+    width: 48%;
+}
+#main .container .formBody ul.left > li {
+	float: left;
+	margin: 0 52px 0 0;
+}
+#main .container ul.list {
+	list-style: disc;
+	margin: 0 0 0 20px;
+	padding: 0;
+}
+#main .container ul.list > li {
+	line-height: 1.5em;
+	margin: 10px 0;
+	max-width: inherit;
+}
+#main .container ul.list > li.first {
+	list-style: none;
+    margin: 0 0 10px 0;
+    text-indent: -20px;
+}
+#main .container ul.list > li.last {
+	margin: 0;
+	padding: 0;
+}
+#main .container ul.list > li:last-child {
+	position: static;
+}
+#main .container ul.list > .noTopSpacing {
+	margin-top: 0;
+	padding-top: 0;
+}
+#main .container ul.list > .noBotSpacing {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+#main .container ul.list > li > a {
+	font-family: helvetica, arial, sans-serif;
+}
+#main .container ul.noBullets {
+	list-style: none;
+	margin: 0 0 0 20px;
+	padding: 5px 0 10px 0;
+}
+#main .container ul.noBullets > li {
+	line-height: 1.5em;
+	margin: 15px 0;
+}
+#main .container ul.noBullets > li.first {
+	list-style: none;
+    margin: 15px 0 0 0;
+    text-indent: -15px;
+}
+#main .container ul.noBullets > li.last {
+	margin: 0;
+	padding: 0;
+}
+#main .container ul#cats > li {
+	margin-top: 0;
+}
+#main .container ul.noBullets > .cat {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+#main .container ul.noBullets > .noTopSpacing {
+	margin-top: 0;
+	padding-top: 0;
+}
+#main .container ul.noBullets > .noBottomSpacing {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+#main .container ul.twoColList {
+	list-style: url('../img/bullet_arrow.png');
+	margin: 0 0 20px 15px;
+}
+#main .container ul.glossary {
+	list-style: none;
+	margin: 0 0 20px 0;
+}
+#main .container ul.twoColList > li, #main .container ul.glossary > li {
+	line-height: 1.5em;
+	margin: 15px 0;
+}
+#main .container ul.twoColList > li.first, #main .container ul.glossary > li.first {
+	list-style: none;
+    margin: 15px 0 0 0;
+    text-indent: -15px;
+}
+#main .container ul.twoColList > li > a, #main .container ul.glossary > li > a {
+	font-family: helvetica, arial, sans-serif;
+}
+.red {
+    color: #d51d24;
+}
+#main .container hr {
+	border: 0;
+	border-bottom: 1px dashed #d51d24;
+	height: 0;
+	width: 100%;
+    position: absolute;
+    margin: 0;
+	padding: 0;
+	min-width: 457px;
+}
+#main .container hr.grey {
+	border: 0;
+	border-bottom: 1px dotted #ccc;
+	height: 0;
+	width: 100%;
+	position: static;
+    margin: 0;
+	padding: 0 0 0 12px;
+}
+#main .container .fullBody p, #main .container p {
+	line-height: 1.5em;
+	padding: 10px 0;
+}
+#main .container .quote, #main .container .fullBody > .quote {
+	position: relative;
+	font-style: italic;
+	width: 75%;
+	margin: 0 auto;
+	padding: 10px 0;
+	line-height: 2em;
+	z-index: 1;
+}
+#main .container .fullBody > div.quote {
+	padding-bottom: 20px;
+}
+#main .container p.quote > span.left {
+	/* position: absolute;
+	left: -30px;
+	top: 50px;
+	font-size: 1000%;
+	color: rgba(0,0,0,0.1);
+	z-index: 0; */
+	font-size: 18px;
+}
+#main .container p.quote > span.right {
+	/* position: absolute;
+	right: 0;
+	bottom: 0; */
+	font-size: 18px;
+}
+#main .container p.quote > span.emph {
+	color: #d51d24;
+	font-weight: bold;
+}
+#main .container p.last {
+	padding-top: 0;
+}
+#main .container p.first {
+	padding-top: 20px;
+}
+#main .container .fullBody strong {
+	font-weight: bold;
+	color: #d51d24;
+}
+#main .container .fullBody em {
+	font-weight: bold;
+	color: #333;
+}
+#main .container .fullBody em > a {
+	font-weight: bold;
+	color: #333;
+	text-decoration: underline;
+}
+#main .container .fullBody em > a:hover {
+	color: #d51d24;
+}
+#main .container .fullBody > ul.resultPages {
+	list-style: none;
+}
+#main .container .fullBody > ul.resultPages li {
+	float: left;
+	padding: 0 5px 0 0;
+}
+#main .container .fullBody > ul.resultPages li a {
+	font-family: helvetica, arial, sans-serif;
+}
+#main .container .fullBody > ul.resultPages li a.selectedPage {
+	color: #d51d24;
+}
+#main .container .fullBody > div {
+	margin: 30px 0;
+}
+#main .container .fullBody > div a.resultTitle {
+	color: #d51d24;
+	text-decoration: underline;
+}
+#main .container .fullBody > div a.resultTitle:hover {
+	color: #000;
+}
+#main .container .fullBody > div a.resultUrl {
+	color: #000;
+}
+#main .container .fullBody > div a.resultUrl:hover {
+	color: #d51d24;
+}
+#main .container a.buttonLink {
+    line-height: 25px;
+    height: 25px;
+    padding: 5px 40px;
+    background: #d51d24;
+    color: #fff;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+#main .container a.buttonLink:hover {
+    background: #333;
+}
+#main .container .formBody h1 {
+	margin: 0 0 10px 0;
+}
+#main .container .formBody form textarea {
+	width: 100%;
+	height: 145px;
+	border: 1px solid #ccc;
+	padding: 5px 0 0 10px;
+	margin: 5px 0;
+	line-height: 30px;
+	font: 16px helvetica, arial, sans-serif;
+	color: #333;
+	resize: vertical;
+}
+#main .container .formBody form textarea.required {
+	font-weight: bold;
+}
+#main .container .formBody form .textarea {
+	width: 100%;
+	padding: 0;
+	margin: 0 0 3px 0;
+}
+label.min {
+	min-width: 45px;
+}
+#main .container .formBody form input[type='text'] {
+	width: 100%;
+	height: 30px;
+	vertical-align: middle;
+	border: 1px solid #ccc;
+	padding: 0 0 0 10px;
+	line-height: 30px;
+	-moz-border-radius-bottomleft: 15px;
+	border-bottom-left-radius: 15px;
+	-moz-border-radius-topleft: 15px;
+	border-top-left-radius: 15px;
+	margin: 5px 0;
+	font-size: 16px;
+	color: #999;
+}
+#main .container .formBody form input[type='text'].table {
+	width: 40%;
+	height: 24px;
+	line-height: 24px;
+	margin: 5px 26px 5px 0;
+	white-space: nowrap;
+}
+#main .container .formBody form input[type='text'].dim {
+	width: 28%;
+	margin: 5px 26px 0 0;
+	float: left;
+	white-space: nowrap;
+}
+#main .container .formBody form input[type='text'].fourths {
+	width: 20%;
+	height: 30px;
+	border: 1px solid #000;
+	padding: 0 0 0 10px;
+	line-height: 30px;
+	-moz-border-radius-bottomleft: 15px;
+	border-bottom-left-radius: 15px;
+	-moz-border-radius-topleft: 15px;
+	border-top-left-radius: 15px;
+	margin: 5px 20px 0 0;
+	font-size: 16px;
+	color: #333;
+	float: left;
+	white-space: nowrap;
+}
+#main .container .formBody form input[type='text'].city {
+	width: 39%;
+	margin: 5px 26px 0 0;
+}
+#main .container .formBody form input[type='text'].state {
+	width: 15%;
+	margin: 5px 26px 0 0;
+}
+#main .container .formBody form input[type='text'].last {
+	margin: 5px 0 0 0;
+}
+#main .container .formBody select:focus, #main .container .formBody radio:focus, #main .container .formBody checkbox:focus, #main .container .formBody input[type='text']:focus, #main .container .formBody textarea:focus {
+	outline: none;
+	-moz-box-shadow: 2px 2px 8px rgba(0,0,0,0.25);
+	box-shadow: 2px 2px 8px rgba(0,0,0,0.25);
+}
+#main .container .formBody input[type='text'].form {
+	margin: 5px 0;
+	padding: 0 0 0 10px;
+	height: 30px;
+	vertical-align: top;
+	font: 
+	16px helvetica, arial, sans-serif;
+	border: 1px solid #ccc;
+	background: #fff;
+	color: #aaa;
+	width: 100%;
+	line-height: 30px;
+	-moz-border-radius-bottomleft: 15px;
+	border-bottom-left-radius: 15px;
+	-moz-border-radius-topleft: 15px;
+	border-top-left-radius: 15px;
+}
+#main .container .formBody input[type='text'].optional {
+	border: 1px solid #ccc;
+    box-shadow: none;
+}
+#main .container .formBody input[type='text'].placeholder {
+	color: #aaa;
+}
+#main .container .formBody input[type='text'].required {
+	border: 1px solid #ccc;
+	color: #333;
+	font-weight: bold;
+}
+#main .container .formBody div.formButtons {
+	margin: 15px 0 0 0;
+}
+#main .container .formBody div.mapContainer {
+	max-width: 667px;
+	max-height: 435px;
+}
+#main .container .formBody form input[type='submit'].cap {
+	background: #d51d24;
+	height: 32px;
+	border: none;
+	cursor: pointer;
+	margin: 5px 0;
+	padding: 0 15px;
+	text-transform: uppercase;
+	font-size: 11px;
+	color: #fff;
+	letter-spacing: 1px;
+	-moz-border-radius-bottomright: 15px;
+	border-bottom-right-radius: 15px;
+	-moz-border-radius-topright: 15px;
+	border-top-right-radius: 15px;
+}
+#main .container .formBody input[type='submit'].roundRed, #main .container .formBody input[type='button'].roundRed {
+	background: #d51d24;
+	height: 30px;
+	min-width: 70px;
+	border: none;
+	cursor: pointer;
+	margin: 0;
+	padding: 0 15px;
+	text-transform: uppercase;
+	font-size: 11px;
+	color: #fff;
+	letter-spacing: 1px;
+	-moz-border-radius: 15px;
+    border-radius: 15px;
+}
+#main .container .formBody input[type='submit'].roundRed:hover, #main .container .formBody input[type='button'].roundRed:hover, #main .container .formBody form input[type='submit'].cap:hover {
+	background: #333;
+}
+#main .container .formBody input[disabled='disabled'].roundRed, #main .container .formBody input[disabled='disabled'].roundRed:hover {
+	background: #ea8e91;
+	color: #fff;
+	cursor: default;
+}
+#main .container .formBody input[type='reset'].roundWhite {
+	background: #fff;
+	height: 30px;
+	min-width: 70px;
+	border: 1px solid #d51d24;
+	cursor: pointer;
+	margin: 0 20px 0 0;
+	padding: 0 10px;
+	text-transform: uppercase;
+	font-size: 11px;
+	color: #d51d24;
+	letter-spacing: 1px;
+	-moz-border-radius: 15px;
+    border-radius: 15px;
+}
+#main .container .formBody input[type='reset'].roundWhite:hover {
+	background: #333;
+	border: 1px solid #333;
+	color: #fff;
+}
+/* #main .container .formBody hr {
+	position: absolute;
+	border: 0;
+	border-bottom: 1px dashed #d51d24;
+	height: 1px;
+	right: 0;
+	bottom: -9px;
+	z-index: 2;
+	width: 100%;
+    margin: 0;
+    padding: 0;
+} */
+#main .container .formBody form {
+	width: 60%;
+    min-width: 425px;
+	padding: 0;
+}
+#main .container .formBody form.fullWidth {
+	width: 100%;
+}
+#main .container .formBody form.fullWidth input[type='radio'] {
+	margin: 0;
+	padding: 0;
+	height: 20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+#main .container .formBody form > div {
+	position: relative;
+	padding: 10px 0;
+	min-width: 447px;
+}
+#main .container .formBody form > div > p.originDesc {
+	padding: 5px 0 15px 0;
+}
+#main .container .formBody form > div.clonedInput {
+	padding: 0;
+}
+#main .container .formBody form > div.freight {
+	min-height: 90px;
+}
+#main .container .formBody form > div.noSpacing {
+	width: 100%;
+	min-height: 40px;
+	padding: 0;
+	margin: 0;
+}
+#main .container div.hrContainer {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+#main .container .formBody form > div.noBottomSpacing {
+	width: 100%;
+	min-height: 40px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+#main .container .formBody form > div.smallBottomSpacing {
+	width: 100%;
+	padding-bottom: 10px;
+	margin-bottom: 0;
+}
+#main .container .formBody form > div.thirds {
+	padding: 0;
+	margin: 0 0 25px 0;
+}
+#main .container .formBody form > div.clonedInput {
+	padding: 0;
+	margin: 0 0 5px 0;
+}
+#main .container .formBody form > div.last {
+	margin: 0;
+}
+#main .container .formBody form > div#dimensions > p {
+	padding: 0;
+	margin: 0;
+	color: #d51d24;
+}
+
+#main .container .formBody form > div.thirds div > ul > li, #main .container .formBody form > div.clonedInput div.thirds > ul > li {
+	padding: 0;
+	margin: 0;
+	line-height: 40px;
+	width: 33%;
+	float: left;
+}
+#main .container .formBody form > div#dimensions {
+	margin: 0;
+	padding: 15px 0;
+}
+#main .container .formBody form > div#dimensions div > input[type='text'].last, #main .container .formBody form > div.thirds div > input[type='text'].last, #main .container .formBody form > div.clonedInput div > input[type='text'].last {
+	position: absolute;
+	right: -12px;
+}
+#main .container .formBody form > div#dimensions div.radio > ul {
+	margin: 0;
+}
+#main .container .formBody form > div#dimensions div.radio > ul > li {
+	padding: 0 20px 0 0;
+	margin: 0;
+	line-height: 40px;
+	float: left;
+}
+#main .container .formBody form ul.files > li {
+	margin: 0;
+	padding: 5px 0;
+}
+#main .container .formBody form ul.files label {
+	margin: 0;
+	padding: 5px 0;
+}
+#main .container .formBody form ul.files > li.first {
+	padding-top: 0;
+}
+#main .container .formBody form ul.files > li.last {
+	padding-bottom: 0;
+}
+#main .container .formBody form > div#dimensions div.radio > ul.subDim {
+	margin: 0;
+	padding: 0;
+	height: 20px;
+	position: relative;
+}
+#main .container .formBody form > div#dimensions div.radio > ul.subDim > li {
+	padding: 0 20px 0 0;
+	margin: 0;
+	line-height: 20px;
+	height: 20px;
+	float: left;
+}
+#main .container .formBody form div.radio > ul.subDim > li.required {
+	color: #333;
+}
+#main .container .formBody form > div#dimensions div.radio > ul.subDim li > input[type="radio"] {
+	height: 20px;
+	vertical-align: middle;
+}
+#main .container .formBody form div.halves {
+	height: 42px;
+}
+#main .container .formBody form > div.fourths {
+	margin: 0;
+	padding: 0;
+}
+#main .container .formBody form > div.fourths div > input[type='text'].last {
+	position: absolute;
+	right: -12px;
+}
+#main .container .formBody form > div.afterFloat {
+	margin: 5px 0 0 0;
+}
+#main .container .formBody form > h2.afterFloat {
+	margin: 10px 0 0 0;
+}
+#main .container .formBody form > div > div {
+	min-width: 447px;
+	width: 100%;
+	padding: 0;
+}
+#main .container .formBody form > div > div > label {
+	position: absolute;
+	left: 16px;
+	white-space: nowrap;
+}
+#main .container .formBody form > div > div.min {
+	min-width: 447px;
+    position: relative;
+	width: 100%;
+	height: 84px;
+	padding: 0;
+	margin: 0;
+}
+#main .container .formBody form > div > div.min1 {
+	min-width: 447px;
+    position: relative;
+	width: 100%;
+	min-height: 42px;
+	padding: 0;
+	margin: 10px 0 0 0;
+}
+#main .container .formBody form > div > div.location {
+	min-height: 80px;
+}
+#main .container .formBody input[type='checkbox'] {
+	padding: 0;
+	margin: 0 3px 0 0;
+	height: 20px;
+	line-height: 20px;
+	vertical-align: middle;
+}
+#main .container .formBody input[type='checkbox'].left {
+	float: left;
+}
+#main .container .formBody form > div > div.checkboxContainer {
+	margin: 0;
+	font-size: 14px;
+	position: relative;
+}
+#main .container .formBody form > div > div.checkboxContainer1 {
+	height: 100px;
+}
+#main .container .formBody form > div > div.checkboxContainer ul {
+	float: left;
+	height: 100%;
+	margin: 0 0 0 20px;
+}
+#main .container .formBody form > div > div.checkboxContainer ul.right {
+	float: none;
+	position: absolute;
+	right: 0;
+}
+#main .container .formBody form > div > div.checkboxContainer ul > li {
+	height: 24px;
+	line-height: 24px;
+	max-width: 230px;
+}
+#main .container .formBody form > div > div.checkboxContainer ul > li input[type='checkbox']{
+	height: 24px;
+	vertical-align: middle;
+	margin: 0 5px 0 0;
+	padding: 0;
+	float: left;
+}
+#main .container .formBody form > div > div.checkboxContainer ul > li label {
+	height: 24px;
+	line-height: 24px;
+	vertical-align: middle;
+	float: left;
+}
+#main .container .formBody form > div > div.checkboxContainer ul > li > div {
+	float: left;
+	margin: 0 15px 0 0;
+}
+#main .container .formBody form > div > div.checkboxContainer ul > li a {
+	font-size: 14px;
+}
+#main .container .formBody input[type='text'].checkbox {
+	padding: 0 2px;
+	width: 80px;
+	height: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	font: 14px helvetica, arial, sans-serif;
+	border: 1px solid #000;
+	background: #fff;
+	color: #333;
+	line-height: 16px;
+	margin: 0 0 0 2px;
+}
+#main .container .formBody input[type='text'].originzip {
+	width: 100%;
+	padding: 0px 4px;
+	height: 24px;
+	display: inline-block;
+	vertical-align: middle;
+	font: 14px helvetica, arial, sans-serif;
+	border: 1px solid #000;
+	background: #fff;
+	color: #333;
+	line-height: 24px;
+	margin: 2px 0 0 0;
+	text-align: center;
+	-moz-border-radius-bottomleft: 0;
+	border-bottom-left-radius: 0;
+	-moz-border-radius-topleft: 0;
+	border-top-left-radius: 0;
+}
+#main .container .formBody form div.radio {
+	min-width: 447px;
+    position: relative;
+	width: 100%;
+	padding: 0;
+	margin: 10px 0;
+}
+#main .container .formBody form div.radio input[type='radio'].required {
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    height: 22px;
+
+}
+#main .container .formBody form div.radio label {
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    display: inline-block;
+}
+#main .container .formBody form div.radio p {
+	padding: 0;
+	margin: 0;
+	line-height: 40px;
+}
+#main .container .formBody form div.radio > div {
+	padding: 0;
+	margin: 0;
+}
+#main .container .formBody form div.radio > div > div {
+	padding: 0 20px 0 0;
+	margin: 0;
+	float: left;
+}
+#main .container .formBody form div.radio > ul {
+	padding: 0;
+	margin: 0;
+}
+#main .container .formBody form div.radio > ul > li {
+	padding: 0 20px 0 0;
+	margin: 0;
+	float: left;
+}
+#main .container .formBody form > div > div.small-dropdown {
+	position: relative;
+}
+#main .container .formBody form > div > div.small-dropdown > div {
+	position: absolute;
+	top: 37px;
+}
+#main .container .formBody form > div > div.small-dropdown > input[type='text'] {
+	margin: 0;
+	float: left;
+	width: 40%;
+}
+#main .container .formBody form > div > div.min > div > div.location input.selectbox, #main .container .formBody form > div > div.min1 > div > div.location input.selectbox {
+    border: 1px solid #000;
+    width: 100%;
+}
+#main .container .formBody form > div > div.radio > .select-date, #main .container .formBody form > div.fourths > div .select-date {
+    float: left;
+    white-space: nowrap;
+}
+#main .container .formBody form div.radio > .thirds > .select-date > p {
+    margin-right: 20px;
+    min-width: 100px;
+}
+#main .container .formBody form  .month {
+    width: 80px;
+    margin-right: 30px;
+}
+#main .container .formBody form .day {
+    width: 70px;
+    margin-right: 30px;
+}
+#main .container .formBody form .year {
+    width: 90px;
+}
+#main .container .formBody form > div .package {
+    width: 100%;
+    margin-top: 10px;
+}
+#main .container .formBody form div.radio > .thirds > div, #main .container .formBody form .fourths > div > div {
+    margin-right: 15px;
+    position: relative;
+}
+#main .container .formBody form div.radio > .thirds > div.month, #main .container .formBody form div.radio > .thirds > div.day {
+    margin-right: 10px;
+}
+#main .container .formBody form div.radio > .thirds > .last, #main .container .formBody form div.radio > .thirds > .first {
+    padding: 0;
+    line-height: 40px;
+}
+#main .container .formBody form div.radio > .thirds > .last, #main .container .formBody form div.radio > .thirds > div {
+	margin-right: 0;
+}
+#main .container div.spacer {
+	clear: both;
+    margin: 0;
+	padding: 0;
+    height: 25px;
+    width: 100%;
+}
+#main .container div.spacer1 {
+	clear: both;
+    margin: 0;
+	padding: 0;
+    height: 10px;
+    width: 100%;
+}
+#main .container div.spacer2 {
+	clear: both;
+    margin: 0;
+	padding: 0;
+    height: 20px;
+    width: 100%;
+}
+#main .container div.spacer3 {
+	clear: both;
+    margin: 0;
+	padding: 0;
+    height: 15px;
+    width: 100%;
+}
+#main .container div.spacer5 {
+	clear: both;
+    margin: 0;
+	padding: 0;
+    height: 5px;
+    width: 100%;
+}
+#main .container .formBody form > div.spacer1, #main .container .formBody form > div.spacer2, #main .container .formBody form > div.spacer3, #main .container .formBody form > div.spacer5 {
+	padding: 0;
+}
+#main .container .formBody form > div > div input[type='text'], #main .container .formBody div.min select, #main .container .formBody div.min1 select {
+}
+#main .container .formBody form > div > div input[type='text'].left, #main .container .formBody div.min .left, #main .container .formBody div.min1 .left, #main .container .formBody div.halves .left {
+	position: absolute;
+	left: 0;
+    width: 40%;
+    min-width: 40%;
+}
+#main .container .formBody div#disposition .small {
+    width: 100%;
+}
+#main .container .formBody div#disposition > ul {
+	margin: 10px 0 0 0;
+}
+#main .container .formBody div#disposition > ul > li {
+	padding: 10px 0;
+}
+#main .container .formBody div#disposition > ul > li > div {
+	text-align: center;
+	vertical-align: middle;
+	margin: 0;
+}
+#main .container .formBody div#disposition > ul > li > label {
+	padding: 0 5px;
+	line-height: 20px;
+	vertical-align: middle;
+}
+#main .container .formBody div#disposition > ul > li > input[type='radio'] {
+	padding: 0;
+	margin: 0 3px 0 0;
+	height: 20px;
+	vertical-align: middle;
+}
+#main .container .formBody div#disposition > ul > li > div label {
+	padding: 0 5px;
+	line-height: 30px;
+	height: 30px;
+	vertical-align: middle;
+}
+#main .container .formBody div#disposition > ul > li > div input[type='radio'] {
+	padding: 0;
+	margin: 0;
+	height: 30px;
+	vertical-align: middle;
+}
+#main .container .formBody form > div > div#disposition select {
+	border: 1px solid #000;
+	width: 220px;
+	font: 14px helvetica, arial, sans-serif;
+	padding: 5px;
+}
+#main .container .formBody div#disposition > ul#pointsListing {
+	position: relative;
+	min-height: 260px;
+}
+#main .container .formBody div#disposition > ul#pointsListing > li {
+	float: left;
+	position: relative;
+}
+#main .container .formBody div#disposition > ul#pointsListing > li > div.desc {
+	position: absolute;
+	bottom: -20px;
+	left: 8px;
+}
+#main .container .formBody div#disposition > ul#pointsListing > li.first {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#main .container .formBody div#disposition > ul#pointsListing > li.last {
+	position: absolute;
+	right: -12px;
+	top: 0;
+}
+#main .container .formBody form > div > div.min > ul > li, #main .container .formBody form > div > div.min1 > ul > li {
+	float: left;
+}
+#main .container .formBody div.min div > div .zip, #main .container .formBody div.min1 div > div .zip {
+	width: 60%;
+	position: absolute;
+	right: -12px;
+}
+#main .container .formBody div.min div.left div p, #main .container .formBody div.min1 div.left div p {
+	line-height: 40px;
+	vertical-align: middle;
+	padding: 0;
+	margin: 0;
+}
+#main .container .formBody form > div > div > input[type='text'].right {
+	position: absolute;
+	right: -12px;
+    width: 40%;
+    min-width: 40%;
+}
+#main .container .formBody div.min .right, #main .container .formBody div.min1 .right {
+	position: absolute;
+	right: 0;
+	width: 40%;
+	min-width: 40%;
+}
+#main .hero {
+	width: 100%;
+}
+#main h1 {
+	margin: 40px 0 10px 0;
+	font-weight: normal;
+	font-size: 30px;
+}
+#main .upperLink {
+	color: #d51d24;
+	font: 14px helvetica, arial, sans-serif;
+	text-transform: uppercase;
+}
+#main a:hover {
+	color: #000;
+}
+#sidebar {
+	width: 350px;
+	float: right;
+	padding: 24px 0 0 15px;
+}
+#sidebar .container {
+	width: 300px;
+	margin: 0 50px 0 0;
+	float: right;
+}
+#sidebar .container > div {
+	margin-left: 10px;
+}
+#sidebar #announcing {
+	position: relative;
+	border-bottom: 1px dashed #fd030d;
+}
+#sidebar #announcingInc {
+	position: relative;
+	height: 220px;
+	margin: 0 0 0 10px;
+}
+#sidebar #announcingIncImg {
+	position: absolute;
+	top: 70px;
+	left: 0;
+	background: url('../img/img_phones.png') no-repeat 50% 0;
+	width: 239px;
+	height: 150px;
+	padding: 0 25px;
+	border-bottom: 1px dashed #fd030d;
+}
+#sidebar #announcing h2, #sidebar #announcingInc h2 {
+	position: absolute;
+	right: 25px;
+	top: 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: bold;
+	font-size: 13px;
+}
+#sidebar #announcing img {
+	margin: 48px 0 22px 25px;
+}
+#sidebar #announcingInc img {
+
+}
+#sidebar #quicktrack, #sidebar #dapply {
+	text-align: right;
+	position: relative;
+	border-bottom: 1px dashed #fd030d;
+	border-width: 1px;
+}
+#sidebar #returning {
+	text-align: left;
+	position: relative;
+	border-bottom: 1px dashed #fd030d;
+	border-width: 1px;
+	height: 120px;
+}
+#sidebar h1 {
+	text-align: left;
+	margin: 0 0 10px 0;
+}
+#sidebar #quicktrack form {
+	margin: 10px 30px 20px 0;
+}
+#sidebar #returning img {
+	position: absolute;
+	top: 25px;
+	right: 30px;
+}
+#sidebar #returning p {
+	position: absolute;
+	left: 30px;
+	top: 40px;
+	width: 120px;
+	font: normal 16px beval;
+	line-height: 1.25em;
+}
+#sidebar #returning a {
+	color: #666;
+}
+#sidebar #returning a:hover {
+	color: #d51d24;
+}
+#sidebar #quicktrack input[type='text']:focus, #sidebar #returning input[type='text']:focus {
+	outline: none;
+}
+#sidebar #quicktrack input[type='text'], #sidebar #returning input[type='text'] {
+	background: #fff;
+	width: 174px;
+	padding: 0 0 0 10px;
+	margin: 0 -4px 10px 0;
+	line-height: 20px;
+	height: 20px;
+	vertical-align: top;
+	border: 1px solid #ccc;
+	color: #333;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+}
+#sidebar #quicktrack input[type='submit'], #sidebar #returning input[type='submit'] {
+	background: #d51d24;
+	width: 52px;
+	height: 22px;
+	border: none;
+	cursor: pointer;
+	padding: 0;
+	margin: 0 0 0 -1px;
+	vertical-align: top;
+	color: #fff;
+	font: 9px helvetica, arial, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	line-height: 22px;
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+}
+#sidebar #quicktrack input[type='submit']:hover, #sidebar #returning input[type='submit']:hover {
+	color: #fff;
+	background: #333;
+}
+#sidebar #dapply p {
+	font-family: beval, helvetica, arial, sans-serif;
+	margin: 35px 0 0 30px;
+	width: 115px;
+	color: #666;
+	float: left;
+	border-width: 1px;
+	line-height: 1.25em;
+	text-align: left;
+}
+#sidebar #isaia {
+	position: relative;
+	height: 110px;
+	border-bottom: 1px dashed #fd030d;
+}
+#sidebar #isaia a {
+	color: #666;
+}
+#sidebar #isaia a:hover {
+	color: #d51d24;
+}
+#sidebar #isaia p {
+	position: absolute;
+	left: 15px;
+	bottom: 30px;
+	font: 18px beval;
+}
+#sidebar #isaia h1 {
+	position: absolute;
+	left: 0;
+	top: 20px;
+}
+#sidebar #isaia #trophy {
+	background: url('../img/img_trophy.png');
+	width: 100px;
+	height: 80px;
+	position: absolute;
+	right: 15px;
+	bottom: 0;
+}
+#sidebar #tracking, #sidebar #returning {
+	margin: 20px 0 0 10px;
+	border-bottom: 1px dashed #fd030d;
+	border-width: 1px;
+}
+#sidebar #tracking p {
+	font-family: beval, helvetica, arial, sans-serif;
+	margin: 20px 0 0 30px;
+	width: 115px;
+	color: #666;
+	float: left;
+	border-width: 1px;
+	line-height: 1.25em;
+}
+#sidebar #tracking a, #sidebar #dapply a {
+	color: #666;
+	text-decoration: none;
+	font-size: 17px;
+}
+#sidebar #tracking a:hover, #sidebar #dapply a:hover {
+	color: #d51d24;
+}
+#sidebar #newsBrief {
+	margin: 20px 0 0 10px;
+	position: relative;
+}
+#sidebar #csi {
+	margin: 20px 0 0 10px;
+	position: relative;
+}
+#sidebar #csi h2 {
+	position: absolute;
+	right: 25px;
+	top: 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: bold;
+	font-size: 13px;
+}
+#sidebar #csi img {
+	margin: 15px 0 0 0;
+	width: 221px;
+	height: 126px;
+}
+#sidebar #csi div#csi-cats {
+	position: absolute;
+	left: 0px;
+	top: 60px;
+	font: 11px helvetica, arial, sans-serif;
+	color: #fff;
+	line-height: 20px;
+	width: 290px;
+	background: transparent;
+}
+#sidebar #csi div#csi-cats > ul {
+	width: 260px;
+}
+#sidebar #csi div#csi-cats > ul > li {
+	position: relative;
+	padding: 0 0 0 0;
+	margin-bottom: 8px;
+	background: #d51d24 url('../img/img_csi_r.png') repeat-x 0 0;
+	box-shadow: 2px 2px 6px rgba(0,0,0,0.8);
+}
+#sidebar #csi div#csi-cats > ul > li:last-child {
+	margin-bottom: 0;
+}
+#sidebar #csi div#csi-cats > ul > li.last-child {
+	margin-bottom: 0;
+}
+#sidebar #csi div#csi-cats > ul > li > span {
+	padding-left: 8px;
+}
+#sidebar #csi div#csi-cats > ul > li > p {
+	position: absolute;
+	top: 0;
+	right: -37px;
+	font: bold 11px helvetica, arial, sans-serif;
+	color: #000;
+	z-index: 1;
+	line-height: 20px;
+}
+#sidebar #shipping {
+	margin: 20px 0 0 10px;
+}
+#sidebar #newsBrief {
+	margin: 0 0 20px 10px;
+	border-bottom: 1px dashed #d51d24;
+}
+#sidebar #shipping ul, #sidebar #newsBrief ul {
+	width: 250px;
+	margin: 10px 0 20px 25px;
+}
+#sidebar #shipping ul li {
+	height: 42px;
+	line-height: 42px;
+	padding: 0 8px 0 8px;
+	border-bottom: 1px solid #888;
+}
+#sidebar #newsBrief ul li {
+	padding: 10px 8px;
+	border-bottom: 1px solid #888;
+}
+#sidebar #shipping ul li:last-child, #sidebar #newsBrief ul li:last-child {
+	border: none;
+}
+#sidebar #shipping ul li.last-child, #sidebar #newsBrief ul li.last-child {
+	border: none;
+}
+#sidebar #shipping ul li a, #sidebar #newsBrief ul li a {
+	text-decoration: none;
+	font: 17px beval, helvetica, arial, sans-serif;
+	color: #666;
+	line-height: 1.25em;
+}
+#sidebar #shipping ul li a:hover, #sidebar #newsBrief ul li a:hover {
+	color: #d51d24;
+}
+#sidebar #shipping ul li a img, #sidebar #newsBrief ul li a img {
+	float: right;
+	height: 42px;
+}
+
+/* table styling */
+#hor-minimalist a, #hor-minimalist1 a, #hor-minimalist2 a {
+	font-size: 14px;
+}
+#hor-minimalist, #hor-minimalist1, #hor-minimalist2 {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	width: 100%;
+	border-collapse: collapse;
+	text-align: left;
+}
+#hor-minimalist th+th, #hor-minimalist td+td {
+	text-align: center;
+	padding: 10px 10px;
+}
+#hor-minimalist1 th+th, #hor-minimalist1 td+td, #hor-minimalist2 th+th, #hor-minimalist2 td+td {
+	text-align: left;
+	padding: 10px 10px;
+}
+#hor-minimalist1 tbody.spanned td, #hor-minimalist2 tbody.spanned td {
+	padding: 10px 10px;
+}
+#hor-minimalist1 tbody.spanned td.noPad, #hor-minimalist2 tbody.spanned td.noPad {
+	padding: 10px 0;
+}
+#hor-minimalist th, #hor-minimalist1 th, #hor-minimalist2 th {
+	font-size: 14px;
+	font-weight: bold;
+	color: #000;
+	padding: 10px 0;
+	border-bottom: 1px solid #999;
+    vertical-align: bottom;
+}
+#hor-minimalist td, #hor-minimalist1 td, #hor-minimalist2 td {
+	padding: 6px 0;
+}
+#hor-minimalist tr, #hor-minimalist1 tr, #hor-minimalist2 tr {
+	border-bottom: 1px solid #ccc;
+	color: #666;
+}
+#hor-minimalist2 tr:nth-child(even) {
+	border-bottom: 1px solid #ccc;
+	color: #666;
+}
+#hor-minimalist2 tr:nth-child(odd) {
+	border-bottom: 1px dashed #eee;
+	color: #666;
+}
+#hor-minimalist tbody tr.currentRate, #hor-minimalist1 tbody tr.currentRate, #hor-minimalist2 tbody tr.currentRate {
+    color: #d51d24;
+}
+#hor-minimalist tfoot td, #hor-minimalist1 tfoot td, #hor-minimalist2 tfoot td {
+    border: none;
+    padding: 10px 0 10px 0;
+    text-align: left;
+    color: #d51d24;
+}
+#hor-minimalist tfoot tr, #hor-minimalist1 tfoot tr, #hor-minimalist2 tfoot tr {
+    border: none;
+}
+
+/* listnav styling */
+.listNav {
+	margin: 0;
+}
+.ln-letters {
+	overflow: hidden;
+}
+.ln-letters a {
+	font-size: 0.9em;
+	display: block;
+	float: left;
+	padding: 2px 6px;
+	border: 1px solid #ccc;
+	border-right: none;
+	text-decoration: none;
+	margin: 0 0 8px 0;
+}
+.ln-letters a.ln-last {
+	border-right: 1px solid silver;
+}
+.ln-letters a:hover, .ln-letters a.ln-selected {
+	background-color: #eee;
+}
+.ln-letters a.ln-disabled {
+	color: #ccc;
+}
+.ln-letter-count {
+	text-align: center;
+	font-size: 0.8em;
+	line-height: 1;
+	margin-bottom: 3px;
+	color: #333;
+}

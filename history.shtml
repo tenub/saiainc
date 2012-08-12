@@ -1,0 +1,59 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<img class="hero" src="assets/img/hero-ltl-index.jpg" alt="Truck Driving on Bridge" />
+						<h1>History</h1>
+    					<p>Louis Saia, Sr., a produce dealer in Houma, LA, started Saia Motor Freight Line in 1924 in response to the many requests he received from his customers to haul their goods, along with his produce, from Houma to New Orleans. Realizing that it was more profitable to exclusively haul freight, Louis, Sr. quit the produce business and established his trucking company. In the early days, the company was run by Louis, Sr. and his wife, Christine. Their sons, Louis, Jr. and his brothers would remove the rear seat from the family automobile to deliver the small package shipments that had arrived in Houma for their customers.</p>
+
+						<p>Over the next few decades, Saia continued to expand by establishing terminals throughout Louisiana and Texas. In 1980, an application by the carrier to service several additional Southern states was approved. With that expansion, Saia became one of the premier regional less-than-truckload carriers in the United States. During the early to mid-1980s, under the guidance of Louis, Jr. and his brothers, Saia grew into a formidable regional carrier with approximately 1000 employees. In 1981, under their leadership, Saia saw gross revenue of about $52 million.</p>
+
+						<p>The family sold the business to Preston Trucking Company in 1987. Saia was bought by Yellow Corporation in 1993. At that time, Saia had 23 terminals and limited coverage in five states.</p>
+
+						<p>In 1995, Yellow merged Saia with Smalley Transportation, which expanded the company into a nine-state service area. During that same year, Saia opened terminals in North and South Carolina and western Texas, providing customers with 100% coverage of 11 Southern states.</p>
+
+						<p>In 1996, Saia moved its corporate headquarters to a suburb of Atlanta, GA.</p>
+
+						<p>In January 2001, sister companies, Action Express and WestEx were integrated into Saia under the company's brand name, expanding direct coverage into 21 states with more than 100 terminals and over 5,000 employees.</p>
+
+						<p>Yellow Corporation created a regional holding company, SCS Transportation, based in Kansas City, Mo. in 2002. SCS Transportation, Inc. had two operating subsidiaries - Saia and Jevic Transportation. SCST was spun off by Yellow and on October 1, 2002 became an independent, publicly traded company on NASDAQ.</p>
+
+						<p>In 2004, SCST announced the acquisition of another transportation company, Clark Brothers Transport Inc., integrating nine states and 16 terminals into the Saia network and providing the carrier with coverage in key Midwestern areas, including Chicago, St. Louis, Kansas City and Minneapolis.</p>
+
+						<p>In 2006, SCST announced the successful sale of Jevic Transportation to a private investment group and the move of all its corporate functions from Kansas City to Saia's headquarters in Georgia. SCST functions were folded into Saia and the single company re-branded and publicly traded under the Saia brand on NASDAQ with the ticker symbol "SAIA." Additionally, Saia has two general offices - one in its hometown of Houma and another in Boise, Idaho.</p>
+
+						<p>In 2007, Saia announced the acquisitions of two Midwestern LTL carriers, The Connection Company and Madison Freight Systems, Inc., expanding direct coverage to additional Midwestern states including Indiana, Kentucky, Michigan and Ohio and 100% coverage of Wisconsin. In 2008, Saia became the first less-than-truckload, non-bulk carrier in the United States to receive the distinction of being certified RC14001&reg;.</p>
+
+						<p>The company also launched a unique yearlong breast cancer awareness campaign, "Saia on the Road with Susan G. Komen for the Cure" and for the first time in company history, had over a billion dollars in gross revenue.
+						In 2009, Saia began installing cutting-edge Iteris software on all new tractors - helping drivers to avoid accidents. Saia was also the recipient of three prestigious customer awards. Unishippers Global Logistics LLC named Saia its "Strategic Carrier Partner of the Year;" Beauty Systems Group, a division of Sally Beauty Holdings, Inc. selected Saia as its " Outbound Carrier of the Year;" and Lowe's recognized Saia with their "Bronze Team Award" for our GAP performance.</p>
+
+						<p>Additionally, the company was honored with two awards for its exemplary 2009 safety record at the American Trucking Association Safety Management Council's recent Safety and Human Resources National Conference and Exhibition held in Rogers, AR. Saia took first place honors in the "General Commodities LTL/Local" category for companies driving 50 to 100 million miles. In addition to this award, the company placed third in the "General Commodities LTL/Linehaul" category for companies driving over 70 million miles.</p>
+
+						<p>In 2010, Saia was named the 2009-2010 Interregional Carrier of the Year by CoLinx, LLC, a manufacturer-owned provider of shared e-commerce and logistics services in North America. The company also announced a new pick-up and delivery software program that provides greater fuel efficiency while significantly enhancing Saia's customer service.</p>
+
+						<p>In 2011, Saia launched its newest Customer Service Indicator, Exception-free Delivery. The metric measures the percent of shipments that are delivered without a noted exception. Saia is the only carrier in the less-than-truckload industry to report on this critical measurement.</p>
+
+						<p>Since its humble beginnings, Saia has become one of the most successful carriers in the United States, ranking in the top ten of carriers in the LTL sector. The company has coverage in 34 states through a network of 147 terminals and approximately 7,500 employees. Additionally, Saia provides service to the balance of the United States including Alaska and Hawaii as well as service to Puerto Rico, Canada and Mexico. Services and products offered include regional and interregional LTL service, our Customer Service Indicators, the industry-leading Xtreme Guarantee, the Guaranteed Select suite of products, assembly and distribution, and selected truckload services.</p>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

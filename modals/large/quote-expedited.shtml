@@ -1,0 +1,210 @@
+<div>
+                                <h2>Expedited Quote</h2>
+                                <p>To get a quote, please enter shipment information below. This is only a quote; to arrange a pick-up of your Guaranteed Select shipment please call 1-888-999-SAIA (1-888-999-7242) and supply the quote number. For any other customer service issues please call 1-800-765-7242.</p>
+                            </div>
+                            <div class="spacer1"></div>
+                            <hr />
+                            <div class="spacer2"></div>
+                            <div class="formBody">
+                                <h2>Requestor Information</h2>
+                                <form>
+                                    <div>
+                                        <input type="text" placeholder="E-mail Address" name="requestor_info" id="requestor_email" class="required" />
+                                        <input type="text" placeholder="Contact Name" name="requestor_info" id="requestor_contact_name" class="required" />
+                                        <input type="text" placeholder="Company Name" name="requestor_info" id="requestor_company_name" class="required" />
+                                        <div class="halves">
+                                            <input type="text" placeholder="Phone Number" name="requestor_info" id="requestor_tele_num" class="left required" />
+                                            <input type="text" placeholder="Fax Number" name="requestor_info" id="requestor_fax_num" class="right required" />
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="radio">
+                                            <p class="required">Contract already in place?</p>
+                                            <ul>
+                                                <li>
+                                                    <input type="radio" name="contract_place" id="contract_yes" class="required" />
+                                                    <label for="contract_yes">Yes</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="contract_place" id="contract_no" class="required" />
+                                                    <label for="contract_no">No</label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="radio">
+                                            <p class="required">Is shipment ready for pickup?</p>
+                                            <ul>
+                                                <li>
+                                                    <input type="radio" name="ship_ready" id="ready_yes" class="required" />
+                                                    <label for="ready_yes">Yes</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="ship_ready" id="ready_no" class="required" />
+                                                    <label for="contract_no">No</label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="spacer1"></div>
+                                    </div>
+                                    <hr />
+                                    <div class="spacer2"></div>
+                                    <h2>Shipper Information</h2>
+                                    <div class="noBottomSpacing">
+                                        <input type="text" placeholder="Company Name" name="shipper_info" id="shipper_company_name" class="required" />
+                                        <input type="text" placeholder="Contact Name" name="shipper_info" id="shipper_contact_name" class="required" />
+                                        <input type="text" placeholder="Address" name="shipper_info" id="shipper_address" class="required" />
+                                    </div>
+                                    <div class="thirds">
+                                        <div>
+                                            <input type="text" placeholder="City" name="shipper_info" id="shipper_city" class="city required" />
+                                            <input type="text" placeholder="State" name="shipper_info" id="shipper_state" class="state required" />
+                                            <input type="text" placeholder="Zipcode" name="shipper_info" id="shipper_zipcode" class="dim last required" />
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="noSpacing">
+                                        <div class="halves">
+                                            <input type="text" placeholder="Account Number" name="shipper_info" id="shipper_acc_num" class="left required" />
+                                            <input type="text" placeholder="Sales Rep" name="shipper_info" id="shipper_sales_rep" class="right required" />
+                                        </div>
+                                    </div>
+                                    <div class="spacer2"></div>
+                                    <hr />
+                                    <div class="spacer2"></div>
+                                    <h2>Consignee Information</h2>
+                                    <div class="noBottomSpacing">
+                                        <input type="text" placeholder="Company Name" name="consignee_info" id="consignee_company_name" class="required" />
+                                        <input type="text" placeholder="Contact Name" name="consignee_info" id="consignee_contact_name" class="required" />
+                                        <input type="text" placeholder="Address" name="consignee_info" id="consignee_address" class="required" />
+                                    </div>
+                                    <div class="thirds">
+                                        <div>
+                                            <input type="text" placeholder="City" name="consignee_info" id="consignee_city" class="city required" />
+                                            <input type="text" placeholder="State" name="consignee_info" id="consignee_state" class="state required" />
+                                            <input type="text" placeholder="Zipcode" name="consignee_info" id="consignee_zipcode" class="dim last required" />
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="noSpacing">
+                                        <input type="text" placeholder="Phone Number" name="consignee_info" id="consignee_phone_num" class="required" />
+                                    </div>
+                                    <div class="spacer2"></div>
+                                    <hr />
+                                    <div class="spacer2"></div>
+                                    <h2>Freight Information</h2>
+                                    <div class="noBottomSpacing">
+                                        <textarea placeholder="Freight Description" name="freight_info" id="freight_desc" class="required"></textarea>
+                                    </div>
+                                    <div class="noSpacing">
+                                        <input type="text" placeholder="Freight Dimensions" name="freight_info" id="freight_dim" class="required" />
+                                        <label for="freight_dim" style="margin:0 0 0 10px;">(Example: 82' x 4' x 10&quot;)</label>
+                                    </div>
+                                    <div>
+                                        <div class="radio">
+                                            <ul>
+                                                <li class="required">Freight Type:</li>
+                                                <li>
+                                                    <input type="radio" name="freight_type" id="freight_pieces" class="required" />
+                                                    <label for="freight_pieces">Pieces</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="freight_type" id="freight_pallets" class="required" />
+                                                    <label for="freight_pallets">Pallets</label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div>
+                                            <input type="text" placeholder="Quantity" name="freight_info" id="freight_quantity" class="left required" />
+                                        </div>
+                                    </div>
+                                    <div class="spacer2"></div>
+                                    <div>
+                                        <div class="radio">
+                                            <ul>
+                                                <li class="required">Hazardous Material:</li>
+                                                <li>
+                                                    <input type="radio" name="hazardous" id="haz_yes" class="required" />
+                                                    <label for="haz_yes">Yes</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="hazardous" id="haz_no" class="required" />
+                                                    <label for="haz_no">No</label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="radio" style="margin:0;padding:0;">
+                                            <ul>
+                                                <li><p>If yes:</p></li>
+                                                <li>
+                                                    <input type="text" placeholder="Enter Unit Number" id="haz_unit" class="required" />
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="spacer1"></div>
+                                    <div class="noSpacing">
+                                        <div class="halves">
+                                            <input type="text" placeholder="Class" name="freight_info" id="freight_class" class="left required" />
+                                            <input type="text" placeholder="Weight (lbs)" name="freight_info" id="freight_weight" class="right required" />
+                                        </div>
+                                    </div>
+                                    <div class="spacer2"></div>
+                                    <hr />
+                                    <div class="spacer1"></div>
+                                    <div>
+                                        <h3>Pickup</h3>
+                                        <div class="min">
+                                            <div class="left">
+                                                <div><input type="text" placeholder="MM/DD/YY" name="pickup" id="pickup_date" class="required" /></div>
+                                                <div><input type="text" placeholder="Close Time" name="pickup" id="pickup_close_time" class="required" /></div>
+                                            </div>
+                                            <div class="right">
+                                                <div><input type="text" placeholder="Time Ready for Pickup" name="pickup" id="pickup_ready_time" class="required" /></div>
+                                                <label for="pickup_ready_time" style="margin:0 0 0 10px;">(Example: 00:00 AM)</label>
+                                            </div>
+                                        </div>
+                                        <div class="spacer2"></div>
+                                        <h3>Delivery</h3>
+                                        <div class="halves">
+                                            <div class="left">
+                                                <div><input type="text" placeholder="MM/DD/YY" name="delivery" id="delivery_date" class="required" /></div>
+                                            </div>
+                                        </div>
+                                        <div class="radio">
+                                            <ul>
+                                                <li class="required">Delivery Time Options:</li>
+                                                <li>
+                                                    <input type="radio" name="delivery_options" id="delivery_options_exact" class="required" />
+                                                    <label for="delivery_options_exact">Exact Time</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="delivery_options" id="delivery_options_timeframe" class="required" />
+                                                    <label for="delivery_options_timeframe">Timeframe Window</label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="spacer2"></div>
+                                    <hr />
+                                    <div class="spacer3"></div>
+                                    <h2>Other Information</h2>
+                                    <div>
+                                        <input type="text" placeholder="Accessorial" name="other_info" id="accessorial" class="required" />
+                                        <label for="accessorial" style="margin:0 0 0 10px;">(Example: Liftgate Service)</label>
+                                    </div>
+                                    <div class="noSpacing">
+                                        <textarea placeholder="Special Instructions" name="other_info" id="special_instr" class="required"></textarea>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="spacer2"></div>
+                                    <hr />
+                                    <div class="spacer1"></div>
+                                    <p class="required">Bold: Required</p>
+                                    <div>
+                                        <input type="reset" value="Clear" class="roundWhite" />
+                                        <input type="submit" value="Get Quote" class="roundRed" />
+                                    </div>
+                                </form>
+                            </div>

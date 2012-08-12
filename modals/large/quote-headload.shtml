@@ -1,0 +1,183 @@
+                            <div>
+                                <h2>Headload Quote</h2>
+                                <p>To get a quote, please enter shipment information below. This is only a quote; to arrange a pick-up please contact our Customer Service Department at 1-800-765-7242 or contact your local terminal. For any other customer service issues please call 1-800-765-7242.</p>
+                                <p class="last">Shipment must be between 20 and 21 linear feet of trailer space or weigh less than 20,000 lbs.</p>
+                            </div>
+                            <div class="spacer1"></div>
+                            <hr />
+                            <div class="spacer2"></div>
+                            <div class="formBody">
+                                <h2>Contact Information</h2>
+                                <form>
+                                    <div>
+                                        <input type="text" placeholder="Company Name" name="contact_info" id="contact_name_company" class="required" />
+                                        <input type="text" placeholder="Account Number" name="contact_info" id="contact_account_num" class="form" />
+                                        <input type="text" placeholder="Contact Name" name="contact_info" id="contact_name_contact" class="required" />
+                                        <div class="halves">
+                                            <input type="text" placeholder="Telephone" name="contact_info" id="contact_tele_num" class="left required" />
+                                            <input type="text" placeholder="Extension" name="contact_info" id="contact_tele_ext" class="right form" />
+                                        </div>
+                                        <div class="clear"></div>
+                                        <input type="text" placeholder="Fax Number" name="contact_info" id="contact_fax_num" class="required" />
+                                        <input type="text" placeholder="E-mail Address" name="contact_info" id="contact_email" class="required" />
+                                    </div>
+                                    <div class="spacer1"></div>
+                                    <hr />
+                                    <div class="spacer1"></div>
+                                    <h2 class="afterFloat">Shipping Information</h2>
+                                    <div>
+                                        <div class="halves">
+                                            <input type="text" placeholder="Ship Date" name="shipping_info" id="shipping_date" class="left form" />
+                                            <input type="text" placeholder="Shipper Name" name="shipping_info" id="shipping_name" class="right form" />
+                                        </div>
+                                        <div class="spacer3"></div>
+                                        <h3>Origin Location</h3>
+                                        <div class="min">
+                                            <div class="left">
+                                                <div><input type="text" placeholder="City" name="shipping_info" id="origin_city" class="form" /></div>
+                                                <div><p style="float:left;">and/or</p><input type="text" placeholder="Zipcode" name="shipping_info" id="origin_zipcode" class="required zip" /></div>
+                                            </div>
+                                            <div class="right">
+                                                <div><input type="text" placeholder="State" name="shipping_info" id="origin_state" class="form" /></div>
+                                                <div class="location">
+                                                    <select name="shipping_info" id="origin_country" class="select right">
+                                                        <option>Select Country</option>
+                                                        <option value="1">United States</option>
+                                                        <option value="2">Canada</option>
+                                                        <option value="3">Mexico</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="originDesc">*The origin must be within our direct coverage area</p>
+                                        <h3>Destination Location</h3>
+                                        <div class="min">
+                                            <div class="left">
+                                                <div><input type="text" placeholder="City" name="shipping_info" id="dest_city" class="form" /></div>
+                                                <div><p style="float:left;">and/or</p><input type="text" placeholder="Zipcode" name="shipping_info" id="dest_zipcode" class="required zip" /></div>
+                                            </div>
+                                            <div class="right">
+                                                <div><input type="text" placeholder="State" name="shipping_info" id="dest_state" class="form" /></div>
+                                                <div class="location">
+                                                    <select name="shipping_info" id="dest_country" class="select right">
+                                                        <option>Select Country</option>
+                                                        <option value="1">United States</option>
+                                                        <option value="2">Canada</option>
+                                                        <option value="3">Mexico</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                    <div id="dimensions">
+                                        <input type="text" placeholder="Consignee Name" name="shipping_info" id="shipping_consignee_name" class="form" />
+                                        <div class="halves">
+                                            <input type="text" placeholder="Total Weight" name="shipping_info" id="shipping_weight" class="left required" />
+                                            <input type="text" placeholder="Total Linear Feet" name="shipping_info" id="shipping_feet" class="right required" />
+                                        </div>
+                                        <div class="clear"></div>
+                                        <input type="text" placeholder="Commodity Description" name="shipping_info" id="shipping_desc" class="form" />
+                                        <div class="halves">
+                                            <input type="text" placeholder="Declared Value" name="shipping_info" id="shipping_value" class="left required" />
+                                            <input type="text" placeholder="Total Pallets or Units" name="shipping_info" id="shipping_units" class="right form" />
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="radio">
+                                            <ul class="subDim">
+                                                <li class="required">Dimensions:</li>
+                                                <li>
+                                                    <input type="radio" name="dim_units" id="dim_inch" class="required" />
+                                                    <label for="dim_inch">Inches</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="dim_units" id="dim_centi" class="required" />
+                                                    <label for="dim_centi">Centimeters</label>
+                                                </li>
+                                            </ul>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div>
+                                            <input type="text" placeholder="Height" name="shipping_info" id="shipping_height" class="dim required" />
+                                            <input type="text" placeholder="Width" name="shipping_info" id="shipping_width" class="dim required" />
+                                            <input type="text" placeholder="Length" name="shipping_info" id="shipping_length" class="dim last required" />
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="noSpacing">
+                                        <div class="radio">
+                                            <p class="required">Will pallets or units stack?</p>
+                                            <ul>
+                                                <li>
+                                                    <input type="radio" name="units_stack" id="stack_yes" class="register" />
+                                                    <label for="stack_yes">Yes</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="units_stack" id="stack_no" class="register" />
+                                                    <label for="stack_no">No</label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="radio">
+                                            <p class="required">Origin Driver Load?</p>
+                                            <ul>
+                                                <li>
+                                                    <input type="radio" name="origin_load" id="load_yes" class="register" />
+                                                    <label for="load_yes">Yes</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="origin_load" id="load_no" class="register" />
+                                                    <label for="load_no">No</label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="radio">
+                                            <p class="required">Destination Driver Unload?</p>
+                                            <ul>
+                                                <li>
+                                                    <input type="radio" name="dest_unload" id="unload_yes" class="register" />
+                                                    <label for="unload_yes">Yes</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="dest_unload" id="unload_no" class="register" />
+                                                    <label for="unload_no">No</label>
+                                                </li>
+                                            </ul>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                    <div class="noSpacing">
+                                        <input type="text" placeholder="Accessorial" id="accessorial" class="form placeholder" />
+                                        <label for="accessorial" style="margin:0 0 0 10px;">(Example: Liftgate Service)</label>
+                                    </div>
+                                    <div class="radio">
+                                        <p class="required">Reply by:</p>
+                                        <ul>
+                                            <li>
+                                                <input type="radio" name="reply_by" id="reply_phone" class="required" />
+                                                <label for="reply_phone">Phone</label>
+                                            </li>
+                                            <li>
+                                                <input type="radio" name="reply_by" id="reply_fax" class="required" />
+                                                <label for="reply_fax">Fax</label>
+                                            </li>
+                                            <li>
+                                                <input type="radio" name="reply_by" id="reply_email" class="required" />
+                                                <label for="reply_email">E-mail</label>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <p class="disclaimer"><b>Disclaimer:</b> A charge of $250 will apply plus any applicable detention time per hour if a truck is ordered and dispatched, then not used or cancelled.</p>
+                                    <div class="spacer1"></div>
+                                    <hr />
+                                    <div class="spacer1"></div>
+                                    <p class="required">Bold: Required</p>
+                                    <div>
+                                        <input type="reset" value="Clear" class="roundWhite" />
+                                        <input type="submit" value="Get Quote" class="roundRed" />
+                                    </div>
+                                </form>
+                            </div>

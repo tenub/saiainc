@@ -1,0 +1,31 @@
+                            <div>
+    							<h2>Terminal to Terminal Transit Matrix</h2>
+    							<p>Please select the criteria below.</p>
+                            </div>
+                            <div class="spacer1"></div>
+                            <div class="formBody">
+                                <form>
+                                    <div class="noSpacing">
+                                        <div id="disposition">
+                                            <h3>Disposition</h3>
+                                            <ul>
+                                                <li>
+                                                    <input type="radio" id="terminal_download" name="disposition" value="opt1" /><label for="terminal_download">Download to PC</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" id="terminal_email" name="disposition" value="opt2" /><label for="terminal_email">E-mail</label>
+                                                    <div id="opt2" class="desc"><input type="text" id="email_address" name="email_address" class="required small" placeholder="name@address.com" /></div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="spacer1"></div>
+                                    <hr />
+                                    <div class="spacer1"></div>
+                                    <p class="required">Bold: Required</p>
+                                    <div>
+                                        <input type="reset" value="Clear" class="roundWhite" />
+                                        <input type="submit" value="Request Matrix" class="roundRed" />
+                                    </div>
+                                </form>
+                            </div>

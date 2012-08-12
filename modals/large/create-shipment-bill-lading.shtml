@@ -1,0 +1,198 @@
+                            <div>
+    							<h2>Online Bill of Lading</h2>
+    							<p>Please enter your shipment information below. <a href="#" class="red">Help</a></p>
+                                <p class="last">Information must be accurate for a correct rate.</p>
+                            </div>
+                            <div class="spacer1"></div>
+                            <hr />
+                            <div class="spacer1"></div>
+                            <div class="formBody">
+                                <form>
+                                    <div class="noSpacing">
+                                        <div class="radio">
+                                            <div class="thirds">
+                                                <div class="first select-date"><p>Shipment Date:</p></div>
+                                                <div class="month">
+                                                    <select name="shipment_info" id="shipment_month" class="select">
+                                                        <option>Month</option>
+                                                        <option value="01">Jan</option>
+                                                        <option value="02">Feb</option>
+                                                        <option value="03">Mar</option>
+                                                        <option value="04">Apr</option>
+                                                        <option value="05">May</option>
+                                                        <option value="06">Jun</option>
+                                                        <option value="07" selected="">Jul</option>
+                                                        <option value="08">Aug</option>
+                                                        <option value="09">Sep</option>
+                                                        <option value="10">Oct</option>
+                                                        <option value="11">Nov</option>
+                                                        <option value="12">Dec</option>
+                                                    </select>
+                                                </div>
+                                                <div class="day">
+                                                    <select name="shipment_info" id="shipment_day" class="select">
+                                                        <option>DD</option>
+                                                        <option value="01">1</option>
+                                                        <option value="02">2</option>
+                                                        <option value="03">3</option>
+                                                        <option value="04">4</option>
+                                                        <option value="05">5</option>
+                                                        <option value="06">6</option>
+                                                        <option value="07">7</option>
+                                                        <option value="08">8</option>
+                                                        <option value="09">9</option>
+                                                        <option value="10">10</option>
+                                                        <option value="11">11</option>
+                                                        <option value="12">12</option>
+                                                        <option value="13">13</option>
+                                                        <option value="14">14</option>
+                                                        <option value="15">15</option>
+                                                        <option value="16">16</option>
+                                                        <option value="17">17</option>
+                                                        <option value="18">18</option>
+                                                        <option value="19">19</option>
+                                                        <option value="20" selected="">20</option>
+                                                        <option value="21">21</option>
+                                                        <option value="22">22</option>
+                                                        <option value="23">23</option>
+                                                        <option value="24">24</option>
+                                                        <option value="25">25</option>
+                                                        <option value="26">26</option>
+                                                        <option value="27">27</option>
+                                                        <option value="28">28</option>
+                                                        <option value="29">29</option>
+                                                        <option value="30">30</option>
+                                                        <option value="31">31</option>
+                                                    </select>
+                                                </div>
+                                                <div class="year last">
+                                                    <select name="shipment_info" id="shipment_year" class="select">
+                                                        <option>Year</option>
+                                                        <option value="2012" selected="">2012</option>
+                                                        <option value="2013">2013</option>
+                                                        <option value="2014">2014</option>
+                                                        <option value="2015">2015</option>
+                                                        <option value="2016">2016</option>
+                                                        <option value="2017">2017</option>
+                                                        <option value="2018">2018</option>
+                                                        <option value="2019">2019</option>
+                                                        <option value="2020">2020</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="radio">
+                                            <ul class="subDim">
+                                                <li class="required">Payment Terms:</li>
+                                                <li>
+                                                    <input type="radio" name="payment_terms" id="payment_prepaid" class="register" />
+                                                    <label for="payment_prepaid">Prepaid</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="payment_terms" id="payment_collect" class="register" />
+                                                    <label for="payment_collect">Collect</label>
+                                                </li>
+                                            </ul>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                    <div class="noSpacing">
+                                        <div class="halves">
+                                            <input type="text" placeholder="Bill of Lading Number" name="shipment_info" id="shipment_lading_num" class="left form" />
+                                            <input type="text" placeholder="Shipper Number" name="shipment_info" id="shipment_shipper_num" class="right form" />
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="halves">
+                                            <input type="text" placeholder="Store Number" name="shipment_info" id="shipment_store_num" class="left form" />
+                                            <input type="text" placeholder="Trailer Number" name="shipment_info" id="shipment_trailer_num" class="right form" />
+                                        </div>
+                                        <div class="clear"></div>
+                                        <div class="halves">
+                                            <input type="text" placeholder="PO Number" name="shipment_info" id="shipment_po_num" class="left form" />
+                                            <input type="text" placeholder="Department Number" name="shipment_info" id="shipment_dept_num" class="right form" />
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                                    <div class="spacer2"></div>
+                                    <hr />
+                                    <div class="spacer2"></div>
+                                    <h2>Shipper Information</h2>
+                                    <div class="noBottomSpacing">
+                                        <input type="text" placeholder="Contact Name" name="shipper_info" id="shipper_contact_name" class="required" />
+                                        <input type="text" placeholder="Address 1" name="shipper_info" id="shipper_address1" class="required" />
+                                        <input type="text" placeholder="Address 2" name="shipper_info" id="shipper_address2" class="required" />
+                                    </div>
+                                    <div class="thirds">
+                                        <div>
+                                            <input type="text" placeholder="City" name="shipper_info" id="shipper_city" class="city required" />
+                                            <input type="text" placeholder="State" name="shipper_info" id="shipper_state" class="state required" />
+                                            <input type="text" placeholder="Zipcode" name="shipper_info" id="shipper_zipcode" class="dim last required" />
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <hr />
+                                    <div class="spacer2"></div>
+                                    <h2>Cosignee Information</h2>
+                                    <div class="noBottomSpacing">
+                                        <input type="text" placeholder="Contact Name" name="consignee_info" id="consignee_contact_name" class="required" />
+                                        <input type="text" placeholder="Address" name="consignee_info" id="consignee_address1" class="required" />
+                                        <input type="text" placeholder="Box" name="consignee_info" id="consignee_address2" class="required" />
+                                    </div>
+                                    <div class="thirds">
+                                        <div>
+                                            <input type="text" placeholder="City" name="consignee_info" id="consignee_city" class="city required" />
+                                            <input type="text" placeholder="State" name="consignee_info" id="consignee_state" class="state required" />
+                                            <input type="text" placeholder="Zipcode" name="consignee_info" id="consignee_zipcode" class="dim last required" />
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <hr />
+                                    <div class="spacer3"></div>
+                                    <div class="noSpacing">
+                                        <div class="radio">
+                                            <ul class="subDim">
+                                                <li>Print Rates?</li>
+                                                <li>
+                                                    <input type="radio" name="printrates" id="printrates_yes" class="register" />
+                                                    <label for="printrates_yes">Yes</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="printrates" id="printrates_no" class="register" />
+                                                    <label for="printrates_no">No</label>
+                                                </li>
+                                            </ul>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div class="radio">
+                                            <ul class="subDim">
+                                                <li>Paper Type:</li>
+                                                <li>
+                                                    <input type="radio" name="papertype" id="papertype_blank" class="register" />
+                                                    <label for="papertype_blank">Blank Paper</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" name="papertype" id="papertype_form" class="register" />
+                                                    <label for="papertype_form">Pre-printed Form</label>
+                                                </li>
+                                            </ul>
+                                            <div class="clear"></div>
+                                        </div>
+                                        <div>
+                                            <input type="checkbox" name="billing_cod" id="billing_cod" class="left" /><label for="billing_cod">Billing information different? Need to enter COD information?</label>
+                                            <div class="spacer1"></div>
+                                            <input type="checkbox" name="customs" id="customs" /><label for="customs">Customs</label>
+                                        </div>
+                                        <div class="spacer1"></div>
+                                    </div>
+                                    <div class="spacer1"></div>
+                                    <hr />
+                                    <div class="spacer1"></div>
+                                    <p class="required">Bold: Required</p>
+                                    <div>
+                                        <input type="reset" value="Clear" class="roundWhite" />
+                                        <input type="submit" value="Next" class="roundRed" />
+                                    </div>
+                                </form>
+                            </div>
+                            <p>Please forward any questions/comments for the Online Bill of Lading to <a href="mailto:webrates@saia.com" class="red">Web Support</a></p>

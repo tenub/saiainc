@@ -1,0 +1,72 @@
+/* Drop down styles*/
+div.selectbox-wrapper, #lbContent form > div.selectbox-wrapper {
+	position: absolute;
+	width: 100%;
+	margin: -6px 0 0 0;
+	padding: 0;
+	background-color: #fff;
+	border: 1px solid #333;
+	text-align: left;
+	max-height: 312px;
+	overflow: auto;
+    z-index: 100000;
+	left: 10px;
+}
+#main .container .formBody form > div > div.radio > div.selectbox-wrapper {
+	margin: -6px 0 0 0;
+	padding: 0;
+}
+/*Drop down list styles*/
+div.selectbox-wrapper ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+    position: static;
+}
+/* Selected item in dropdown list*/
+div.selectbox-wrapper ul li.selected {
+	background-color: #d51d24;
+    color: #fff;
+}
+/* Hover state for dropdown list */
+div.selectbox-wrapper ul li.current {
+	background-color: #333;
+    color: #fff;
+}
+/* Drop down list items style*/
+div.selectbox-wrapper ul li {
+	list-style-type: none;
+	display: block;
+	margin: 0;
+	padding: 0 0 0 10px;
+	cursor: pointer;
+	line-height: 26px;
+}
+div.selectbox-wrapper ul li:first-child {
+	display: none;
+}
+/* Look and feel of select box */
+.selectbox, #lbContent input[type='text'].selectbox {
+	font: bold 16px helvetica, arial, sans-serif;
+	display : block;
+	background: url('../img/bg_select.png') no-repeat 100% 0;
+	text-align: left;
+	cursor: pointer;
+	-moz-border-radius-bottomleft
+	border-bottom-left-radius: 15px;
+	-moz-border-radius-topleft
+	border-top-left-radius: 15px;
+    width: 100%;
+	padding: 0 0 0 10px;
+	margin: 5px 0;
+	font-size: 16px;
+    height: 30px;
+    line-height: 30px;
+}
+#main .container .formBody form input[type="text"].selectbox, #lbContent input[type='text'].selectbox {
+	color: #333;
+	border: 1px solid #ccc;
+}
+#lbContent input[type='text'].selectbox {
+	width: 342px;
+}

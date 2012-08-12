@@ -1,0 +1,213 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html"-->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<div class="fullBody">
+							<h1>Awards</h1>
+							<p>As part of backing up our talk, we like to show you real-world results. Saia people, products, and technologies continue to receive recognition, from our customers and within the industry. Here is a sampling of some of the recent accolades our company has received:</p>
+							<ul class="accordion awards">
+								<li class="first">
+									<h2>
+										<div>
+											<a href="#"class="head">Lowes</a><br />
+											<div class="sub">Platinum Team Award<br />
+											2006</div>
+											<img src="assets/img/award_lowes.jpg"width="110"height="80"alt="Lowe's Award"/>
+										</div>
+									</h2>
+									<ul class="accordion1">
+										<li class="first">
+											<div>
+												<p class="noTopSpacing">For More Information<br />
+												Contact: Saia Corporate Communications<br />
+												Phone: 770-232-4069</p>
+												<h4>Saia Wins Lowe's 2006 Platinum Team, Program Development Awards</h4>
+												<p>Saia, Inc. (NASDAQ: SAIA), has been presented with the"2006 Platinum Team Award"by Lowe's Companies, Inc for exceeding four service performance indicators. It is the highest award the carrier has earned from the home improvement giant since they began their successful partnership.</p>
+												<p>Saia also earned a"2006 LTL Outstanding Program Development Award"at the annual Lowe's awards held in January.</p>
+												<p>Saia was one of a few carriers to take away multiple awards from the ceremony, hosted by Lowe's, the country's second largest home improvement retailer and #42 on the Fortune 500.</p>
+												<p>"Saia demonstrates a commitment to customer service that is unrivaled in the industry,"said Saia Senior V.P. of Operations &amp; Sales Tony Albanese."It was a great day for Saia and these two awards are validation of our ongoing effort to become a Best In Class carrier."</p>
+												<p>Albanese said companies such as Lowe's view Saia as a strategic partner in their logistics plan now and for the future. He also recognized individual Saia employees who were key to the success of the Saia and Lowe's partnership, which led to the awards.</p>
+												<p>"We are very excited about the partnership we have developed with Lowe's and appreciate this service recognition,"said Albanese following the award presentation ceremonies."The relationship between Lowe's and Saia has made us a better carrier. Together, Lowe's and Saia have found solutions to improve the service we offer them for their business and is a testament to our ability to overcome any obstacle to provide industry-leading service."</p>
+												<p><span class="bold">About Saia, Inc.</span><br />
+												Saia, Inc. (NASDAQ: SAIA) is a less-than-truckload provider of regional, interregional and guaranteed services covering 34 states. Saia is home to the industry-leading Xtreme Guarantee product, which guarantees total customer satisfaction from pick-up through invoicing. Saia offers complete North American coverage through partner agreements. With headquarters in Duluth, Ga. and a network of 151 terminals, Saia employs 8,500 people. For more information on Saia, Inc., visit www.saia.com.</p>
+											</div>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<h2>
+										<div>
+											<a href="#"class="head">Logistics Management</a><br />
+											<div class="sub">Quest for Quality<br />
+											2006, 2003</div>
+											<img src="assets/img/award_logistics.jpg"width="110"height="80"alt="Lowe's Award"/>
+										</div>
+									</h2>
+									<ul class="accordion1">
+										<li class="first">
+											<div>
+												<p class="noTopSpacing">For More Information<br />
+												Contact: Saia Corporate Communications<br />
+												Phone: 770-232-4069</p>
+												<h4>Saia, Inc. Garners 2006 Quest for Quality Award</h4>
+												<p>DULUTH, GA - September 18, 2006 - Leading less-than-truckload (LTL) carrier Saia, Inc. (NASDAQ:SAIA) has been recognized by Logistics Management magazine as a 2006 Quest For Quality award winner.</p>
+												<p>The 23-year-old Quest For Quality survey is regarded as the most prestigious customer satisfaction survey in the transportation industry. This is the second year Saia earned this prestigious award, garnering a Quest for Quality accolade in 2003.</p>
+												<p>Saia was awarded first place for"Value"in the National LTL Carriers segment along with foremost regional and interregional carriers who surpassed average scores in fundamental areas. In order to be awarded Quest for Quality honors, a carrier must rank above average in each of the following categories: On-Time Performance, Value, Information Technology, Customer Service and Equipment &amp; Operations.</p> 
+												<p>"We are honored to be recognized by our industry as among the best of the best,"said Saia President and CEO Rick O'Dell."This award is confirmation that the entire Saia team is committed to providing best-in-class service to our customers, as defined by our Customer Service Indicator program."</p>
+												<p>The 2006 Quest for Quality awards will be presented to winners at an awards dinner during the Council of Supply Chain Management Professionals (CSCMP) Conference on October 18 in San Antonio.</p>
+												<p><span class="bold">About Saia, Inc.</span><br />
+												Saia, Inc. (NASDAQ: SAIA) is a less-than-truckload provider of regional, interregional and guaranteed services covering 30 states. Saia is home to the industry-leading Xtreme Guarantee product, which guarantees total customer satisfaction from pick-up through invoicing. Saia offers complete North American coverage through partner agreements. With headquarters in Duluth, GA, general offices in Houma, LA and Boise, ID and a network of 128 terminals, the carrier employs 7,600 people. For more information on Saia, visit the Saia website at www.saia.com.</p>
+											</div>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<h2>
+										<div>
+											<a href="#"class="head">InformationWeek</a><br />
+											<div class="sub">Top 500 company for IT innovation<br />
+											2004</div>
+											<img src="assets/img/award_infoweek.jpg"width="110"height="80"alt="Lowe's Award"/>
+										</div>
+									</h2>
+									<ul class="accordion1">
+										<li class="first">
+											<div>
+												<p class="noTopSpacing">For More Information<br />
+												Contact: Saia Corporate Communications<br />
+												Phone: 770-232-4069</p>
+												<h4>Saia Named A Top 500 Company for IT Innovation</h4>
+												<p>DULUTH, GA - October 14, 2004 - Industry-leading less-than-truckload (LTL) carrier Saia, Inc.® continues to drive the transportation industry as an innovator of customer service and technological offerings. The company was selected by InformationWeek as a Top 500 company for IT innovation. Saia received the award for service offerings that included website features and real-time delivery of customer Pickup and Delivery information.</p>
+												<p>Customers can access www.saia.com and utilize more than 50 features to plan and track shipments.</p>
+												<p>For 16 years, the InformationWeek 500 has tracked organizations' IT agendas, providing a unique opportunity to understand and examine their business practices across core areas of technology operations. Companies named to this list demonstrate a pattern of technological and organizational innovation. Saia is among the 500 companies recognized for IT innovation this year.</p>
+												<p>"Tech initiatives balance between opportunistic investment and cost effectiveness,"said Rusty Weston, editor of InformationWeek Research."On average, the InformationWeek 500 will invest approximately 3.7% of their annual revenue on technology in 2004 for an average cash layout of $334 million. Business-intelligence tools, content-management software, and increased use of automated processes are widespread strategies aimed at squeezing more costs out of IT operations."</p>
+												<p>The InformationWeek 500 is the most detailed source of industry-specific IT budget data. The research project gathered in-depth information directly from companies about how they approach and prioritize their IT investments. The research identified and ranked the companies following an extensive online and phone study.</p>
+												<p>Saia Vice President of Information Systems Mark Robinson said that the award signifies the advancements made by Saia in offering industry-leading technological services.</p>
+												<p>"The InformationWeek 500 illustrates that Saia continues to lead the way in developing systems to help our customers exceed their logistics and shipping goals,"said Robinson."This announcement confirms our continued achievements as a company and rewards the work of the entire Saia team."</p>
+												<p><span class="bold">About Saia, Inc.</span><br />
+												Saia, Inc. is a provider of interregional and regional direct service covering the Midwest, the south, the west, and northwest with partner service to the rest of the continental United States. Saia, Inc. also provides complete North American coverage including Canada, Mexico and Puerto Rico. Saia, Inc. has more than 6,300 employees networking from 127 locations. Saia, Inc. and Jevic Transportation are wholly owned subsidiaries of SCS Transportation, Inc., (NASDAQ: SCST), a multi-regional carrier holding company based in Kansas City, Missouri.</p>
+												<p>For more information visit the Saia, Inc. website at www.saia.com or SCS Transportation at www.scstransportation.com.</p>
+												<p><span class="bold">About InformationWeek</span><br />
+												InformationWeek helps more than 440,000 Business Technology Professionals who buy, build and manage technology drive business innovation powered by technology. In addition to the weekly magazine, InformationWeek provides a platform of information solutions including www.informationweek.com, InformationWeek Research, InformationWeek Events, which includes the InformationWeek Conference for Business Technology Executives and the InformationWeek Daily, an e-mail news service. In May 2003 in conjunction with Optimize, InformationWeek launched its Media Network. The Media Network consists of Optimize and Government Enterprise, as well as its Vertical Industry Network publications - Bank Systems &amp; Technology, Insurance &amp; Technology and Wall Street &amp; Technology. InformationWeek is consistently recognized for its commitment to excellence and innovation, receiving several of the industry's top media accolades including top spots in BtoB Magazine's annual Media Power 50, as well as awards from ASBPE and Circulation Management magazine.</p>
+											</div>
+										</li>
+									</ul>
+								</li>
+								<li class="last">
+									<h2>
+										<div>
+											<a href="#"class="head">Borders Group's</a><br />
+											<div class="sub">Provider of the Year Award<br />
+											2005</div>
+											<img src="assets/img/award_borders.jpg"width="110"height="80"alt="Lowe's Award"/>
+										</div>
+									</h2>
+									<ul class="accordion1">
+										<li class="first">
+											<div>
+												<p class="noTopSpacing">For More Information<br />
+												Contact: Saia Corporate Communications<br />
+												Phone: 770-232-4069</p>
+												<h4>Saia Garners Borders Group's Transportation Provider of the Year Award</h4>
+												<p>DULUTH, GA - June 28, 2006 - Leading Less-Than-Truckload (LTL) carrier Saia has been presented with the 2005 Transportation Provider of the Year Award by Borders Group, Inc., a leading global retailer of books, music and movies with more than 1,200 Borders and Waldenbooks stores worldwide.</p>
+												<p>The award is based on criteria measured by Borders Group representatives and applied to all of the company's transportation providers with the goal of continuous improvement in performance and efficiency in supply chain. Specifically, it recognizes carrier performance and delivery of superior client service and value. Selections are made based on a quantitative scoring system that includes on-time service, claims performance, customer service, technology, economic value and innovation.</p>
+												<p>"Saia has been an integral solutions and service provider that has contributed significantly to the success of our company's supply chain initiatives. We have an extremely competitive group of vendors and this award is a testament to Saia's dedication and attention to the criteria we have set for outstanding performance,"said Fred Boehler, director of supply chain for Borders Group.</p>
+												<p>"We work very closely with Saia's operations, executive, and administrative teams to identify areas of opportunity to obtain the highest level of overall supply chain efficiency,"added Borders Group's Senior Manager of Transportation Tom Allen.</p>
+												<p>"Borders Group's supply chain professionals have developed one of the most comprehensive performance scorecards in the industry,"said Saia President and CEO Rick O'Dell."With the high standards and intense competition among a very strong group of transportation providers, our award as Transportation Provider of the Year, is particularly meaningful."</p>
+												<p>O'Dell continued"It is great to share this recognition with so many Saia employees that provide outstanding service to Borders Group each week, all year long."</p>
+												<p><span class="bold">About Saia, Inc.</span><br />
+												Saia, Inc. is a provider of regional and interregional direct service covering 30 states with partner service to the rest the United States, Canada, Mexico and Puerto Rico. Saia, Inc. has more than 7,200 employees networking from 128 locations. Saia, Inc. and Jevic Transportation are wholly owned subsidiaries of SCS Transportation, Inc., (NASDAQ: SCST), a multi-regional carrier holding company based in Kansas City, Missouri. For more information visit the Saia, Inc. website at www.saia.com or SCS Transportation at www.scstransportation.com.</p>
+												<p><span class="bold">About Borders Group, Inc.</span><br />
+												Borders Group, Inc. (NYSE: BGP) is a leading global retailer of books, music and movies with 2005 revenues of $4 billion. Headquartered in Ann Arbor, Mich., the company employs approximately 35,000 people worldwide. More information on the company is available at www.bordersgroupinc.com.</p>
+											</div>
+										</li>
+									</ul>
+								</li>
+							</ul>
+							<div class="spacer2"></div>
+							<div class="spacer2"></div>
+							<h1>Testimonials</h1>
+							<p>In today's busy world, where few of us take the time to say"job well done", we're always pleased when our customers take the time to let us know that we have exceeded their expectations. Here is a sampling of what our customers have to say about Saia:</p>
+							<div class="quote">
+								<h3>Wray Carmichael, Logistics Manager - Swedish Match</h3>
+								"We find your website to be easy to use and provide excellent information that allows us to provide better service to our customers. The service and status report allow us to monitor the service our customers get both on a long term and a daily basis. We use the notification information to contact our customers and handle problems the same day as they occur."
+							</div>
+							<div class="quote">
+								<h3>Ronald Zimmer, Corporate Transportation Manager - Composites One</h3>
+								"I am glad we have Saia as a Preferred Next Day LTL Carrier for Composites One. We can count on Saia to deliver next day with lift gate service, which many carriers can not provide. We expect exceptional service, and to date, Saia has provided us with such service. Our customers also are happy with Saia's service."
+							</div>
+							<div class="quote">
+								<h3>Rose Minchella, Manager, Transportation - MASCO Corporation</h3>
+								"One of the things that I think makes Saia an exceptional carrier is their management. They give each customer the individual attention that shows that they care about all their shippers, both large and small. Servicing their customers is foremost, and they will do whatever it takes to get the job done to the satisfaction of all parties involved."
+							</div>
+							<div class="quote">
+								<h3>Bill Compton, Corporate Transportation Director - Fruit of the Loom</h3>
+								"Saia is a core carrier for Fruit of the Loom. Saia has a strong Customer Service Team that we know can handle our hot shipments, and Saia has a strong commitment to on-time delivery. We appreciate Saia, and they are part of the reason for our success."
+							</div>
+							<div class="quote">
+								<h3>Dennis Jenssen, Director of Distribution - Flint Ink</h3>
+								"Saia has always taken the initiative in helping our local people solve all of our supply chain needs. Our customer base is a mixture of large and small printers, which need the service of a niche carrier but the strength of a large super carrier support. With Saia as one of our prime carriers, we have satisfied all of our concerns. We look forward to a long partnership."
+							</div>
+							<div class="quote">
+								<h3>Jay Morford - Ameron, Pasadena, CA</h3>
+								"Saia has provided great service to our company and always handles our business in a professional manner. The company works to build an excellent relationship with every customer they partner with."
+							</div>
+							<div class="quote">
+								<h3>Alan Wiederhold - Dresser, Houston, TX</h3>
+								"Energy moves the world. Dresser moves energy. Saia moves Dresser products."
+							</div>
+							<div class="quote">
+								<h3>Bob Russell - National Oilwell, Houston, TX</h3>"For more than 15 years we have been partners with Saia. As a company, they are responsive and extremely helpful with any issue. I look forward to many more years of great service."
+							</div>
+							<div class="quote">
+								<h3>Byron Brankle, Corporate Traffic Manager - American Pad &amp; Paper LLC</h3>
+								"We have found Saia responsive to our service needs throughout their entire service area. And, Saia is responsive to our customer service issues, billing and claims. Saia is a valued provider of transportation service to our company. And, the Saia sales department is second to none in the industry."
+							</div>
+							<div class="quote">
+								<h3>Michael Janis - Lagasse Brothers Inc., Harahan, LA</h3>
+								"Saia is a truly exceptional carrier. The work ethic and delivery performance are great and the customer service is impeccable. All this and the management team are willing to go the extra mile. Saia exceeds our expectations."
+							</div>
+							<div class="quote">
+								<h3>Scott W. Ambler - SCP Distributors LLC, Covington, LA</h3>
+								"Saia's dedication and professionalism is a breath of fresh air. They say what they can do and do exactly what they say they can do."
+							</div>
+							<div class="quote">
+								<h3>Don Graham - Akzo Nobel/International Paint, Houston, TX</h3>
+								"I am very pleased with Saia for the results they have provided in 2004 and we are very excited about the coming year. Saia ensures continued customer service and a 'can-do' attitude."
+							</div>
+							<div class="quote">
+								<h3>Michael L. Taber - Chevron Phillips Chemical Company LP, The Woodlands, TX</h3>
+								"The business relationship between Chevron Phillips Chemical Company LP and Saia continues to grow - and improve - with each passing month. Their services are customer-focused and of the highest quality. Saia drivers project a professional image and sales and customer service personnel always respond quickly. We consider Saia a valuable business partner and look forward to continuing our business relationship for many years to come."
+							</div>
+							<div class="quote">
+								<h3>David McAsland - Southwest Oilfield, Houston, TX</h3>
+								"As far as I'm concerned, Saia is the best carrier out there. I have had very, very, very few claims if any. I also have a great relationship with your sales department. You are the best and I wouldn't say that if it wasn't true"
+							</div>
+							<div class="quote">
+								<h3>Pamela Oaks - Vanguard, Fort Mill, SC</h3>
+								"Saia has handled our fragile freight in a way that has decreased our shipping damages. Our customers have complimented Saia in delivering their freight intact with little or no damage. I hope Vanguard and Saia will have a long-lived relationship. Thank you for all the excellent service and professionalism."
+							</div>
+						</div>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html"-->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html"-->
+			<!-- footer content end -->
+	</body>
+</html>

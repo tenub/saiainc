@@ -1,0 +1,238 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<div class="fullBody">
+							<h1>Frequently Asked Questions</h1>
+							<p>This document is intended to provide answers to the questions most often received by Saia.</p>
+							<ul class="accordion faqs">
+								<li>
+									<h2><a href="#" class="head">Account Login (Saia Secure)</a></h2>
+									<ul class="accordion1">
+										<li class="first">
+											<h3><a href="#" class="head">How do I request a User Id and Password?</a></h3>
+											<div>
+												<p>Simply fill out the form found <a href="customer-register.shtml">here</a> to create a new customer account.</p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Did you forget your password?</a></h3>
+											<div>
+												<div style="height:5px;width::100%;"></div>
+												<p class="bold">Forgot Password</p>
+												<p class="noSpacing">Enter e-mail address associated with your account. A reminder will be sent. If you did not provide an e-mail address, then you can contact <a href="mailto:customerservice@saia.com">Customer Service</a> for further assistance.</p>
+												<div class="formBody">
+													<form>
+														<input type="text" placeholder="E-mail Address" id="email_contact" class="required" style="width:60%;" /><input type="submit" name="Submit" value="Submit" class="cap" />
+													</form>
+												</div>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Why would I need to use Saia Secure?</a></h3>
+											<div>
+												<p>Saia offers a variety of options via our secure site. All secure functions as associated to account information.</p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">How long does it take to receive authorization for the secure section of the Saia site?</a></h3>
+											<div>
+												<p>The turnaround time is approximately 48 hrs. This application involves sensitive business information and therefore, we have to verify your registration information.</p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Can two people be logged in with one user id at the same time?</a></h3>
+											<div>
+												<p>Only one person can be logged in under a user id at a time. If someone logs on they will boot the first person off. If you have multiple people that need web access we suggest each person requesting their own, personal user id and password.</p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">I was linked to a page from your old site and it is not working. What do I do?</a></h3>
+											<div>
+												<p>You will need to reset all old bookmarks from the new site. Simply go to <a href="index.shtml">www.saia.com</a> and select the option you were using before. Once you are to that page, save the link and delete the old link.</p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">When I log into Saia Secure, where are all the available options?</a></h3>
+											<div>
+												<p>In our new layout, simply click the Secure menu button to the left and all functions will display below.</p>
+											</div>
+										</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">Browser Information</a></h2>
+									<ul class="accordion1">
+										<li>
+											<h3><a href="#" class="head">I am having trouble viewing your site.</a></h3>
+											<div>
+												<p>This website is designed to work with all browsers version 4.0 and above. The site is best viewed with the latest versions, to download go to www.browsers.com for the latest versions.</p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">I can’t see the whole site, the right side is cut off.</a></h3>
+											<div>
+												<p>If using Windows, go to: START > SETTINGS > CONTROL PANEL > DISPLAY > SETTINGS > SCREEN AREA and set your resolution to 1024x768 or larger.</p>
+											</div>
+										</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li><h2><a href="#" class="head">Create Bill of Lading</a></h2></li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li><h2><a href="#" class="head">Claims</a></h2></li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">Imaging</a></h2>
+									<ul class="accordion1">
+										<li>How can I obtain a proof of delivery (POD) or delivery receipt?</li>
+										<li>Can I access my Bill of Lading/PODs on-line?</li>
+										<li>How long are documents available on-line?</li>
+										<li>What is a freight bill/pro # and how should it be entered?</li>
+										<li>How do I save images from the web page?</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li><h2><a href="#" class="head">Invoicing</a></h2></li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">E-Billing</a></h2>
+									<ul class="accordion1">
+										<li>Does E-Billing mean that my invoices will arrive via email?</li>
+										<li>What can I do with this invoice in PDF?</li>
+										<li>What do I need to receive invoices electronically?</li>
+										<li>How do I get Adobe Acrobat Reader software?</li>
+										<li>Will E-Billing cost me anything?</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">E-Pay</a></h2>
+									<ul class="accordion1">
+										<li>What is E-Pay?</li>
+										<li>What forms of payment are accepted on E-Pay?</li>
+										<li>How do I access E-Pay?</li>
+										<li>Do I need a user ID and password?</li>
+										<li>Who is eligible for E-Pay?</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">Imaging</a></h2>
+									<ul class="accordion1">
+										<li>How can I obtain a proof of delivery (POD) or delivery receipt?</li>
+										<li>Can I access my Bill of Lading/PODs on-line?</li>
+										<li>How long are documents available on-line?</li>
+										<li>What is a freight bill/pro # and how should it be entered?</li>
+										<li>How do I save images from the web page?</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">Tracking / Tracing</a></h2>
+									<ul class="accordion1">
+										<li>What is a freight bill/pro # and how should it be entered?</li>
+										<li>What options can I use to trace my shipments?</li>
+										<li>What is a POD fax?</li>
+										<li>What is the average turn around time on a POD fax?</li>
+										<li>Why can't the tracking system find my freight bill number?</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">General Questions</a></h2>
+									<ul class="accordion1">
+										<li>Is there any type of freight Saia does not transport?</li>
+										<li>What type of equipment is offered by Saia?</li>
+										<li>How do I calculate the density of my freight?</li>
+										<li>How do I determine what class my freight is?</li>
+										<li>Who do I call for special handling needs?</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li><h2><a href="#" class="head">Pick-Ups</a></h2></li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">Rate Quote</a></h2>
+									<ul class="accordion1">
+										<li>How much will it cost for my shipment?</li>
+										<li>Do I have to register to receive a rate quote?</li>
+										<li>What is the quote # on my on-line rate quote used for? Should I include on my Bill of Lading?</li>
+										<li>What is a NMFC class and how do I know which one to use?</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">Transit / Service Coverage</a></h2>
+									<ul class="accordion1">
+										<li>How do I determine if a destination point is served direct?</li>
+										<li>Does Saia offer complete coverage of the United States?</li>
+										<li>What is the timeframe to schedule a pick-up to meet transit times provided with the calculator?</li>
+									</ul>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li><h2><a href="#" class="head">Saia Services</a></h2></li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#" class="head">Shipment Information</a></h2>
+									<ul class="accordion1">
+										<li>How do I get information about my shipments?</li>
+											<li>What is a freight bill/pro # and how should it be entered?</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-shipping.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<img class="hero" src="assets/img/hero-ltl-index.jpg" alt="Truck Driving on Bridge" />
+						<h1>Environment, Health &amp; Safety, and Security</h1>
+						
+						<p>At Saia, we've always been dedicated to managing our operations in a manner that protects the environment as well as the safety and security of our customers' freight. If you are shipping chemicals, rest assured that Saia is committed to the same environmental, health, safety and security (EHS'S) standards and performance improvement principles as your company.</p>
+						<p>In fact, we made a commitment to the American Chemistry Council's (ACC) Responsible Care® Program and becoming RC14001® certified. Responsible Care was launched in 1988 as the ACC's comprehensive EHS&amp;S performance improvement initiative. RC14001 builds on the Responsible Care Management Certification by including all of the requirements of the ISO 14001: 2004 specifications, the international specification for an environmental management system.</p>
+						
+						<p>Currently, Saia is the first and only less-than-truckload, non-bulk carrier in the United States to be certified RC14001, which required that our policies, procedures and an array of records be reviewed by an independent, third-party auditor.</p>
+						<p>In addition to our RC14001 certification, 28 of our facilities have been certified ISO 9001: 2000 during the first two phases of a planned certification process, meaning they have established a systemic approach to quality management.</p>
+						<p>As a partner company, Saia reports key performance data annually. Please visit <a href="http://responsiblecare.americanchemistry.com" target="_blank">www.responsiblecare-us.com</a> for more details.</p>
+						<div class="spacer3"></div>
+						<hr />
+						<div class="spacer2"></div>
+						<div class="imgContainer">
+							<img src="assets/img/env_cert_rc14001.jpg" alt="RC14001 Certification" width="150" height="150" class="left" />
+							<div>
+								<img src="assets/img/env_cert_iso90012000.jpg" alt="ISO 9001:2000 Certification" width="150" height="150" class="mid" />
+							</div>
+							<img src="assets/img/env_rc_20.jpg" alt="20 Years Responsible Care" width="150" height="150" class="right" />
+						</div>
+						<div class="spacer2"></div>
+						<hr />
+						<div class="spacer2"></div>
+						<h3>Our Policies</h3>
+						<p>Saia management strives to lead the company in an ethical, safe and secure manner that increasingly benefits society, the economy, and the environment. Saia is committed to comply with all applicable laws, regulations and other requirements and programs including, but not limited to, the Responsible Care Guiding Principles®. Saia seeks to operate its facilities in a manner that promotes openness with our stakeholders, protects the environment, the security of our facilities, our customer's product, and the health and safety of the company's internal and external stakeholders. Saia is dedicated to its vision of the prevention of incidents that can cause injury or harm to the environment. The company's progress is continually measured through programs which set target objectives that measure Saia's success as well as through pollution prevention programs that support our environmental commitment:</p>
+						<ul class="list">
+							<li class="noTopSpacing">Accident-Free Driving</li>
+							<li>Injury Prevention</li>
+							<li>No Security Incidents</li>
+							<li>Reducing Waste</li>
+							<li>Reduction of Greenhouse Gases and Air Pollution</li>
+							<li>Community Outreach Initiatives</li>
+						</ul>
+						<p>Have a comment or suggestion on any of our policies? <a href="mailto:safety@saia.com">E-mail us</a>.</p>
+						<div class="spacer3"></div>
+						<hr />
+						<div class="spacer2"></div>
+						<h3>Environmental Impact </h3>
+						<p>In addition to our other certifications and program affiliations, Saia is also proud to be a SmartWay Transport Partner. SmartWay Transport is a voluntary partnership between various freight industry sectors and the Environmental Protection Agency (EPA) that establishes incentives for partners to increase energy efficiency while significantly reducing greenhouse gases and air pollution.</p>
+						<p>By 2012, this initiative aims to reduce between 33 and 66 million metric tons of carbon dioxide emissions and up to 200,000 tons of nitrogen oxide emissions per year. At the same time, the initiative will result in fuel savings of up to 150 million barrels of oil annually. There are three primary components of the program: creating partnerships, reducing all unnecessary engine idling, and increasing the efficiency and use of rail and intermodal operations.</p>
+						<p>As a transportation company, we have determined our most significant impact on the environment to be our contribution to air pollution and the production of greenhouse gases. As an environmentally responsible company, we are constantly striving to turn negative impacts into positive ones.</p>
+						<p>To become a SmartWay partner, Saia was required to complete an initial analysis of our entire fleet. This assessment looked at the age of our fleet, the type of technology we use, and company strategies relating to idle reduction and equipment retrofit. Following this initial assessment, our carbon dioxide and nitrogen oxide emissions were calculated. We were also asked to predict what our fleet would look like three years from our initial assessment. Saia is required to submit an annual update each June of every year to the SmartWay program, which tracks our progress and assesses our environmental impact.</p>
+						<p>Saia is committed to reducing greenhouse gas emissions and air pollution and improving the fuel efficiency of our fleet. In fact, Saia recently added several tractors that burn a low sulfur fuel. These new low sulfur engines result in approximately 50 percent less emissions per unit.</p>
+						<p>Saia is also in the process of installing "thin clients" in several of our terminals. They will replace computers that are now in use. Thin clients result in big energy savings as they consume 13 watts of energy as opposed to the 77 that a personal computer uses. Thin clients can also remain in service longer than a typical computer thus ultimately producing less surplus computer hardware that can end up in a landfill.</p>
+						<div class="spacer3"></div>
+						<hr />
+						<div class="spacer2"></div>
+						<h3>Recycling</h3>
+						<p>Saia is also committed to recycling. While we are constantly seeking new opportunities, we have many recycling/reuse programs currently in place. 
+						They include:</p>
+						<ul class="list">
+							<li class="noTopSpacing">Pallets — Pallets are continually re-used throughout our system to help support shipping by certain retail accounts, specific commodities, and for dunnage, blocking, and bracing to help protect freight.</li>
+							<li>Steel, Aluminum and Used Oil — Saia's Maintenance Departments have recycling programs in place to handle all scrap steel, aluminum and used motor oil. Our scrap steel and aluminum is sold to recyclers. Our used motor oil is either recycled or used to provide heat in a select few of our maintenance shops.</li>
+							<li>Tires — Saia maintains a tire program as outlined in our company's Operation's Policy and Procedure Manual. We have programs in place to maximize the life of our tires and mileage, as well as minimize our costs.</li>
+							<li>Paper — Saia is working toward each facility setting up a recycling program at a local facility. Several of Saia's offices and terminals, including the corporate office, have started recycling office paper.</li>
+							<li>Cell phones — All our cell phones are recycled through a buyback program with our cell phone vendor.</li>
+							<li>Mail Envelopes — Used envelopes and shipping boxes are not disposed of. These items are utilized for internal shipping of documents/items between our facilities.</li>
+						</ul>
+						<p>Saia is working toward each of our facilities reducing their local landfill impact. Facilities that are operating under the RC14001 requirements are expected to have local recycling activities in place.</p>
+						<p>Rest assured that Saia will continue to investigate ways to reduce any negative impact we have on the environment whether it's through energy reduction programs, recycling opportunities, etc. Being environmentally responsible is just one more step in our drive to become a best-in-class carrier!</p>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>
