@@ -454,6 +454,27 @@ body > .container {
 	min-width: 401px;
 	position: relative;
 }
+#main .container h3 > a {
+	font: 18px helvetica, arial, sans-serif;
+	line-height: 30px;
+}
+#main .container ul.accordion h2 {
+	padding-top: 0;
+}
+#main .container ul.accordion h2 > a {
+	font: 22px helvetica, arial, sans-serif;
+	color: #333;
+	padding-left: 16px;
+}
+#main .container ul.news li > div {
+	padding: 0 32px;
+}
+#main .container ul.news > li {
+	padding: 10px 0;
+}
+#main .container ul.news div > #hor-minimalist1 tr.last {
+	border-bottom: 1px solid #fff;
+}
 #main .container div.imgContainer {
 	position: relative;
 	height: 150px;
@@ -476,30 +497,27 @@ body > .container {
 }
 #main .container div.thirds {
 	position: relative;
-	min-height: 288px;
 }
 #main .container div.thirds > ul {
-	width: 150px;
+	width: 30%;
+	float: left;
 }
 #main .container div.thirds > ul.left {
-	position: absolute;
-	left: 0;
-	top: 0;
+	margin-right: 5%;
 }
 #main .container div.thirds > ul.mid {
-	margin: 0 auto;
+	margin-right: 5%;
 }
 #main .container div.thirds > ul.right {
-	position: absolute;
-	right: 0;
-	top: 0;
+	
 }
 #main .container div.thirds > ul > li {
 	margin: 5px 0;
-	padding: 0 5px;
+	padding: 0 0;
 }
 #main .container div.thirds > ul > li.first {
 	margin-top: 0;
+	border-bottom: 1px solid #999;
 }
 #main .container div.thirds > ul > li.last {
 	margin-bottom: 0;
@@ -523,7 +541,6 @@ body > .container {
 	border-bottom: 1px dashed #d51d24;
 }
 #main .container ul.awards > li.last {
-	border-bottom: 1px dashed #fff;
 }
 #main .container ul.awards > li > h2 {
 	line-height: 26px;
@@ -540,7 +557,6 @@ body > .container {
 	margin-top: 0;	
 }
 #main .container ul.awards > li.last > h2 {
-	margin-bottom: 0;	
 }
 #main .container ul.awards h2 > div {
 	position: relative;

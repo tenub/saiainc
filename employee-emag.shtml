@@ -15,78 +15,84 @@
     					<p>We invite you to browse our company newsletters to learn more about our employees and the pride they have in our company.</p>
     					<div class="thirds">
     						<ul class="left">
-								<li class="first"><a href="#">January 2012</a></li>
-								<li><a href="#">February-March 2012</a></li>
-								<li><a href="#">April 2012</a></li>
-								<li><a href="#">May 2012</a></li>
-								<li><a href="#">June 2012</a></li>
-								<li><a href="#">July 2012</a></li>
+								<li class="first"><h3>2012</h3></li>
+								<li><a href="#">Jan</a></li>
+								<li><a href="#">Feb-Mar</a></li>
+								<li><a href="#">Apr</a></li>
+								<li><a href="#">May</a></li>
+								<li><a href="#">Jun</a></li>
+								<li><a href="#">Jul</a></li>
 							</ul>
 							<ul class="mid">
-								<li class="first"><a href="#">January 2011</a></li>
-								<li><a href="#">February 2011</a></li>
-								<li><a href="#">March 2011</a></li>
-								<li><a href="#">April-May 2011</a></li>
-								<li><a href="#">June 2011</a></li>
-								<li><a href="#">July 2011</a></li>
-								<li><a href="#">August 2011</a></li>
-								<li><a href="#">September 2011</a></li>
-								<li><a href="#">October 2011</a></li>
-								<li><a href="#">November-December 2011</a></li>
+								<li class="first"><h3>2011</h3></li>
+								<li><a href="#">Jan</a></li>
+								<li><a href="#">Feb</a></li>
+								<li><a href="#">Mar</a></li>
+								<li><a href="#">Apr-May</a></li>
+								<li><a href="#">Jun</a></li>
+								<li><a href="#">Jul</a></li>
+								<li><a href="#">Aug</a></li>
+								<li><a href="#">Sept</a></li>
+								<li><a href="#">Oct</a></li>
+								<li><a href="#">Nov-Dec</a></li>
 							</ul>
 							<ul class="right">
-								<li class="first"><a href="#">January 2010</a></li>
-								<li><a href="#">February 2010</a></li>
-								<li><a href="#">March 2010</a></li>
-								<li><a href="#">April 2010</a></li>
-								<li><a href="#">May 2010</a></li>
-								<li><a href="#">June 2010</a></li>
-								<li><a href="#">July 2010</a></li>
-								<li><a href="#">August 2010</a></li>
-								<li><a href="#">September 2010</a></li>
-								<li><a href="#">October 2010</a></li>
-								<li><a href="#">November 2010</a></li>
-								<li><a href="#">December 2010</a></li>
+								<li class="first"><h3>2010</h3></li>
+								<li><a href="#">Jan</a></li>
+								<li><a href="#">Feb</a></li>
+								<li><a href="#">Mar</a></li>
+								<li><a href="#">Apr</a></li>
+								<li><a href="#">May</a></li>
+								<li><a href="#">Jun</a></li>
+								<li><a href="#">Jul</a></li>
+								<li><a href="#">Aug</a></li>
+								<li><a href="#">Sept</a></li>
+								<li><a href="#">Oct</a></li>
+								<li><a href="#">Nov</a></li>
+								<li><a href="#">Dec</a></li>
 							</ul>
 						</div>
 						<div class="spacer2"></div>
 						<div class="thirds">
     						<ul class="left">
-								<li class="first"><a href="#">January 2009</a></li>
-								<li><a href="#">February 2009</a></li>
-								<li><a href="#">March 2009</a></li>
-								<li><a href="#">April 2009</a></li>
-								<li><a href="#">May 2009</a></li>
-								<li><a href="#">June 2009</a></li>
-								<li><a href="#">July 2009</a></li>
-								<li><a href="#">August 2009</a></li>
-								<li><a href="#">September 2009</a></li>
-								<li><a href="#">October 2009</a></li>
-								<li><a href="#">November 2009</a></li>
-								<li><a href="#">December 2009</a></li>
+    							<li class="first"><h3>2009</h3></li>
+								<li><a href="#">Jan</a></li>
+								<li><a href="#">Feb</a></li>
+								<li><a href="#">Mar</a></li>
+								<li><a href="#">Apr</a></li>
+								<li><a href="#">May</a></li>
+								<li><a href="#">Jun</a></li>
+								<li><a href="#">Jul</a></li>
+								<li><a href="#">Aug</a></li>
+								<li><a href="#">Sept</a></li>
+								<li><a href="#">Oct</a></li>
+								<li><a href="#">Nov</a></li>
+								<li><a href="#">Dec</a></li>
 							</ul>
 							<ul class="mid">
-								<li class="first"><a href="#">January 2008</a></li>
-								<li><a href="#">February 2008</a></li>
-								<li><a href="#">March-April 2008</a></li>
-								<li><a href="#">May 2008</a></li>
-								<li><a href="#">June-July 2008</a></li>
-								<li><a href="#">August-September 2008</a></li>
-								<li><a href="#">October-November 2008</a></li>
-								<li><a href="#">December 2008</a></li>
+								<li class="first"><h3>2008</h3></li>
+								<li><a href="#">Jan</a></li>
+								<li><a href="#">Feb</a></li>
+								<li><a href="#">Mar-Apr</a></li>
+								<li><a href="#">May</a></li>
+								<li><a href="#">Jun-Jul</a></li>
+								<li><a href="#">Aug-Sept</a></li>
+								<li><a href="#">Oct-Nov</a></li>
+								<li><a href="#">Dec</a></li>
 							</ul>
 							<ul class="right">
-								<li class="first"><a href="#">January 2007</a></li>
-								<li><a href="#">February 2007</a></li>
-								<li><a href="#">March 2007</a></li>
-								<li><a href="#">April 2007</a></li>
-								<li><a href="#">May 2007</a></li>
-								<li><a href="#">June 2007</a></li>
-								<li><a href="#">July 2007</a></li>
-								<li><a href="#">August 2007</a></li>
-								<li><a href="#">September 2007</a></li>
-								<li><a href="#">October-November 2007</a></li>
-								<li><a href="#">December 2007</a></li>
+								<li class="first"><h3>2007</h3></li>
+								<li><a href="#">Jan</a></li>
+								<li><a href="#">Feb</a></li>
+								<li><a href="#">Mar</a></li>
+								<li><a href="#">Apr</a></li>
+								<li><a href="#">May</a></li>
+								<li><a href="#">Jun</a></li>
+								<li><a href="#">Jul</a></li>
+								<li><a href="#">Aug</a></li>
+								<li><a href="#">Sept</a></li>
+								<li><a href="#">Oct-Nov</a></li>
+								<li><a href="#">Dec</a></li>
 							</ul>
 						</div>
 						<div class="spacer1"></div>
