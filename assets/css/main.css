@@ -868,7 +868,7 @@ body > .container {
 	line-height: 1.5em;
 	padding: 10px 0;
 }
-#main .container .quote, #main .container .fullBody > .quote {
+#main .container p.quote {
 	position: relative;
 	font-style: italic;
 	width: 75%;
@@ -879,6 +879,12 @@ body > .container {
 }
 #main .container .fullBody > div.quote {
 	padding-bottom: 20px;
+	position: relative;
+	font-style: italic;
+	margin: 0;
+	padding: 10px 15px;
+	line-height: 2em;
+	z-index: 1;
 }
 #main .container p.quote > span.left {
 	/* position: absolute;

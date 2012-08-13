@@ -1,0 +1,90 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html"-->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<div class="fullBody">
+							<h1>Testimonials</h1>
+							<p>In today's busy world, where few of us take the time to say"job well done", we're always pleased when our customers take the time to let us know that we have exceeded their expectations. Here is a sampling of what our customers have to say about Saia:</p>
+							<div class="quote">
+								<h3>Wray Carmichael, Logistics Manager - Swedish Match</h3>
+								"We find your website to be easy to use and provide excellent information that allows us to provide better service to our customers. The service and status report allow us to monitor the service our customers get both on a long term and a daily basis. We use the notification information to contact our customers and handle problems the same day as they occur."
+							</div>
+							<div class="quote">
+								<h3>Ronald Zimmer, Corporate Transportation Manager - Composites One</h3>
+								"I am glad we have Saia as a Preferred Next Day LTL Carrier for Composites One. We can count on Saia to deliver next day with lift gate service, which many carriers can not provide. We expect exceptional service, and to date, Saia has provided us with such service. Our customers also are happy with Saia's service."
+							</div>
+							<div class="quote">
+								<h3>Rose Minchella, Manager, Transportation - MASCO Corporation</h3>
+								"One of the things that I think makes Saia an exceptional carrier is their management. They give each customer the individual attention that shows that they care about all their shippers, both large and small. Servicing their customers is foremost, and they will do whatever it takes to get the job done to the satisfaction of all parties involved."
+							</div>
+							<div class="quote">
+								<h3>Bill Compton, Corporate Transportation Director - Fruit of the Loom</h3>
+								"Saia is a core carrier for Fruit of the Loom. Saia has a strong Customer Service Team that we know can handle our hot shipments, and Saia has a strong commitment to on-time delivery. We appreciate Saia, and they are part of the reason for our success."
+							</div>
+							<div class="quote">
+								<h3>Dennis Jenssen, Director of Distribution - Flint Ink</h3>
+								"Saia has always taken the initiative in helping our local people solve all of our supply chain needs. Our customer base is a mixture of large and small printers, which need the service of a niche carrier but the strength of a large super carrier support. With Saia as one of our prime carriers, we have satisfied all of our concerns. We look forward to a long partnership."
+							</div>
+							<div class="quote">
+								<h3>Jay Morford - Ameron, Pasadena, CA</h3>
+								"Saia has provided great service to our company and always handles our business in a professional manner. The company works to build an excellent relationship with every customer they partner with."
+							</div>
+							<div class="quote">
+								<h3>Alan Wiederhold - Dresser, Houston, TX</h3>
+								"Energy moves the world. Dresser moves energy. Saia moves Dresser products."
+							</div>
+							<div class="quote">
+								<h3>Bob Russell - National Oilwell, Houston, TX</h3>"For more than 15 years we have been partners with Saia. As a company, they are responsive and extremely helpful with any issue. I look forward to many more years of great service."
+							</div>
+							<div class="quote">
+								<h3>Byron Brankle, Corporate Traffic Manager - American Pad &amp; Paper LLC</h3>
+								"We have found Saia responsive to our service needs throughout their entire service area. And, Saia is responsive to our customer service issues, billing and claims. Saia is a valued provider of transportation service to our company. And, the Saia sales department is second to none in the industry."
+							</div>
+							<div class="quote">
+								<h3>Michael Janis - Lagasse Brothers Inc., Harahan, LA</h3>
+								"Saia is a truly exceptional carrier. The work ethic and delivery performance are great and the customer service is impeccable. All this and the management team are willing to go the extra mile. Saia exceeds our expectations."
+							</div>
+							<div class="quote">
+								<h3>Scott W. Ambler - SCP Distributors LLC, Covington, LA</h3>
+								"Saia's dedication and professionalism is a breath of fresh air. They say what they can do and do exactly what they say they can do."
+							</div>
+							<div class="quote">
+								<h3>Don Graham - Akzo Nobel/International Paint, Houston, TX</h3>
+								"I am very pleased with Saia for the results they have provided in 2004 and we are very excited about the coming year. Saia ensures continued customer service and a 'can-do' attitude."
+							</div>
+							<div class="quote">
+								<h3>Michael L. Taber - Chevron Phillips Chemical Company LP, The Woodlands, TX</h3>
+								"The business relationship between Chevron Phillips Chemical Company LP and Saia continues to grow - and improve - with each passing month. Their services are customer-focused and of the highest quality. Saia drivers project a professional image and sales and customer service personnel always respond quickly. We consider Saia a valuable business partner and look forward to continuing our business relationship for many years to come."
+							</div>
+							<div class="quote">
+								<h3>David McAsland - Southwest Oilfield, Houston, TX</h3>
+								"As far as I'm concerned, Saia is the best carrier out there. I have had very, very, very few claims if any. I also have a great relationship with your sales department. You are the best and I wouldn't say that if it wasn't true"
+							</div>
+							<div class="quote">
+								<h3>Pamela Oaks - Vanguard, Fort Mill, SC</h3>
+								"Saia has handled our fragile freight in a way that has decreased our shipping damages. Our customers have complimented Saia in delivering their freight intact with little or no damage. I hope Vanguard and Saia will have a long-lived relationship. Thank you for all the excellent service and professionalism."
+							</div>
+						</div>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html"-->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html"-->
+			<!-- footer content end -->
+	</body>
+</html>
