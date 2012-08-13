@@ -12,6 +12,9 @@
     					<div class="fullBody">
 							<h1>Testimonials</h1>
 							<p>In today's busy world, where few of us take the time to say"job well done", we're always pleased when our customers take the time to let us know that we have exceeded their expectations. Here is a sampling of what our customers have to say about Saia:</p>
+							<div class="spacer1"></div>
+							<hr />
+							<div class="spacer1"></div>
 							<div class="quote">
 								<h3>Wray Carmichael, Logistics Manager - Swedish Match</h3>
 								"We find your website to be easy to use and provide excellent information that allows us to provide better service to our customers. The service and status report allow us to monitor the service our customers get both on a long term and a daily basis. We use the notification information to contact our customers and handle problems the same day as they occur."
