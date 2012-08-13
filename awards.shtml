@@ -12,6 +12,9 @@
     					<div class="fullBody">
 							<h1>Awards</h1>
 							<p>As part of backing up our talk, we like to show you real-world results. Saia people, products, and technologies continue to receive recognition, from our customers and within the industry. Here is a sampling of some of the recent accolades our company has received:</p>
+							<div class="spacer1"></div>
+							<hr />
+							<div class="spacer1"></div>
 							<ul class="accordion awards">
 								<li class="first">
 									<h2>

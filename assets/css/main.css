@@ -882,7 +882,7 @@ body > .container {
 	position: relative;
 	font-style: italic;
 	margin: 0;
-	padding: 10px 15px;
+	padding: 10px 0;
 	line-height: 2em;
 	z-index: 1;
 }
