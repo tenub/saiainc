@@ -474,6 +474,43 @@ body > .container {
 	right: 0;
 	top: 0;
 }
+#main .container div.thirds {
+	position: relative;
+	min-height: 288px;
+}
+#main .container div.thirds > ul {
+	width: 150px;
+}
+#main .container div.thirds > ul.left {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#main .container div.thirds > ul.mid {
+	margin: 0 auto;
+}
+#main .container div.thirds > ul.right {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#main .container div.thirds > ul > li {
+	margin: 5px 0;
+	padding: 0 5px;
+}
+#main .container div.thirds > ul > li.first {
+	margin-top: 0;
+}
+#main .container div.thirds > ul > li.last {
+	margin-bottom: 0;
+}
+#main .container div.thirds a {
+	font: 16px helvetica, arial, sans-serif;
+	color: #d51d24;
+}
+#main .container div.thirds a:hover {
+	color: #333;
+}
 #main .container div.relative > img.left {
 	float: left;
 	margin-right: 1.5em;

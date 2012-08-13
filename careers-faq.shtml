@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<div class="fullBody">
+							<h1>Career FAQ</h1>
+							<div class="spacer2"></div>
+							<h2>Subhead 1</h2>
+							<p>Donec adipiscing facilisis leo. Etiam risus justo, vulputate sed molestie vel, imperdiet ac urna. Aliquam tristique aliquam enim sit amet dignissim. Aliquam lobortis consectetur diam, vel varius erat iaculis at. Suspendisse sed tellus eget lorem condimentum viverra quis sit amet nisl.</p>
+							<p>Paragraph two. Suspendisse aliquet urna sagittis ante varius mattis. Donec fringilla, eros sed adipiscing varius, dui lacus ultricies tortor, eu condimentum purus nisi a dolor. Vivamus pulvinar velit cursus justo tempus mattis. Integer mollis pharetra mauris, sit amet porta magna pretium in. Aenean ut massa non diam vestibulum dapibus non sit amet nisi. Nunc arcu tortor, tristique ut sodales a, consequat eget odio. Aliquam nec diam turpis. Cras in ligula justo, quis iaculis dui.</p>
+							<h2>Subhead 2</h2>
+							<ul class="list">
+								<li>Eget lorem condimentum. Maecenas felis risus, pretium nec faucibus id, dignissim et velit. Etiam porttitor gravida rhoncus. Vestibulum sit amet tristique risus.</li>
+								<li>Eros sed adipiscing varius, dui lacus ultricies. Cras ultricies euismod turpis, a egestas nisi elementum et.</li>
+								<li>Ercu tortor, tristique ut, donec a est a felis fermentum consectetur. Fusce ultrices sagittis erat in ultricies.</li>
+							</ul>
+						</div>
+					</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-careers.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

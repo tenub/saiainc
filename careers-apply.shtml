@@ -1,0 +1,97 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<div class="formBody">
+							<h1>Find a Job Position That Fits You</h1>
+							<h2>Saia has a Variety of Job Positions Available</h2>
+							<p>Information on how to use the form goes here. Etiam risus justo, vulputate sed molestie vel, imperdiet ac urna. Aliquam tristique aliquam enim sit amet dignissim. Aliquam lobortis consectetur diam, vel varius erat iaculis at.</p>
+                            <form>
+                                <div>
+                                    <select name="job_position" id="position" class="select">
+                                        <option>Select Type of Job Position</option>
+                                        <option value="1">Position 1</option>
+                                        <option value="2">Position 2</option>
+                                        <option value="3">Position 3</option>
+                                        <option value="4">Position 4</option>
+                                        <option value="5">Position 5</option>
+                                        <option value="6">Position 6</option>
+                                        <option value="7">Position 7</option>
+                                        <option value="8">Position 8</option>
+                                    </select>
+                                    <div class="min1">
+                                        <div class="left">
+                                            <select name="job_position" id="state" class="select">
+                                                <option>Select State</option>
+                                                <option value="1">GA</option>
+                                                <option value="2">NY</option>
+                                                <option value="3">TX</option>
+                                                <option value="4">CA</option>
+                                                <option value="5">IL</option>
+                                                <option value="6">FL</option>
+                                                <option value="7">WA</option>
+                                                <option value="8">AK</option>
+                                            </select>
+                                        </div>
+                                        <div class="right">
+                                            <select name="job_position" id="city" class="select">
+                                                <option>Select City</option>
+                                                <option value="1">Atlanta</option>
+                                                <option value="2">Macon</option>
+                                                <option value="3">Marietta</option>
+                                                <option value="4">Alpharetta</option>
+                                                <option value="5">Augusta</option>
+                                                <option value="6">Savannah</option>
+                                                <option value="7">Columbus</option>
+                                                <option value="8">Athens</option>
+                                            </select>
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                                </div>
+                                <div class="spacer3"></div>
+                                <hr />
+                                <div class="spacer1"></div>
+                                <div>
+                                    <h2>Selected Job Position Displayed Here</h2>
+                                    <p>Selected Location Displayed Here<br />
+                                    Street Address, City, State, Zip<br />
+                                    Phone Number</p>
+                                    <p>Job Responsibilities:<br />
+                                    Description goes here. Dollacea perspidi nos ra im enistrunt que consectur.</p>
+                                    <div class="spacer1"></div>
+                                    <ul class="list">
+                                        <li class="first">Minimum Qualifications:</li>
+                                        <li>21 years of age</li>
+                                        <li>Maintain Class A CDL</li>
+                                        <li>Maintain T endorsement and X or H endorsement</li>
+                                        <li>1 year tractor trailer experience</li>
+                                    </ul>
+                                    <div class="spacer1"></div>
+                                    <a href="#" class="buttonLink">Apply For This Job Position</a>
+                                </div>
+                            </form>
+                        </div>
+					</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-careers.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>
