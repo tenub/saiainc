@@ -539,7 +539,7 @@ body > .container {
 }
 #main .container div.relative > img.left {
 	float: left;
-	margin-right: 1.5em;
+	margin: 1em 1.5em 0 0;
 }
 #main .container .fullBody .noSpacing, #main .container .formBody .noSpacing {
 	margin: 0;
