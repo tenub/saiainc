@@ -9,9 +9,18 @@
     		<div id="content">
     			<div id="main">
     				<div class="container">
-						<div>
-							<img class="hero" src="assets/img/hero-warehouse.jpg" alt="Man in warehouse looking at receipts" />
+						<div class="blueberry">
+      						<ul class="slides">
+								<li><img class="hero" src="assets/img/slides/saia-inc-hero.jpg" alt="saia-inc-hero" /></li>
+								<li><img class="hero" src="assets/img/slides/hero-logistics-1.jpg" alt="hero-logistics-1" /></li>
+								<li><img class="hero" src="assets/img/slides/hero-logistics-2.jpg" alt="hero-logistics-2" /></li>
+								<li><img class="hero" src="assets/img/slides/hero-ltl-freight.jpg" alt="hero-ltl-freight" /></li>
+								<li><img class="hero" src="assets/img/slides/hero-ltl-xtreme-assurance.jpg" alt="hero-ltl-xtreme-assurance" /></li>
+								<li><img class="hero" src="assets/img/slides/hero-tl-plus-1.jpg" alt="hero-tl-plus-1" /></li>
+								<li><img class="hero" src="assets/img/slides/hero-tl-plus-2.jpg" alt="hero-tl-plus-2" /></li>
+							</ul>
 						</div>
+						<div class="clear"></div>
     					<h1>Saia LTL, Truckload &amp; Logistics</h1>
     					<h2>Now under one roof!</h2>
 						<p>Since its humble beginnings, Saia has become one of the most successful carriers in the United States, ranking in the top ten of carriers in the LTL sector. The company has coverage in 34 states through a network of 147 terminals and approximately 7,500 employees.</p>
