@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOctoberYPE html> 
 <html lang="en"> 
 	<head> 
 		<meta charset="utf-8"> 
@@ -16,83 +16,83 @@
     					<div class="thirds">
     						<ul class="left">
 								<li class="first"><h3>2012</h3></li>
-								<li><a href="#">Jan</a></li>
+								<li><a href="#">January</a></li>
 								<li><a href="#">Feb-Mar</a></li>
-								<li><a href="#">Apr</a></li>
+								<li><a href="#">April</a></li>
 								<li><a href="#">May</a></li>
-								<li><a href="#">Jun</a></li>
-								<li><a href="#">Jul</a></li>
+								<li><a href="#">June</a></li>
+								<li><a href="#">July</a></li>
 							</ul>
 							<ul class="mid">
 								<li class="first"><h3>2011</h3></li>
-								<li><a href="#">Jan</a></li>
-								<li><a href="#">Feb</a></li>
-								<li><a href="#">Mar</a></li>
+								<li><a href="#">January</a></li>
+								<li><a href="#">February</a></li>
+								<li><a href="#">March</a></li>
 								<li><a href="#">Apr-May</a></li>
-								<li><a href="#">Jun</a></li>
-								<li><a href="#">Jul</a></li>
-								<li><a href="#">Aug</a></li>
-								<li><a href="#">Sept</a></li>
-								<li><a href="#">Oct</a></li>
+								<li><a href="#">June</a></li>
+								<li><a href="#">July</a></li>
+								<li><a href="#">August</a></li>
+								<li><a href="#">September</a></li>
+								<li><a href="#">October</a></li>
 								<li><a href="#">Nov-Dec</a></li>
 							</ul>
 							<ul class="right">
 								<li class="first"><h3>2010</h3></li>
-								<li><a href="#">Jan</a></li>
-								<li><a href="#">Feb</a></li>
-								<li><a href="#">Mar</a></li>
-								<li><a href="#">Apr</a></li>
+								<li><a href="#">January</a></li>
+								<li><a href="#">February</a></li>
+								<li><a href="#">March</a></li>
+								<li><a href="#">April</a></li>
 								<li><a href="#">May</a></li>
-								<li><a href="#">Jun</a></li>
-								<li><a href="#">Jul</a></li>
-								<li><a href="#">Aug</a></li>
-								<li><a href="#">Sept</a></li>
-								<li><a href="#">Oct</a></li>
-								<li><a href="#">Nov</a></li>
-								<li><a href="#">Dec</a></li>
+								<li><a href="#">June</a></li>
+								<li><a href="#">July</a></li>
+								<li><a href="#">August</a></li>
+								<li><a href="#">September</a></li>
+								<li><a href="#">October</a></li>
+								<li><a href="#">November</a></li>
+								<li><a href="#">December</a></li>
 							</ul>
 						</div>
 						<div class="spacer2"></div>
 						<div class="thirds">
     						<ul class="left">
     							<li class="first"><h3>2009</h3></li>
-								<li><a href="#">Jan</a></li>
-								<li><a href="#">Feb</a></li>
-								<li><a href="#">Mar</a></li>
-								<li><a href="#">Apr</a></li>
+								<li><a href="#">January</a></li>
+								<li><a href="#">February</a></li>
+								<li><a href="#">March</a></li>
+								<li><a href="#">April</a></li>
 								<li><a href="#">May</a></li>
-								<li><a href="#">Jun</a></li>
-								<li><a href="#">Jul</a></li>
-								<li><a href="#">Aug</a></li>
-								<li><a href="#">Sept</a></li>
-								<li><a href="#">Oct</a></li>
-								<li><a href="#">Nov</a></li>
-								<li><a href="#">Dec</a></li>
+								<li><a href="#">June</a></li>
+								<li><a href="#">July</a></li>
+								<li><a href="#">August</a></li>
+								<li><a href="#">September</a></li>
+								<li><a href="#">October</a></li>
+								<li><a href="#">November</a></li>
+								<li><a href="#">December</a></li>
 							</ul>
 							<ul class="mid">
 								<li class="first"><h3>2008</h3></li>
-								<li><a href="#">Jan</a></li>
-								<li><a href="#">Feb</a></li>
+								<li><a href="#">January</a></li>
+								<li><a href="#">February</a></li>
 								<li><a href="#">Mar-Apr</a></li>
 								<li><a href="#">May</a></li>
-								<li><a href="#">Jun-Jul</a></li>
+								<li><a href="#">June-July</a></li>
 								<li><a href="#">Aug-Sept</a></li>
 								<li><a href="#">Oct-Nov</a></li>
-								<li><a href="#">Dec</a></li>
+								<li><a href="#">December</a></li>
 							</ul>
 							<ul class="right">
 								<li class="first"><h3>2007</h3></li>
-								<li><a href="#">Jan</a></li>
-								<li><a href="#">Feb</a></li>
-								<li><a href="#">Mar</a></li>
-								<li><a href="#">Apr</a></li>
+								<li><a href="#">January</a></li>
+								<li><a href="#">February</a></li>
+								<li><a href="#">March</a></li>
+								<li><a href="#">April</a></li>
 								<li><a href="#">May</a></li>
-								<li><a href="#">Jun</a></li>
-								<li><a href="#">Jul</a></li>
-								<li><a href="#">Aug</a></li>
-								<li><a href="#">Sept</a></li>
+								<li><a href="#">June</a></li>
+								<li><a href="#">July</a></li>
+								<li><a href="#">August</a></li>
+								<li><a href="#">September</a></li>
 								<li><a href="#">Oct-Nov</a></li>
-								<li><a href="#">Dec</a></li>
+								<li><a href="#">December</a></li>
 							</ul>
 						</div>
 						<div class="spacer1"></div>

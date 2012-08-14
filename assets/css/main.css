@@ -465,11 +465,14 @@ body > .container {
 }
 #main .container ul.accordion h2 {
 	padding-top: 0;
+	padding-left: 16px;
+}
+#main .container ul.accordion h2:hover {
+	cursor: pointer;
 }
 #main .container ul.accordion h2 > a {
 	font: 22px helvetica, arial, sans-serif;
 	color: #333;
-	padding-left: 16px;
 }
 #main .container ul.news li > div {
 	padding: 0 32px;
@@ -504,14 +507,14 @@ body > .container {
 	position: relative;
 }
 #main .container div.thirds > ul {
-	width: 30%;
+	width: 20%;
 	float: left;
 }
 #main .container div.thirds > ul.left {
-	margin-right: 5%;
+	margin-right: 20%;
 }
 #main .container div.thirds > ul.mid {
-	margin-right: 5%;
+	margin-right: 20%;
 }
 #main .container div.thirds > ul.right {
 	
@@ -565,6 +568,7 @@ body > .container {
 }
 #main .container ul.awards h2 > div {
 	position: relative;
+	padding-left: 5px;
 }
 #main .container ul.awards h2:hover {
 	border: 1px solid #eee;
@@ -587,7 +591,7 @@ body > .container {
 #main .container ul.awards h2 > div > div.sub {
 	font: 16px helvetica, arial, sans-serif;
 	color: #333;
-	padding: 5px 0 0 5px;
+	padding: 5px 0 0 0;
 	line-height: 1.5em;
 }
 #main .container ul.awards h3 {
