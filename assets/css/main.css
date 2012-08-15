@@ -51,6 +51,16 @@ label{
 .desc, .desc1 {
 	display: none;
 }
+.green {
+	color: #093;
+	position: relative;
+	padding-left: 16px;
+}
+#main .container .fullBody p.iconPadding, #main .container p.iconPadding {
+	padding: 0 0 0 10px;
+	margin: 0;
+	font-size: 14px;
+}
 .indent {
 	padding-left: 20px;
 }
@@ -63,6 +73,9 @@ label{
 	overflow: hidden;
 	max-width: 800px;
 	max-height: 400px;
+}
+.red {
+    color: #d51d24;
 }
 .relative {
 	position: relative;
@@ -884,28 +897,43 @@ body > .container {
 	margin-bottom: 0;
 	padding-bottom: 0;
 }
-#main .container ul.twoColList {
-	list-style: url('../img/bullet_arrow.png');
-	margin: 0 0 20px 15px;
+#main .container ul.twoColList, #main .container ul.oneColList {
+	margin: 0 0 20px 0;
+}
+#main .container ul.twoColList > li:before, #main .container ul.oneColList > li:before {
+    background: url('images/ui-icons_222222_256x240.png') no-repeat -32px 0;
+    width: 16px;
+    height: 16px;
+    display: block;
+    position: absolute;
+    content: " ";
+    top: 3px;
+    left: 0;
 }
 #main .container ul.glossary {
 	list-style: none;
 	margin: 0 0 20px 0;
 }
-#main .container ul.twoColList > li, #main .container ul.glossary > li {
+#main .container ul.twoColList > li, #main .container ul.oneColList > li, #main .container ul.glossary > li {
 	line-height: 1.5em;
 	margin: 15px 0;
+	padding-left: 16px;
+	position: relative;
 }
-#main .container ul.twoColList > li.first, #main .container ul.glossary > li.first {
+#main .container ul.twoColList > li.first, #main .container ul.oneColList > li.first, #main .container ul.glossary > li.first {
 	list-style: none;
     margin: 15px 0 0 0;
-    text-indent: -15px;
+    text-indent: -16px;
 }
-#main .container ul.twoColList > li > a, #main .container ul.glossary > li > a {
+#main .container ul.twoColList > li.first:before, #main .container ul.oneColList > li.first:before, #main .container ul.glossary > li.first:before {
+	background: none;
+}
+#main .container ul.twoColList > li > a, #main .container ul.oneColList > li > a, #main .container ul.glossary > li > a {
 	font-family: helvetica, arial, sans-serif;
+	color: #d51d24;
 }
-.red {
-    color: #d51d24;
+#main .container ul.twoColList > li > a:hover, #main .container ul.oneColList > li > a:hover, #main .container ul.glossary > li > a:hover {
+	color: #333;
 }
 #main .container hr {
 	border: 0;
@@ -2078,7 +2106,7 @@ label.min {
     border: none;
     padding: 10px 0 10px 0;
     text-align: left;
-    color: #d51d24;
+    color: #666;
 }
 #hor-minimalist tfoot tr, #hor-minimalist1 tfoot tr, #hor-minimalist2 tfoot tr {
     border: none;

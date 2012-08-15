@@ -1,0 +1,269 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html"-->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<div class="fullBody">
+							<h1>News Releases</h1>
+							<p>Below is a list of our current press releases. These releases announce important information about our company. We have made the selection process simple. Just click and read the release you are interested in.</p>
+							<div class="spacer1"></div>
+							<hr />
+							<div class="spacer2"></div>
+							<span class="bold">July 2, 2012</span> &#8211; <a href="#">Saia, Inc. Announces Acquisition of Brokerage and 3PL Business</a></h3>
+							<div class="spacer3"></div>
+							<hr />
+							<div class="spacer1"></div>
+							<ul class="accordion news">
+								<li class="first">
+									<h2><a href="#"class="head">2012 Archives</a></h2>
+									<div>
+										<table id="hor-minimalist1">
+								            <thead>
+												<tr>
+													<th scope="col">Date</th>
+													<th scope="col">Press Release</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td><span class="bold">June 5, 2012</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2012</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2012</span></td>
+													<td><a href="#">Saia Honored as 2011 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2012</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+								            </tbody>
+								        </table>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#"class="head">2011 Archives</a></h2>
+									<div>
+										<table id="hor-minimalist1">
+								            <thead>
+												<tr>
+													<th scope="col">Date</th>
+													<th scope="col">Press Release</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td><span class="bold">June 5, 2011</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2011</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2011</span></td>
+													<td><a href="#">Saia Honored as 2011 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2011</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">June 5, 2010</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2010</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2010</span></td>
+													<td><a href="#">Saia Honored as 2010 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2010</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">June 5, 2010</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2010</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2010</span></td>
+													<td><a href="#">Saia Honored as 2010 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2010</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">June 5, 2010</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2010</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2010</span></td>
+													<td><a href="#">Saia Honored as 2010 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2010</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+								            </tbody>
+								        </table>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#"class="head">2010 Archives</a></h2>
+									<div>
+										<table id="hor-minimalist1">
+								            <thead>
+												<tr>
+													<th scope="col">Date</th>
+													<th scope="col">Press Release</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td><span class="bold">June 5, 2010</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2010</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2010</span></td>
+													<td><a href="#">Saia Honored as 2010 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2010</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">June 5, 2010</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2010</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2010</span></td>
+													<td><a href="#">Saia Honored as 2010 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2010</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">June 5, 2010</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2010</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2010</span></td>
+													<td><a href="#">Saia Honored as 2010 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2010</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+								            </tbody>
+								        </table>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2><a href="#"class="head">2009 Archives</a></h2>
+									<div>
+										<table id="hor-minimalist1">
+								            <thead>
+												<tr>
+													<th scope="col">Date</th>
+													<th scope="col">Press Release</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td><span class="bold">June 5, 2009</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2009</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2009</span></td>
+													<td><a href="#">Saia Honored as 2009 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2009</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">June 5, 2010</span></td>
+													<td><a href="#">Saia Chooses Microsoft Dynamics CRM Software</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 28, 2010</span></td>
+													<td><a href="#">Saia Honored with Prominent Customer Award</a></td>
+												</tr>
+												<tr>
+													<td><span class="bold">March 21, 2010</span></td>
+													<td><a href="#">Saia Honored as 2010 Strategic Carrier Partner by Unishippers</a></td>
+												</tr>
+												<tr class="last">
+													<td><span class="bold">March 5, 2010</span></td>
+													<td><a href="#">Saia Names New Vice President of Maintenance and Properties</a></td>
+												</tr>
+								            </tbody>
+								        </table>
+									</div>
+								</li>
+							</ul>
+						</div>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html"-->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html"-->
+			<!-- footer content end -->
+	</body>
+</html>

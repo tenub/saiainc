@@ -3,12 +3,14 @@
 
 /* states and images */
 .ui-icon { display: block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+.ui-icon-green { display: block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
 
 /* Icons
 ----------------------------------*/
 
 /* states and images */
 .ui-icon { width: 16px; height: 16px; background-image: url(images/ui-icons_222222_256x240.png); position: absolute; left: 0; }
+.ui-icon-green { width: 16px; height: 16px; background-image: url(images/ui-icons_009933_256x240.png); position: absolute; left: 6px; }
 .ui-widget-content .ui-icon {background-image: url(images/ui-icons_222222_256x240.png); }
 .ui-widget-header .ui-icon {background-image: url(images/ui-icons_ffffff_256x240.png); }
 .ui-state-default .ui-icon { background-image: url(images/ui-icons_222222_256x240.png); }

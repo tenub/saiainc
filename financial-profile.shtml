@@ -1,0 +1,76 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+  						<div class="fullBody">
+  							<h1>Saia Financial Profile</h1>
+                <div class="spacer2"></div>
+  							<p>Saia is a leading transportation company that provides a variety of trucking transportation and supply chain solutions to a broad range of industries. We serve a wide variety of customers by offering regional, interregional and national LTL services and selected TL services across the United States, with a focus on regional transportation solutions.</p>
+                <div class="spacer1"></div>
+                <hr />
+                <div class="spacer2"></div>
+                <table id="hor-minimalist1">
+                  <tbody class="spanned">
+                    <thead>
+                      <th colspan="2">SAIA (Common Stock)</th>
+                    </thead>
+                    <tr>
+                      <td>Exchange</td>
+                      <td>NASDAQ GS (US Dollar)</td>
+                    </tr>
+                    <tr>
+                      <td>Price</td>
+                      <td>$23.17</td>
+                    </tr>
+                    <tr>
+                      <td>Change (%)</td>
+                      <td class="green"><p class="iconPadding"><span class="ui-icon-green ui-icon-triangle-1-n" style="margin-top:1px;"></span>0.64 (2.84%)</p></td>
+                    </tr>
+                    <tr>
+                      <td>Volume</td>
+                      <td>77,402</td>
+                    </tr>
+                    <tfoot>
+                      <td colspan="2" class="disclaimer">Data as of 08/14/12 4:00 PM ET. Minimum 20 minute delay. <a href="#">Refresh quote</a></td>
+                    </tfoot>
+                  </tbody>
+                </table>
+                <p class="disclaimer">Quotes delayed at least 15 minutes. Market data provided by <a href="http://www.interactivedata.com" target="_blank">Interactive Data</a>. <a href="http://www.interactivedata.com/index.php/Contents/show/content/quoteTerms" target="_blank">Terms &amp; Conditions</a>. Powered and implemented by <a href="http://www.interactivedata.com/idms" target="_blank">Interactive Data Managed Solutions</a>.</p>
+                <div class="spacer3"></div>
+                <hr />
+                <div class="spacer5"></div>
+                <ul class="oneColList">
+                  <li class="first"><h3>Corporate Documents</h3></li>
+                  <li><a href="#">Corporate Profile <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" class="left" /></a></li>
+                  <li><a href="#">Historical Results from Continuing Operations to June 2006 <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" class="left" /></a></li>
+                </ul>
+                <div class="relative">
+                  <h3><a href="#">Calendar of Events</a></h3>
+                </div>
+                <div class="relative">
+                  <h3><a href="#">Company News</a></h3>
+                </div>
+  						</div>
+  					</div>
+    			</div>
+    			<div id="sidebar">
+            <div class="container">
+            <!-- sidebar content start -->
+            <!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+            <!-- sidebar content end -->
+              <div class="spacer"></div>
+            </div>
+          </div>
+        </div>
+        <!-- footer content start -->
+      <!--#include virtual="assets/templates/footer-inc.html" -->
+      <!-- footer content end -->
+	</body>
+</html>
