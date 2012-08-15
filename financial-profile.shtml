@@ -51,12 +51,11 @@
                   <li><a href="#">Corporate Profile <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" class="left" /></a></li>
                   <li><a href="#">Historical Results from Continuing Operations to June 2006 <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" class="left" /></a></li>
                 </ul>
-                <div class="relative">
-                  <h3><a href="#">Calendar of Events</a></h3>
-                </div>
-                <div class="relative">
-                  <h3><a href="#">Company News</a></h3>
-                </div>
+                <h3>Calendar of Events</h3>
+                <p>For a calendar of events past and present pertaining to Saia's financial information please click<a href="#">here</a>.</p>
+                <div class="spacer1"></div>
+                <h3>Company News</h3>
+                <p>For all financial related news please click <a href="#">here</a>.</p>
   						</div>
   					</div>
     			</div>

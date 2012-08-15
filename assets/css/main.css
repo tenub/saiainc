@@ -436,15 +436,17 @@ body > .container {
 	color: #d51d24;
 	font-size: 23px;
 	font-family: beval, helvetica, arial, sans-serif;
+	line-height: 1.0em;
 }
 #content h2 {
 	font: 22px helvetica, arial, sans-serif;
 	color: #333;
+	line-height: 1.0em;
 }
 #content h3 {
 	font: 18px helvetica, arial, sans-serif;
 	color: #333;
-	line-height: 30px;
+	line-height: 1.5em;
 }
 #content h3.last {
 	padding-top: 5px;
