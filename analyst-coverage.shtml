@@ -1,0 +1,82 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+  						<div class="fullBody">
+  							<h1>Analyst Coverage</h1>
+                <div class="spacer2"></div>
+  							<p>Saia is a leading transportation company that provides a variety of trucking transportation and supply chain solutions to a broad range of industries. We serve a wide variety of customers by offering regional, interregional and national LTL services and selected TL services across the United States, with a focus on regional transportation solutions.</p>
+                <div class="spacer1"></div>
+                <hr />
+                <div class="spacer2"></div>
+                <table id="hor-minimalist1">
+                  <tbody class="spanned">
+                    <thead>
+                      <th>Firm</th>
+                      <th>Analyst</th>
+                    </thead>
+                    <tr>
+                      <td>BB&amp;T Capital Markets</td>
+                      <td>Thom Albrecht</td>
+                    </tr>
+                    <tr>
+                      <td>Dahlman Rose &amp; Co.</td>
+                      <td>Jason Seidl</td>
+                    </tr>
+                    <tr>
+                      <td>Euro Pacific Capital Markets</td>
+                      <td>Mark Suarez</td>
+                    </tr>
+                    <tr>
+                      <td>Morgan Stanley</td>
+                      <td>John Godyn</td>
+                    </tr>
+                    <tr>
+                      <td>Raymond James</td>
+                      <td>Arthur Hatfield</td>
+                    </tr>
+                    <tr>
+                      <td>Sidoti &amp; Company</td>
+                      <td>Robert Dunn</td>
+                    </tr>
+                    <tr>
+                      <td>Stephens Inc.</td>
+                      <td>Jack Waldo</td>
+                    </tr>
+                    <tr>
+                      <td>Stifel Nicolaus</td>
+                      <td>David Ross</td>
+                    </tr>
+                    <tr>
+                      <td>Wolfe Trahan &amp; Co.</td>
+                      <td>Ed Wolfe &amp; Scott Group</td>
+                    </tr>
+                    <tfoot>
+                      <td colspan="2" class="disclaimer">Saia, Inc. is followed by the analysts listed above. Please note that any opinions, estimates or forecasts regarding Saia, Inc.'s performance made by these analysts are theirs alone and do not represent opinions, forecasts or predictions of Saia, Inc. or its management. Saia, Inc. does not by its reference above or distribution imply its endorsement of or concurrence with such information, conclusions or recommendations.</td>
+                    </tfoot>
+                  </tbody>
+                </table>
+  						</div>
+  					</div>
+    			</div>
+    			<div id="sidebar">
+            <div class="container">
+            <!-- sidebar content start -->
+            <!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+            <!-- sidebar content end -->
+              <div class="spacer"></div>
+            </div>
+          </div>
+        </div>
+        <!-- footer content start -->
+      <!--#include virtual="assets/templates/footer-inc.html" -->
+      <!-- footer content end -->
+	</body>
+</html>
