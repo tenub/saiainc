@@ -84,6 +84,11 @@ label{
 	color: #333;
 	font-weight: bold;
 }
+table.ui-datepicker-calendar tbody td.highlight > a {
+    background: url('images/ui-bg_inset-hard_55_ffeb80_1x100.png') repeat-x scroll 50% bottom #ffeb80;
+    color: #363636;
+    border: 1px solid #ffde2e;
+}
 #main .container .formBody form > div.clear {
 	min-width: 100%;
 	padding: 0;
@@ -970,6 +975,19 @@ body > .container {
 	padding: 10px 0;
 	line-height: 2em;
 	z-index: 1;
+}
+#main .container .fullBody div.calContent {
+	position: absolute;
+	left: 333px;
+	top: 3px;
+	width: 200px;
+	height: 256px;
+}
+#main .container .fullBody div.calContent img {
+	margin: 0 3px;
+}
+#main .container .fullBody div.calContent img.first {
+	margin: 0 3px 0 0;
 }
 #main .container .fullBody > div.quote {
 	padding-bottom: 20px;
