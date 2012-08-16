@@ -1,3 +1,17 @@
+.fileType {
+	line-height: 16px;
+	vertical-align: middle;
+}
+.fileType a {
+	line-height: 20px;
+	vertical-align: middle;
+	color: #d51d24;
+	font: 16px helvetica, arial, sans-serif;
+}
+.fileType img {
+	line-height: 20px;
+	vertical-align: middle;
+}
 #lightBox {
 	display: block;
 	background: #d51d24;

@@ -56,7 +56,7 @@ label{
 	position: relative;
 	padding-left: 16px;
 }
-#main .container .fullBody p.iconPadding, #main .container p.iconPadding {
+#main .container .fullBody .iconPadding, #main .container .iconPadding {
 	padding: 0 0 0 10px;
 	margin: 0;
 	font-size: 14px;
@@ -899,8 +899,10 @@ body > .container {
 	margin-bottom: 0;
 	padding-bottom: 0;
 }
-#main .container ul.twoColList, #main .container ul.oneColList {
+#main .container ul.twoColList {
 	margin: 0 0 20px 0;
+}
+#main .container ul.oneColList {
 }
 #main .container ul.twoColList > li:before, #main .container ul.oneColList > li:before {
     background: url('images/ui-icons_222222_256x240.png') no-repeat -32px 0;
