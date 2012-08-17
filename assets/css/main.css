@@ -100,6 +100,9 @@ label{
     color: #fff;
     border: 1px solid #333;
 }
+#content .ui-datepicker .ui-datepicker-title {
+	position: relative;
+}
 #content div.calendar .ui-state-hover .ui-icon, #content div.calendar .ui-state-focus .ui-icon {
 	background-image: url(images/ui-icons_ffffff_256x240.png);
 }
@@ -847,6 +850,11 @@ body > .container {
 }
 #main .container .fullBody .noTopSpacing, #main .container .formBody .noTopSpacing {
 	padding-top: 0;
+	margin-top: 0;
+}
+#main .container .fullBody .noBotSpacing, #main .container .formBody .noBotSpacing {
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 #main .container .fullBody ul.right {
 	float: right;
@@ -999,12 +1007,14 @@ body > .container {
 	z-index: 1;
 }
 #main .container .fullBody div.calendar {
-	float: left;
 	padding: 0 25px 25px 0;
 }
 #main .container .fullBody div.calContent {
-	float: left;
-	width: 125px;
+	position: absolute;
+	left: 333px;
+	top: 0;
+	min-width: 125px;
+	width: 27.4%;
 	height: 256px;
 	padding-top: 3px;
 }

@@ -13,11 +13,12 @@
   							<h1>Calendar of Events</h1>
                 <div class="spacer2"></div>
                 <h3>Calendar Instructions</h3>
-  							<p>Please select a highlighted date from the calendar to view company related information. This calendar requires JavaScript to be installed and activated on your browser.</p>
+                <p>This calendar contains six months of past and future company related information, which may include press releases, SEC filings, calendar events and more. Dates containing information are indicated by a colored background. Please select a highlighted date from the calendar to see date-specific company information, including a link to additional information.</p>
                 <div class="spacer1"></div>
                 <hr />
                 <div class="spacer2"></div>
-                <div class="relative">
+                <div class="spacer1"></div>
+                <div class="relative noTopSpacing noBotSpacing">
                   <div class="calendar"></div>
                   <div class="calContent"></div>
                 </div>

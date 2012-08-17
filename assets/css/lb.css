@@ -8,6 +8,9 @@
 	color: #d51d24;
 	font: 16px helvetica, arial, sans-serif;
 }
+.fileType a:hover {
+	color: #333;
+}
 .fileType img {
 	line-height: 20px;
 	vertical-align: middle;
