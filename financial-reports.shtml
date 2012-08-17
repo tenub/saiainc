@@ -30,7 +30,8 @@
                   <li><a href="#">2003 Annual Report and Form 10-K <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" class="left" /></a></li>
                   <li><a href="#">2002 Annual Report and Form 10-K <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" class="left" /></a></li>
                 </ul>
-                <p class="disclaimer noTopSpacing"><a class="cbOpen" href="modals/file-type-help.html">Get help downloading or viewing file types</a></p>
+                <div class="spacer1"></div>
+                <p class="disclaimer"><a class="cbOpen" href="modals/file-type-help.html">Get help downloading or viewing file types</a></p>
   						</div>
   					</div>
     			</div>

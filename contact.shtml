@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Saia LTL Freight</title>
+  <!-- header content start --> 
+  <!--#include virtual="assets/templates/header-inc.html" --> 
+  <!-- header content end -->
+  <div id="content">
+    <div id="main">
+      <div class="container">
+        <div class="fullBody">
+          <h1>Contact Saia</h1>
+          <div class="spacer2"></div>
+          <h3>Headquarters Address:</h3>
+          <p>11465 Johns Creek Parkway<br />
+          Suite 400<br />
+          Johns Creek, GA 30097<br />
+          <a href="#" class="upperLink">Map &gt;</a><br />
+          <a href="http://maps.live.com/Default.aspx?enc=0&amp;v=2&amp;rtp=~adr.11465%20Johns%20Creek%20Pkwy%20Ste%20400%2C%20Duluth%2C%20GA%2030097&amp;FORM=LSD3" class="upperLink">Get Directions &gt;</a></p>
+          <div class="spacer3"></div>
+          <h3>General Office Addresses:</h3>
+          <p>104 Woodlawn Ranch Road<br />
+          Houma, LA 70363</p>
+          <p>1755 Westgate Drive Suite 105<br />
+          Boise, ID 83704</p>
+          <div class="spacer3"></div>
+          <h3>Customer Service: 1-800-765-7242</h3>
+          <div class="spacer5"></div>
+          <p>For employment verification, please call 800-950-7242 (ext. 4270)</p>
+          <div class="spacer2"></div>
+          <hr />
+          <div class="spacer2"></div>
+          <p>Are you looking for answers? Do you want to voice a comment? Or do you have a suggestion for us? We are here to assist in anyway possible. Simply send an e-mail to the appropriate department listed below for a fast and friendly reply.</p>
+          <table id="hor-minimalist1">
+            <thead>
+              <tr>
+                <th scope="col">Department</th>
+                <th scope="col">E-mail</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Cargo Claims</td>
+                <td><a href="mailto:claims@saia.com">claims@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Casualty Claims</td>
+                <td><a href="mailto:corpins@saia.com">corpins@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Corporate Insurance</td>
+                <td><a href="mailto:corpins@saia.com">corpins@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Credit Department</td>
+                <td><a href="mailto:credit@saia.com">credit@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Customer Service</td>
+                <td><a href="mailto:customerservice@saia.com">customerservice@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Dock Workers</td>
+                <td><a href="mailto:dockworkers@saia.com">dockworkers@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Employee Benefits</td>
+                <td><a href="mailto:empben@saia.com">empben@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Human Resources</td>
+                <td><a href="mailto:humanresources@saia.com">humanresources@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Investor Relations</td>
+                <td><a href="investors@saia.com">investors@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Line Drivers</td>
+                <td><a href="mailto:linedrivers@saia.com">linedrivers@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Marketing</td>
+                <td><a href="mailto:marketing@saia.com">marketing@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>P &amp; D Drivers</td>
+                <td><a href="mailto:pddrivers@saia.com">pddrivers@saia.com</a></td>
+              </tr>
+              <tr>
+                <td>Safety</td>
+                <td><a href="mailto:safety@saia.com">safety@saia.com</a></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div id="sidebar">
+      <div class="container"> 
+        <!-- sidebar content start --> 
+        <!--#include virtual="assets/templates/sidebar-index-inc.html" --> 
+        <!-- sidebar content end -->
+        <div class="spacer"></div>
+      </div>
+    </div>
+  </div>
+  <!-- footer content start --> 
+  <!--#include virtual="assets/templates/footer-inc.html" --> 
+<!-- footer content end -->
+</body>
+</html>

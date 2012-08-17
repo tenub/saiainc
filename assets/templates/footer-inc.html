@@ -176,9 +176,9 @@
         </script>
         <script type="text/javascript">
             var events = [ 
-                { Title: '<a href="#">8-K</a><p><a href="#"><img src="assets/img/ico_html_small.png" width="16" height="16" alt="HTML Icon" class="first" /></a><a href="#"><img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a><a href="#"><img src="assets/img/ico_word_small.png" width="16" height="16" alt="MS Word Icon" /></a></p>', Date: new Date("08/02/2012") }, 
-                { Title: '<a href="#">4</a><p><a href="#"><img src="assets/img/ico_html_small.png" width="16" height="16" alt="HTML Icon" class="first" /></a><a href="#"><img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a><a href="#"><img src="assets/img/ico_word_small.png" width="16" height="16" alt="MS Word Icon" /></a></p>', Date: new Date("08/03/2012") }, 
-                { Title: "52 Week High: $24.35", Date: new Date("08/06/2012") }
+                { Title: '<h2><a class="cbOpen" href="modals/sec-filings-8k.html">SEC Filings - Form 8-K</a></h2><p class="noTopSpacing">Download:<br /><a href="#"><img src="assets/img/ico_html_small.png" width="16" height="16" alt="HTML Icon" class="first" /></a><a href="#"><img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a><a href="#"><img src="assets/img/ico_word_small.png" width="16" height="16" alt="MS Word Icon" /></a></p>', Date: new Date("08/02/2012") }, 
+                { Title: '<h2><a class="cbOpen" href="modals/sec-filings-4.html">SEC Filings - Form 4</a></h2><p class="noTopSpacing">Download:<br /><a href="#"><img src="assets/img/ico_html_small.png" width="16" height="16" alt="HTML Icon" class="first" /></a><a href="#"><img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a><a href="#"><img src="assets/img/ico_word_small.png" width="16" height="16" alt="MS Word Icon" /></a></p>', Date: new Date("08/03/2012") }, 
+                { Title: '<h2>52 Week High: $24.35</h2>', Date: new Date("08/06/2012") }
             ];
             $('.calendar').datepicker({
                 beforeShowDay: function(date) {
@@ -208,7 +208,7 @@
                     }
                     if (event) {
                         $('.calContent').empty();
-                        $('.calContent').append(event.Title);
+                        $('.calContent').append(dateText+'<div class="spacer1"></div>', event.Title);
                     }
                 }
             });

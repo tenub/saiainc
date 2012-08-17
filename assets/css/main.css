@@ -84,10 +84,24 @@ label{
 	color: #333;
 	font-weight: bold;
 }
-table.ui-datepicker-calendar tbody td.highlight > a {
-    background: url('images/ui-bg_inset-hard_55_ffeb80_1x100.png') repeat-x scroll 50% bottom #ffeb80;
-    color: #363636;
-    border: 1px solid #ffde2e;
+#content table.ui-datepicker-calendar tbody td > a {
+    color: #333;
+}
+#content table.ui-datepicker-calendar tbody td > a.ui-state-highlight {
+	color: #d51d24;
+}
+#content table.ui-datepicker-calendar tbody td.highlight > a {
+    background: #d51d24;
+    color: #fff;
+    border: 1px solid #d51d24;
+}
+#content table.ui-datepicker-calendar tbody td.highlight > a:hover {
+    background: #333;
+    color: #fff;
+    border: 1px solid #333;
+}
+#content div.calendar .ui-state-hover .ui-icon, #content div.calendar .ui-state-focus .ui-icon {
+	background-image: url(images/ui-icons_ffffff_256x240.png);
 }
 #main .container .formBody form > div.clear {
 	min-width: 100%;
@@ -446,7 +460,7 @@ body > .container {
 #content h2 {
 	font: 22px helvetica, arial, sans-serif;
 	color: #333;
-	line-height: 1.0em;
+	line-height: 1.25em;
 }
 #content h3 {
 	font: 18px helvetica, arial, sans-serif;
@@ -481,6 +495,10 @@ body > .container {
 }
 #main .container h3 > a {
 	font: 18px helvetica, arial, sans-serif;
+	line-height: 30px;
+}
+#main .container h2 > a {
+	font: 22px helvetica, arial, sans-serif;
 	line-height: 30px;
 }
 #main .container ul.accordion h2 {
@@ -655,11 +673,15 @@ body > .container {
     outline: none;
 }
 #main .container ul.accordion > li > h2 > span.ui-icon {
-    margin-top: 3px;
+    margin-top: 2px;
     z-index: 999;
 }
 #main .container ul.accordion1 > li > h3 > span.ui-icon {
     margin-top: 2px;
+    z-index: 999;
+}
+#main .container ul.awards > li > h2 > span.ui-icon {
+    margin-top: 3px;
     z-index: 999;
 }
 #main .container ul.sitemap h2 {
@@ -976,15 +998,19 @@ body > .container {
 	line-height: 2em;
 	z-index: 1;
 }
+#main .container .fullBody div.calendar {
+	float: left;
+	padding: 0 25px 25px 0;
+}
 #main .container .fullBody div.calContent {
-	position: absolute;
-	left: 333px;
-	top: 3px;
-	width: 200px;
+	float: left;
+	width: 125px;
 	height: 256px;
+	padding-top: 3px;
 }
 #main .container .fullBody div.calContent img {
 	margin: 0 3px;
+	vertical-align: middle;
 }
 #main .container .fullBody div.calContent img.first {
 	margin: 0 3px 0 0;
