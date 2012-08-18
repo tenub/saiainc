@@ -504,24 +504,40 @@ body > .container {
 	font: 22px helvetica, arial, sans-serif;
 	line-height: 30px;
 }
-#main .container ul.accordion h2 {
+#main .container ul.accordion h2, #main .container ul.stock h2 {
 	padding-top: 0;
 	padding-left: 16px;
 }
-#main .container ul.accordion h2:hover {
+#main .container ul.accordion h2:hover, #main .container ul.stock h2:hover {
 	cursor: pointer;
 }
-#main .container ul.accordion h2 > a {
+#main .container ul.accordion h2 > a, #main .container ul.stock h2 > a {
 	font: 22px helvetica, arial, sans-serif;
 	color: #333;
 }
-#main .container ul.news li > div {
+#main .container ul.news li > div, #main .container ul.stock li > div {
 	padding: 0 32px;
 }
-#main .container ul.news > li {
+#main .container ul.stock li > div.form {
+	padding: 20px 32px 0 32px;
+	width: 300px;
+}
+#main .container ul.stock li > div.form > img {
+	border: 1px solid #ccc;
+}
+#main .container ul.stock li > div.form > form {
+	min-width: 290px;
+}
+#main .container ul.stock li > div.form > form > div {
+	min-width: 290px;
+}
+#main .container ul.stock li > div.form > form > div > div {
+	min-width: 290px;
+}
+#main .container ul.news > li, #main .container ul.stock > li {
 	padding: 10px 0;
 }
-#main .container ul.news div > #hor-minimalist1 tr.last {
+#main .container ul.news div > .hor-minimalist1 tr.last {
 	border-bottom: 1px solid #fff;
 }
 #main .container div.imgContainer {
@@ -672,10 +688,10 @@ body > .container {
 	color: #333;
 	line-height: 30px;
 }
-#main .container .accordion .ui-state-focus, #main .container .accordion1 .ui-state-focus {
+#main .container .accordion .ui-state-focus, #main .container .accordion1 .ui-state-focus, #main .container .stock .ui-state-focus {
     outline: none;
 }
-#main .container ul.accordion > li > h2 > span.ui-icon {
+#main .container ul.accordion > li > h2 > span.ui-icon, #main .container ul.stock > li > h2 > span.ui-icon {
     margin-top: 2px;
     z-index: 999;
 }
@@ -751,11 +767,11 @@ body > .container {
 #main .container ul.sitemap ul.accordion1 > li a:hover {
 	color: #d51d24;
 }
-#main .container #hor-minimalist1 div.popup {
+#main .container .hor-minimalist1 div.popup {
     width: 16px;
     height: 16px;
 }
-#main .container #hor-minimalist1 div.popup > div.ui-icon {
+#main .container .hor-minimalist1 div.popup > div.ui-icon {
     float: right;
     position: static;
 }
@@ -1661,6 +1677,12 @@ label.min {
     padding: 0;
     line-height: 40px;
 }
+#main .container .formBody ul.stock form div.radio > .thirds > .last, #main .container .formBody ul.stock form div.radio > .thirds > .first {
+    line-height: 1.5em;
+}
+#main .container .formBody ul.stock form div.radio p {
+	line-height: 1.5em;
+}
 #main .container .formBody form div.radio > .thirds > .last, #main .container .formBody form div.radio > .thirds > div {
 	margin-right: 0;
 }
@@ -2109,10 +2131,10 @@ label.min {
 }
 
 /* table styling */
-#hor-minimalist a, #hor-minimalist1 a, #hor-minimalist2 a {
+.hor-minimalist a, .hor-minimalist1 a, .hor-minimalist2 a {
 	font-size: 14px;
 }
-#hor-minimalist, #hor-minimalist1, #hor-minimalist2 {
+.hor-minimalist, .hor-minimalist1, .hor-minimalist2 {
 	font-family: helvetica, arial, sans-serif;
 	font-size: 14px;
 	margin: 0;
@@ -2120,53 +2142,59 @@ label.min {
 	border-collapse: collapse;
 	text-align: left;
 }
-#hor-minimalist th+th, #hor-minimalist td+td {
+.hor-minimalist th+th, .hor-minimalist td+td {
 	text-align: center;
 	padding: 10px 10px;
 }
-#hor-minimalist1 th+th, #hor-minimalist1 td+td, #hor-minimalist2 th+th, #hor-minimalist2 td+td {
+.hor-minimalist1 th+th, .hor-minimalist1 td+td, .hor-minimalist2 th+th, .hor-minimalist2 td+td {
 	text-align: left;
 	padding: 10px 10px;
 }
-#hor-minimalist1 tbody.spanned td, #hor-minimalist2 tbody.spanned td {
+.hor-minimalist1 tbody.spanned td, .hor-minimalist2 tbody.spanned td {
 	padding: 10px 10px;
 }
-#hor-minimalist1 tbody.spanned td.noPad, #hor-minimalist2 tbody.spanned td.noPad {
+.hor-minimalist1 tbody.spanned td.noPad, .hor-minimalist2 tbody.spanned td.noPad {
 	padding: 10px 0;
 }
-#hor-minimalist th, #hor-minimalist1 th, #hor-minimalist2 th {
+.hor-minimalist th, .hor-minimalist1 th, .hor-minimalist2 th {
 	font-size: 14px;
 	font-weight: bold;
-	color: #000;
+	color: #333;
 	padding: 10px 0;
 	border-bottom: 1px solid #999;
     vertical-align: bottom;
 }
-#hor-minimalist td, #hor-minimalist1 td, #hor-minimalist2 td {
+.hor-minimalist td, .hor-minimalist1 td, .hor-minimalist2 td {
 	padding: 6px 0;
 }
-#hor-minimalist tr, #hor-minimalist1 tr, #hor-minimalist2 tr {
+.hor-minimalist tr, .hor-minimalist1 tr, .hor-minimalist2 tr {
 	border-bottom: 1px solid #ccc;
 	color: #666;
 }
-#hor-minimalist2 tr:nth-child(even) {
+.hor-minimalist tr.header, .hor-minimalist1 tr.header, .hor-minimalist2 tr.header {
+	border-bottom: 1px solid #fff;
+	color: #484848;
+	font-weight: bold;
+	background: #eee;
+}
+.hor-minimalist2 tr:nth-child(even) {
 	border-bottom: 1px solid #ccc;
 	color: #666;
 }
-#hor-minimalist2 tr:nth-child(odd) {
+.hor-minimalist2 tr:nth-child(odd) {
 	border-bottom: 1px dashed #eee;
 	color: #666;
 }
-#hor-minimalist tbody tr.currentRate, #hor-minimalist1 tbody tr.currentRate, #hor-minimalist2 tbody tr.currentRate {
+.hor-minimalist tbody tr.currentRate, .hor-minimalist1 tbody tr.currentRate, .hor-minimalist2 tbody tr.currentRate {
     color: #d51d24;
 }
-#hor-minimalist tfoot td, #hor-minimalist1 tfoot td, #hor-minimalist2 tfoot td {
+.hor-minimalist tfoot td, .hor-minimalist1 tfoot td, .hor-minimalist2 tfoot td {
     border: none;
     padding: 10px 0 10px 0;
     text-align: left;
     color: #666;
 }
-#hor-minimalist tfoot tr, #hor-minimalist1 tfoot tr, #hor-minimalist2 tfoot tr {
+.hor-minimalist tfoot tr, .hor-minimalist1 tfoot tr, .hor-minimalist2 tfoot tr {
     border: none;
 }
 

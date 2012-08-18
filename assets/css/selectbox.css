@@ -7,7 +7,7 @@ div.selectbox-wrapper, #lbContent form > div.selectbox-wrapper {
 	background-color: #fff;
 	border: 1px solid #333;
 	text-align: left;
-	max-height: 312px;
+	max-height: 210px;
 	overflow: auto;
     z-index: 100000;
 	left: 10px;

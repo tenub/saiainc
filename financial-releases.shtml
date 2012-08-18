@@ -19,7 +19,7 @@
 								<li class="first">
 									<h2>2012 Releases</h2>
 									<div>
-										<table id="hor-minimalist1">
+										<table class="hor-minimalist1">
 								            <thead>
 												<tr>
 													<th scope="col">Date</th>
@@ -101,7 +101,7 @@
 								<li>
 									<h2>2011 Releases</h2>
 									<div>
-										<table id="hor-minimalist1">
+										<table class="hor-minimalist1">
 								            <thead>
 												<tr>
 													<th scope="col">Date</th>
@@ -183,7 +183,7 @@
 								<li>
 									<h2>2010 Releases</h2>
 									<div>
-										<table id="hor-minimalist1">
+										<table class="hor-minimalist1">
 								            <thead>
 												<tr>
 													<th scope="col">Date</th>
@@ -265,7 +265,7 @@
 								<li>
 									<h2>2009 Releases</h2>
 									<div>
-										<table id="hor-minimalist1">
+										<table class="hor-minimalist1">
 								            <thead>
 												<tr>
 													<th scope="col">Date</th>
@@ -347,7 +347,7 @@
 								<li>
 									<h2>2008 Releases</h2>
 									<div>
-										<table id="hor-minimalist1">
+										<table class="hor-minimalist1">
 								            <thead>
 												<tr>
 													<th scope="col">Date</th>
@@ -429,7 +429,7 @@
 								<li>
 									<h2>2007 Releases</h2>
 									<div>
-										<table id="hor-minimalist1">
+										<table class="hor-minimalist1">
 								            <thead>
 												<tr>
 													<th scope="col">Date</th>

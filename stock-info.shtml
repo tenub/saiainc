@@ -1,0 +1,353 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+  						<div class="formBody">
+  							<h1>Stock Information</h1>
+                <div class="spacer2"></div>
+  							<p>Saia is a leading transportation company that provides a variety of trucking transportation and supply chain solutions to a broad range of industries. We serve a wide variety of customers by offering regional, interregional and national LTL services and selected TL services across the United States, with a focus on regional transportation solutions.</p>
+                <p>For an overview of our financial information please <a href="#">download</a> and read our financial tearsheet. <a href="#"><img src="assets/img/ico_report_small.png" width="16" height="16" alt="Report Icon" style="vertical-align:text-top;" /></a></p>
+                <div class="spacer1"></div>
+                <hr />
+                <div class="spacer1"></div>
+                <ul class="stock">
+                  <li class="first">
+                    <h2>Stock Quote</h2>
+                    <div>
+                      <table class="hor-minimalist1">
+                        <thead>
+                          <tr>
+                            <th colspan="4">SAIA (Common Stock)</th>
+                          </tr>
+                        </thead>
+                        <tbody class="spanned">
+                          <tr class="header">
+                            <td>Price</td>
+                            <td>Change</td>
+                            <td>Percent Change</td>
+                            <td>Volume</td>
+                          </tr>
+                          <tr>
+                            <td>$23.83</td>
+                            <td class="green">+0.28</td>
+                            <td class="green">1.19%</td>
+                            <td>57,769</td>
+                          </tr>
+                          <tr class="header">
+                            <td>Previous Close</td>
+                            <td>Today's Open</td>
+                            <td>Intraday High</td>
+                            <td>Intraday Low</td>
+                          </tr>
+                          <tr>
+                            <td>$23.55</td>
+                            <td>$23.59</td>
+                            <td>$23.83</td>
+                            <td>$23.22</td>
+                          </tr>
+                          <tr class="header">
+                            <td>52 Week High</td>
+                            <td>52 Week High Date</td>
+                            <td>52 Week Low</td>
+                            <td>52 Week Low Date</td>
+                          </tr>
+                          <tr>
+                            <td>$23.83</td>
+                            <td>08/06/12</td>
+                            <td>$9.27</td>
+                            <td>10/04/11</td>
+                          </tr>
+                        </tbody>
+                        <tfoot>
+                          <tr>
+                            <td colspan="4" class="disclaimer">Data as of 08/14/12 4:00 PM ET. Minimum 20 minute delay. <a href="#">Refresh quote</a></td>
+                          </tr>
+                        </tfoot>
+                      </table>
+                      <p class="disclaimer">Quotes delayed at least 15 minutes. Market data provided by <a href="http://www.interactivedata.com" target="_blank">Interactive Data</a>. <a href="http://www.interactivedata.com/index.php/Contents/show/content/quoteTerms" target="_blank">Terms &amp; Conditions</a>. Powered and implemented by <a href="http://www.interactivedata.com/idms" target="_blank">Interactive Data Managed Solutions</a>.</p>
+                    </div>
+                  </li>
+                  <div class="spacer1"></div>
+                  <hr />
+                  <div class="spacer1"></div>
+                  <li>
+                    <h2>Stock Chart</h2>
+                    <div class="form">
+                      <img src="assets/img/stock_chart.gif" width="300" height="202" alt="Stock Chart" />
+                      <p class="disclaimer">Quotes delayed at least 15 minutes. Market data provided by <a href="http://www.interactivedata.com" target="_blank">Interactive Data</a>. <a href="http://www.interactivedata.com/index.php/Contents/show/content/quoteTerms" target="_blank">Terms &amp; Conditions</a>. Powered and implemented by <a href="http://www.interactivedata.com/idms" target="_blank">Interactive Data Managed Solutions</a>.</p>
+                      <form>
+                        <div>
+                            <select name="control_time" id="control_time" class="select required">
+                              <option>Time Frame</option>
+                              <option value="1hr">1 hour (intraday)</option>
+                              <option value="1dy">1 day (intraday)</option>
+                              <option value="2dy">2 days (intraday)</option>
+                              <option value="5dy">5 days (intraday)</option>
+                              <option value="10dy">10 days (intraday)</option>
+                              <option value="1mo">1 month</option>
+                              <option value="2mo">2 months</option>
+                              <option value="3mo">3 months</option>
+                              <option value="6mo">6 months</option>
+                              <option value="1yr">1 year</option>
+                              <option value="2yr">2 years</option>
+                              <option value="3yr">3 years</option>
+                              <option value="4yr">4 years</option>
+                              <option value="5yr">5 years</option>
+                              <option value="10yr">10 years</option>
+                              <option value="Ytd">Year-to-Date</option>
+                              <option value="All">All Data</option>
+                          </select>
+                          <select name="control_freq" id="control_freq" class="select required">
+                            <option>Frequency</option>
+                            <option value="1mi">1 Minute (intraday)</option>
+                            <option value="5mi">5 Minute (intraday)</option>
+                            <option value="15mi">15 Minute (intraday)</option>
+                            <option value="1hr">Hourly (intraday)</option>
+                            <option value="1dy">Daily</option>
+                            <option value="1wk">Weekly</option>
+                            <option value="1mo">Monthly</option>
+                            <option value="3mo">Quarterly</option>
+                            <option value="1yr">Yearly</option>
+                          </select>
+                          <select name="control_compidx" id="control_compidx" class="select required">
+                            <option>Compare To</option>
+                            <option value="aaaaa:0">None</option>
+                            <option value="djia">DJ Industrial Average</option>
+                            <option value="nasdaq">NASDAQ Composite</option>
+                            <option value="SPX">S&amp;P 500</option>
+                          </select>
+                          <select name="control_type" id="control_type" class="select required">
+                            <option>Chart Type</option>
+                            <option value="2">OHLC</option>
+                            <option value="64">Close</option>
+                            <option value="4">Candlestick</option>
+                            <option value="128">Logarithmic</option>
+                            <option value="8">Mountain</option>
+                          </select>
+                          <select name="control_uf" id="control_uf" class="select required">
+                            <option>Events</option>
+                            <option value="0">None</option>
+                            <option value="1024">Show Splits</option>
+                            <option value="2048">Show Earnings</option>
+                            <option value="4096">Show Dividends</option>
+                            <option value="7168">Show All Events</option>
+                          </select>
+                          <div class="spacer2"></div>
+                          <div>
+                            <input type="submit" value="Submit" class="roundRed" />
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </li>
+                  <div class="spacer1"></div>
+                  <hr />
+                  <div class="spacer1"></div>
+                  <li>
+                    <h2>Historical Price Lookup</h2>
+                    <div>
+                      <form>
+                        <div class="radio">
+                          <div class="thirds">
+                            <div class="first select-date required"><p>Look Up Date:</p></div>
+                            <div class="clear"></div>
+                            <div class="month">
+                              <select name="lookup_info" id="lookup_month" class="select">
+                                <option>MM</option>
+                                <option value="01">Jan</option>
+                                <option value="02">Feb</option>
+                                <option value="03">Mar</option>
+                                <option value="04">Apr</option>
+                                <option value="05">May</option>
+                                <option value="06">Jun</option>
+                                <option value="07">Jul</option>
+                                <option value="08">Aug</option>
+                                <option value="09">Sep</option>
+                                <option value="10">Oct</option>
+                                <option value="11">Nov</option>
+                                <option value="12">Dec</option>
+                              </select>
+                            </div>
+                            <div class="day">
+                              <select name="lookup_info" id="lookup_day" class="select">
+                                <option>DD</option>
+                                <option value="01">1</option>
+                                <option value="02">2</option>
+                                <option value="03">3</option>
+                                <option value="04">4</option>
+                                <option value="05">5</option>
+                                <option value="06">6</option>
+                                <option value="07">7</option>
+                                <option value="08">8</option>
+                                <option value="09">9</option>
+                                <option value="10">10</option>
+                                <option value="11">11</option>
+                                <option value="12">12</option>
+                                <option value="13">13</option>
+                                <option value="14">14</option>
+                                <option value="15">15</option>
+                                <option value="16">16</option>
+                                <option value="17">17</option>
+                                <option value="18">18</option>
+                                <option value="19">19</option>
+                                <option value="20">20</option>
+                                <option value="21">21</option>
+                                <option value="22">22</option>
+                                <option value="23">23</option>
+                                <option value="24">24</option>
+                                <option value="25">25</option>
+                                <option value="26">26</option>
+                                <option value="27">27</option>
+                                <option value="28">28</option>
+                                <option value="29">29</option>
+                                <option value="30">30</option>
+                                <option value="31">31</option>
+                              </select>
+                            </div>
+                            <div class="year last">
+                              <select name="lookup_info" id="lookup_year" class="select">
+                                <option>YYYY</option>
+                                <option value="2012">2012</option>
+                                <option value="2013">2013</option>
+                                <option value="2014">2014</option>
+                                <option value="2015">2015</option>
+                                <option value="2016">2016</option>
+                                <option value="2017">2017</option>
+                                <option value="2018">2018</option>
+                                <option value="2019">2019</option>
+                                <option value="2020">2020</option>
+                              </select>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="spacer2"></div>
+                        <input type="submit" id="lookupSubmit" value="Look Up" class="roundRed" />
+                        <div class="spacer2"></div>
+                      </form>
+                      <div class="lookupContent"></div>
+                      <p class="disclaimer">Quotes delayed at least 15 minutes. Market data provided by <a href="http://www.interactivedata.com" target="_blank">Interactive Data</a>. <a href="http://www.interactivedata.com/index.php/Contents/show/content/quoteTerms" target="_blank">Terms &amp; Conditions</a>. Powered and implemented by <a href="http://www.interactivedata.com/idms" target="_blank">Interactive Data Managed Solutions</a>.</p>
+                    </div>
+                  </li>
+                  <div class="spacer1"></div>
+                  <hr />
+                  <div class="spacer1"></div>
+                  <li>
+                    <h2>Investment Calculator</h2>
+                    <div>
+                      <form>
+                        <div class="radio">
+                          <div class="thirds">
+                            <div class="first select-date required"><p>Investment Date:</p></div>
+                            <div class="clear"></div>
+                            <div class="month">
+                              <select name="invest_info" id="invest_month" class="select">
+                                <option>MM</option>
+                                <option value="01">Jan</option>
+                                <option value="02">Feb</option>
+                                <option value="03">Mar</option>
+                                <option value="04">Apr</option>
+                                <option value="05">May</option>
+                                <option value="06">Jun</option>
+                                <option value="07">Jul</option>
+                                <option value="08">Aug</option>
+                                <option value="09">Sep</option>
+                                <option value="10">Oct</option>
+                                <option value="11">Nov</option>
+                                <option value="12">Dec</option>
+                              </select>
+                            </div>
+                            <div class="day">
+                              <select name="invest_info" id="invest_day" class="select">
+                                <option>DD</option>
+                                <option value="01">1</option>
+                                <option value="02">2</option>
+                                <option value="03">3</option>
+                                <option value="04">4</option>
+                                <option value="05">5</option>
+                                <option value="06">6</option>
+                                <option value="07">7</option>
+                                <option value="08">8</option>
+                                <option value="09">9</option>
+                                <option value="10">10</option>
+                                <option value="11">11</option>
+                                <option value="12">12</option>
+                                <option value="13">13</option>
+                                <option value="14">14</option>
+                                <option value="15">15</option>
+                                <option value="16">16</option>
+                                <option value="17">17</option>
+                                <option value="18">18</option>
+                                <option value="19">19</option>
+                                <option value="20">20</option>
+                                <option value="21">21</option>
+                                <option value="22">22</option>
+                                <option value="23">23</option>
+                                <option value="24">24</option>
+                                <option value="25">25</option>
+                                <option value="26">26</option>
+                                <option value="27">27</option>
+                                <option value="28">28</option>
+                                <option value="29">29</option>
+                                <option value="30">30</option>
+                                <option value="31">31</option>
+                              </select>
+                            </div>
+                            <div class="year last">
+                              <select name="invest_info" id="invest_year" class="select">
+                                <option>YYYY</option>
+                                <option value="2012">2012</option>
+                                <option value="2013">2013</option>
+                                <option value="2014">2014</option>
+                                <option value="2015">2015</option>
+                                <option value="2016">2016</option>
+                                <option value="2017">2017</option>
+                                <option value="2018">2018</option>
+                                <option value="2019">2019</option>
+                                <option value="2020">2020</option>
+                              </select>
+                            </div>
+                          </div>
+                          <div class="clear"></div>
+                        </div>
+                        <div class="noBotSpacing">
+                          <div class="halves">
+                            <input type="text" placeholder="$ Invested" name="stock_info" id="money_invested" class="left required" />
+                            <div style="position:absolute;left:50%;top:18px;margin-left:-223px;width:453px;color:#666;text-align:center;">or</div>
+                            <input type="text" placeholder="Shares Purchased" name="stock_info" id="shares_purchased" class="right required" />
+                            <div class="clear"></div>
+                          </div>
+                        </div>
+                        <div class="spacer2"></div>
+                        <div class="spacer5"></div>
+                        <input type="submit" id="investSubmit" value="Look Up" class="roundRed" />
+                        <div class="spacer2"></div>
+                      </form>
+                      <div class="investContent"></div>
+                      <p class="disclaimer"></p>
+                    </div>
+                  </li>
+                </ul>
+  						</div>
+  					</div>
+    			</div>
+    			<div id="sidebar">
+            <div class="container">
+            <!-- sidebar content start -->
+            <!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+            <!-- sidebar content end -->
+              <div class="spacer"></div>
+            </div>
+          </div>
+        </div>
+        <!-- footer content start -->
+      <!--#include virtual="assets/templates/footer-inc.html" -->
+      <!-- footer content end -->
+	</body>
+</html>

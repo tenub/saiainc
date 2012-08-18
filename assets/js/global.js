@@ -29,7 +29,7 @@ $(document).ready(function(){
         $('textarea[placeholder]').unbind('focusout');
 		$('input[placeholder]').unbind('keydown');
         $('textarea[placeholder]').unbind('keydown');
-		$('input[placeholder]').bind({
+		$('input[placeholder], textarea[placeholder]').bind({
 		    click : function() {
 		        $(this).css('color','#333');
 		    },
@@ -55,32 +55,6 @@ $(document).ready(function(){
 		        $(this).unbind('click');
 		    },
 		});
-        $('textarea[placeholder]').bind({
-            click : function() {
-                $(this).css('color','#333');
-            },
-            focusout : function() {
-                if ($(this).val() == '' || $(this).val() == $(this).attr('placeholder')) {
-                    $(this).addClass('placeholder');
-                    $(this).val($(this).attr('placeholder'));
-                    if ($(this).hasClass('required')) {
-                        $(this).css('color','#333');
-                    }
-                    else {
-                        $(this).css('color','#aaa');
-                    }
-                }
-            },
-            focusin : function() {
-                if ($(this).val() == $(this).attr('placeholder')) {
-                    $(this).val('');
-                    $(this).removeClass('placeholder');
-                }
-                $(this).css('color','#333');
-                $(this).unbind('keydown');
-                $(this).unbind('click');
-            },
-        });
 	}
 	
 	// Handle dynamic content
@@ -172,6 +146,18 @@ $(document).ready(function(){
         	$('.shipmentContent .select:not([multiple])').selectbox();
         	callback()
         });
+        return false;
+    });
+    $("#lookupSubmit").live('click', function(){
+        $('.lookupContent').empty();
+        $(".lookupContent").append('<table class="hor-minimalist1"><thead><tr><th colspan="2">SAIA (Common Stock)</th></tr></thead><tbody class="spanned"><tr><td class="required">Date Requested</td><td>08/13/12</td></tr><tr><td class="required">Closing Price</td><td>$22.53</td></tr><tr><td class="required">Volume</td><td>54,200</td></tr><tr><td class="required">Split Adjustment Factor</td><td>1:1</td></tr><tr><td class="required">Open</td><td>$22.25</td></tr><tr><td class="required">Day&#39;s High</td><td>$22.55</td></tr><tr><td class="required">Day&#39;s Low</td><td>$21.70</td></tr></tbody><tfoot><tr><td colspan="2" class="disclaimer">Data as of 08/14/12 4:00 PM ET. Minimum 20 minute delay. <a href="#">Refresh quote</a></td></tr></tfoot></table>');
+        callback();
+        return false;
+    });
+    $("#investSubmit").live('click', function(){
+        $('.investContent').empty();
+        $(".investContent").append('<table class="hor-minimalist1"><thead><tr><th colspan="2">SAIA (Common Stock)</th></tr></thead><tbody class="spanned"><tr><td class="required">Date Requested</td><td>08/13/12</td></tr><tr><td class="required">Closing Price</td><td>$22.53</td></tr><tr><td class="required">Shares Today</td><td>443.85</td></tr><tr><td class="required">Investment Value</td><td>10,284.07</td></tr><tr><td class="required">Percent Change</td><td>2.84%</td></tr></tbody><tfoot><tr><td colspan="2" class="disclaimer">Quotes delayed at least 15 minutes. Market data provided by <a href="http://www.interactivedata.com" target="_blank">Interactive Data</a>. <a href="http://www.interactivedata.com/index.php/Contents/show/content/quoteTerms" target="_blank">Terms &amp; Conditions</a>. Powered and implemented by <a href="http://www.interactivedata.com/idms" target="_blank">Interactive Data Managed Solutions</a>. <p class="disclaimer">Return calculations do not include reinvested cash dividends.</p></td></tr></tfoot></table>');
+        callback();
         return false;
     });
 });

@@ -13,14 +13,17 @@
   							<h1>Saia Financial Profile</h1>
                 <div class="spacer2"></div>
   							<p>Saia is a leading transportation company that provides a variety of trucking transportation and supply chain solutions to a broad range of industries. We serve a wide variety of customers by offering regional, interregional and national LTL services and selected TL services across the United States, with a focus on regional transportation solutions.</p>
+                <p>For an overview of our financial information please <a href="#">download</a> and read our financial tearsheet. <a href="#"><img src="assets/img/ico_report_small.png" width="16" height="16" alt="Report Icon" style="vertical-align:text-top;" /></a></p>
                 <div class="spacer1"></div>
                 <hr />
                 <div class="spacer2"></div>
                 <table id="hor-minimalist1">
-                  <tbody class="spanned">
-                    <thead>
+                  <thead>
+                    <tr>
                       <th colspan="2">SAIA (Common Stock)</th>
-                    </thead>
+                    </tr>
+                  </thead>
+                  <tbody class="spanned">
                     <tr>
                       <td>Exchange</td>
                       <td>NASDAQ GS (US Dollar)</td>
