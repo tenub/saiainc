@@ -69,6 +69,9 @@ label{
 	min-width: 100%;
 	padding: 0;
 }
+.hor-minimalist .noBorder, .hor-minimalist1 .noBorder, .hor-minimalist2 .noBorder {
+	border: none;
+}
 .pics {
 	overflow: hidden;
 	max-width: 800px;
@@ -83,6 +86,24 @@ label{
 .required {
 	color: #333;
 	font-weight: bold;
+}
+.accordion .ui-icon, .accordion1 .ui-icon, .stock .ui-icon {
+	position: absolute;
+	left: 0;
+}
+.hor-minimalist1 th.nav > div {
+	float: left;
+}
+.hor-minimalist1 th.nav div .ui-icon-arrowthickstop-1-w, .hor-minimalist1 th.nav div .ui-icon-arrowthickstop-1-e {
+	position: relative;
+	top: 1px;
+}
+.hor-minimalist1 th.nav > div div {
+	background-image: url('images/ui-icons_222_256x240.png');
+	margin: 0 10px;
+}
+.hor-minimalist1 th.nav > div:hover div {
+	background-image: url('images/ui-icons_222222_256x240.png');
 }
 #content table.ui-datepicker-calendar tbody td > a {
     color: #333;
@@ -478,7 +499,7 @@ body > .container {
 	color: #666;
 	margin: 0 0 0 -366px;
 	width: 100%;
-	min-height: 620px;
+	min-height: 647px;
 	float: left;
 	border-right: 1px #d51d24 solid;
 }
@@ -1331,6 +1352,11 @@ label.min {
     min-width: 425px;
 	padding: 0;
 }
+#main .container .formBody .stock form {
+	width: 60%;
+    min-width: 415px;
+	padding: 0;
+}
 #main .container .formBody form.fullWidth {
 	width: 100%;
 }
@@ -1345,6 +1371,19 @@ label.min {
 	position: relative;
 	padding: 10px 0;
 	min-width: 447px;
+}
+#main .container .formBody .stock form > div {
+	position: relative;
+	padding: 10px 0;
+	min-width: 373px;
+}
+#main .container .formBody .stock form > div.noTopSpacing {
+	padding-top: 0;
+	margin-top: 0;
+}
+#main .container .formBody .stock form > div.noBotSpacing {
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 #main .container .formBody form > div > p.originDesc {
 	padding: 5px 0 15px 0;
@@ -1472,6 +1511,11 @@ label.min {
 }
 #main .container .formBody form > div > div {
 	min-width: 447px;
+	width: 100%;
+	padding: 0;
+}
+#main .container .formBody .stock form > div > div {
+	min-width: 383px;
 	width: 100%;
 	padding: 0;
 }
@@ -1841,6 +1885,7 @@ label.min {
 	color: #000;
 }
 #sidebar {
+	position: relative;
 	width: 350px;
 	float: right;
 	padding: 24px 0 0 15px;

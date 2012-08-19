@@ -17,7 +17,7 @@
                 <div class="spacer1"></div>
                 <hr />
                 <div class="spacer2"></div>
-                <table id="hor-minimalist1">
+                <table class="hor-minimalist1">
                   <thead>
                     <tr>
                       <th colspan="2">SAIA (Common Stock)</th>
