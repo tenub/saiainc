@@ -24,6 +24,9 @@ a {
 	outline: 0;
 	font-size: 16px;
 }
+b {
+	font-weight: bold;
+}
 a:hover {
 	color: #fff;
 }
@@ -72,6 +75,9 @@ label{
 .hor-minimalist .noBorder, .hor-minimalist1 .noBorder, .hor-minimalist2 .noBorder {
 	border: none;
 }
+.left {
+	float: left;
+}
 .pics {
 	overflow: hidden;
 	max-width: 800px;
@@ -86,6 +92,9 @@ label{
 .required {
 	color: #333;
 	font-weight: bold;
+}
+.right {
+	float: right;
 }
 .accordion .ui-icon, .accordion1 .ui-icon, .stock .ui-icon {
 	position: absolute;
@@ -995,11 +1004,17 @@ body > .container {
 	margin: 15px 0;
 	padding-left: 16px;
 	position: relative;
+	color: #666;
+	font-size: 16px;
 }
 #main .container ul.twoColList > li.first, #main .container ul.oneColList > li.first, #main .container ul.glossary > li.first {
 	list-style: none;
     margin: 15px 0 0 0;
     text-indent: -16px;
+}
+#main .container ul.oneColList > li.first {
+    text-indent: 0;
+    margin-left: -16px;
 }
 #main .container ul.twoColList > li.first:before, #main .container ul.oneColList > li.first:before, #main .container ul.glossary > li.first:before {
 	background: none;

@@ -1,0 +1,369 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html"-->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<div class="fullBody">
+							<h1>Filter Grouping Descriptions</h1>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus egestas, tellus in aliquet faucibus, massa libero fermentum elit, in euismod mi quam ac nisl. Vestibulum tortor ligula, blandit vel porta quis, tincidunt auctor magna. Proin orci felis, viverra eu lobortis tempor, lobortis eget nibh.</p>
+							<div class="spacer1"></div>
+							<hr />
+							<div class="spacer1"></div>
+							<ul class="accordion news">
+								<li class="first">
+									<h2>Annual Filings</h2>
+									<div>
+									    <ul class="glossary">
+											<li><b>10-C</b> - Filing for NASDAQ securities containing info on change in shares or a change in name</li>
+											<li><b>10-C/A</b> - Amendment to a previously filed 10-C</li>
+											<li><b>10-K</b> - Annual report which provides a comprehensive overview of the company for the past year</li>
+											<li><b>10-K/A</b> - Amendment to a previously filed 10-K</li>
+											<li><b>10-K405</b> - Annual report. The Regulation S-K Item 405 box on the cover page is checked</li>
+											<li><b>10-K405/A</b> - Amendment to a previously filed 10-K405</li>
+											<li><b>10-KT</b> - Annual transition reports filed rule 13a-10 or 15d-10 of the Securities Exchange Act</li>
+											<li><b>10-KT/A</b> - Amendment to a previously filed 10-KT</li>
+											<li><b>10KSB</b> - Annual report filed by small businesses</li>
+											<li><b>10KSB/A</b> - Amendment to a previously filed 10KSB</li>
+											<li><b>10KSB40</b> - Optional form for annual and transition reports of small business issuers</li>
+											<li><b>10KSB40/A</b> - Amendment to a previously filed 10KSB40</li>
+											<li><b>10KT405</b> - Annual transition report filed  Rule 13a-10 or15d-10 of the Securities Exchange Act</li>
+											<li><b>10KT405/A</b> - Amendment to a previously filed 10KT405</li>
+											<li><b>11-K</b> - An annual report of employee stock purchase, savings and similar plans</li>
+											<li><b>11-K/A</b> - Amendment to a previously filed 11-K</li>
+											<li><b>11-KT</b> - Annual report of employee stock purchase savings and similar plans</li>
+											<li><b>11-KT/A</b> - Amendment to a previously filed 11-KT</li>
+											<li><b>18-K</b> - Annual report for foreign governments and political subdivisions</li>
+											<li><b>18-K/A</b> - 18-K/A</li>
+											<li><b>20-F</b> - Registration of securities of foreign private issuers pursuant to section 12(b) or (g)</li>
+											<li><b>20-F/A</b> - Amendment to a previously filed 20-F</li>
+											<li><b>ARS</b> - An annual report to security holders.</li>
+											<li><b>ARS/A</b> - ARS/A</li>
+											<li><b>N-18F1</b> - Notification of election pursuant to Rule 18f-1</li>
+											<li><b>N-18F1/A</b> - Pre-effective amendment to an N-18F1 filing</li>
+											<li><b>N-23C-1</b> - Reports by closed-end investment companies of purchase of their own securities</li>
+											<li><b>N-23C-1/A</b> - Pre-effective amendment to an N-23C-1 filing</li>
+											<li><b>N-30D</b> - An annual and semi-annual report mailed to shareholders. Filed by registered investment companies</li>
+											<li><b>N-30D/A</b> - Amendments to a previously filed N-30D</li>
+											<li><b>NSAR-A</b> - Semi-Annual report for management companies</li>
+											<li><b>NSAR-A/A</b> - Amendments to a previously filed NSAR-A</li>
+											<li><b>NSAR-AT</b> - Transitional semi-annual report for registered investment companies (Management)</li>
+											<li><b>NSAR-AT/A</b> - Amendments to a previously filed NSAR-AT</li>
+											<li><b>NSAR-B</b> - Annual report for management companies</li>
+											<li><b>NSAR-B/A</b> - Amendments to a previously filed NSAR-B</li>
+											<li><b>NSAR-BT</b> - Transitional annual report for management companies</li>
+											<li><b>NSAR-BT/A</b> - Amendments to a previously filed NSAR-BT</li>
+											<li><b>NSAR-U</b> - Annual report for unit investment trusts</li>
+											<li><b>NSAR-U/A</b> - Amendments to a previously filed NSAR-U</li>
+											<li><b>NT 10-K</b> - Notification that form 10-K will be submitted late</li>
+											<li><b>NT 10-K/A</b> - Amendment to a previously filed NT 10-K</li>
+											<li><b>NT 11-K</b> - Notification that form 11-K will be submitted late</li>
+											<li><b>NT 11-K/A</b> - Amendment to a previously filed NT 11-K</li>
+											<li><b>NT 20-F</b> - NT 20-F</li>
+											<li><b>NT 20-F/A</b> - NT 20-F/A</li>
+											<li><b>NT-NSAR</b> - Request for an extension of time for filing form NSAR-A NSAR-B or NSAR-U</li>
+											<li><b>NT-NSAR/A</b> - Amendments to a previously filed NT-NSAR</li>
+											<li><b>NTFNSAR</b> - NTFNSAR</li>
+											<li><b>NTN 11K</b> - NTN 11K</li>
+											<li><b>NTN 20F</b> - NTN 20F</li>
+									    </ul>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2>Quarterly Filings</h2>
+									<div>
+										<ul class="glossary">
+											<li><b>10-Q</b> - Quarterly report which provides a continuing view of a company's financial position</li>
+											<li><b>10-Q/A</b> - Amendment to a previously filed 10-Q</li>
+											<li><b>10-QT</b> - Quarterly transition reports filed rule 13a-10 or 15d-10 of the Securities Exchange Act</li>
+											<li><b>10-QT/A</b> - Amendment to a previously filed 10-QT</li>
+											<li><b>10QSB</b> - Quarterly report filed by small businesses</li>
+											<li><b>10QSB/A</b> - An amendment to a previously filed 10QSB</li>
+											<li><b>13F-E</b> - Quarterly reports filed by institutional managers</li>
+											<li><b>13F-E/A</b> - Amendment to a previously filed 13F-E</li>
+											<li><b>BW-2</b> - BW-2</li>
+											<li><b>NT 10-Q</b> - Notification that form type 10-Q will be submitted late</li>
+											<li><b>NT 10-Q/A</b> - Amendment to a previously filed NT 10-Q</li>
+											<li><b>NTN 10Q</b> - NTN 10Q</li>
+									    </ul>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2>Current Filings</h2>
+									<div>
+										<ul class="glossary">
+											<li><b>6-K</b> - Report of foreign issuer rules 13a-16 and 15d-16 of the Securities Exchange Act</li>
+											<li><b>6-K/A</b> - Amendment to a previously filed 6-K</li>
+											<li><b>8-K</b> - Report of unscheduled material events or corporate event</li>
+											<li><b>8-K/A</b> - Amendment to a previously filed 8-K</li>
+											<li><b>8-K12G3</b> - Notice of securities of successor issuers deemed registered</li>
+											<li><b>8-K12G3/A</b> - Amendment to a previously filed 8-K12G3</li>
+											<li><b>8-K15D5</b> - Notification of assumption of duty to report by successor issuer</li>
+											<li><b>8-K15D5/A</b> - Amendment to a previously filed 8-K15D5</li>
+										</ul>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2>Registration Statements</h2>
+									<div>
+										<ul class="glossary">
+										    <li><b>10-12B</b> - Registration filing of securities pursuant to section 12(b) of the Securities Exchange Act</li>
+										    <li><b>10-12B/A</b> - Amendment to a previously filed 10-12B</li>
+										    <li><b>10-12G</b> - A general registration filing of securities pursuant to section 12(g) of the Securities Exchange Act</li>
+										    <li><b>10-12G/A</b> - Amendment to a previously filed 10-12G</li>
+										    <li><b>10SB12B</b> - Registration for small business issuers pursuant to section 12(b) of Securities Exchange Act</li>
+										    <li><b>10SB12B/A</b> - Amendment to a previously filed 10SB12B</li>
+										    <li><b>10SB12G</b> - Registration for small business issuers pursuant to section 12(g) of Securities Exchange Act</li>
+										    <li><b>10SB12G/A</b> - Amendment to a previously filed 10SB12G</li>
+										    <li><b>18-12B</b> - Registration of securities filed pursuant to section 12(b) of the Securities Exchange Act</li>
+										    <li><b>18-12B/A</b> - Amendment to a previously filed 18-12B</li>
+										    <li><b>18-12G</b> - Registration of securities filed pursuant to section 12(g) of the Securities Exchange Act</li>
+										    <li><b>18-12G/A</b> - Amendment to a previously filed 18-12G</li>
+										    <li><b>20FR12B</b> - Registration of securities of foreign private issuers 12 (b) of the Securities Exchange Act</li>
+										    <li><b>20FR12B/A</b> - Amendment to a previously filed 20FR12B</li>
+										    <li><b>20FR12G</b> - Registration of securities of foreign private issuers 12 (g) of the Securities Exchange Act</li>
+										    <li><b>20FR12G/A</b> - Amendment to a previously filed 20FR12G</li>
+										    <li><b>24F-1</b> - Registration of securities by certain investment companies 24f-1. Notification of election</li>
+										    <li><b>24F-2EL</b> - Registration of securities by certain investment companies 24f-2. Declaration of election</li>
+										    <li><b>24F-2EL/A</b> - Amendment to a previously filed 24F-2EL</li>
+										    <li><b>24F-2NT</b> - Registration of securities by certain investment companies. Rule 24f-2 notice</li>
+										    <li><b>24F-2NT/A</b> - Amendment to a previously filed 24F-2NT</li>
+										    <li><b>424A</b> - Substantive changes from or additions to a prospectus previously filed</li>
+										    <li><b>424B1</b> - Form of prospectus that discloses information previously omitted from the prospectus</li>
+										    <li><b>424B2</b> - Form of prospectus filed in connection with primary offering of securities on a delayed basis</li>
+										    <li><b>424B3</b> - Form of prospectus reflecting facts events constituting substantive change from last form</li>
+										    <li><b>424B4</b> - Form of prospectus disclosing information facts events covered in both forms 424B1 424B3</li>
+										    <li><b>424B5</b> - Form of prospectus disclosing information facts events covered in both forms 424B2 424B3</li>
+										    <li><b>424B7</b> - 424B7</li>
+										    <li><b>485A24E</b> - Registration statement for management investment companies Rule 485(b)0.24</li>
+										    <li><b>485A24F</b> - Registration statement for management investment companies Rule 485(b) 24f-2</li>
+										    <li><b>485APOS</b> - Registration statement for management investment companies Rule 485(a)</li>
+										    <li><b>485B24E</b> - Registration statement for management investment companies Rule 485(a)0.24</li>
+										    <li><b>485B24F</b> - 485B24F</li>
+										    <li><b>485BPOS</b> - </b> - Registration statement for management investment companies) 485(b)</li>
+										    <li><b>486A24E</b> - 486A24E</li>
+										    <li><b>486B24E</b> - </b> - 486B24E</li>
+										    <li><b>486BPOS</b> - 486BPOS</li>
+										    <li><b>487</b> - Pre-effective pricing amendments filed pursuant to Rule 487</li>
+										    <li><b>8-A12B</b> - Registration of certain classes of securities 12(b) of the Securities Exchange Act</li>
+										    <li><b>8-A12B/A</b> - Amendment to a previously filed 8-A12B</li>
+										    <li><b>8-A12G</b> - Registration of certain classes of securities 12(g) of the Securities Exchange Act</li>
+										    <li><b>8-A12G/A</b> - Amendment to a previously filed 8-A12G</li>
+										    <li><b>8-B12B</b> - Registration of securities of certain successor issuers 12(b) of the Securities Exchange Act</li>
+										    <li><b>8-B12B/A</b> - Amendment to a previously filed 8-B12B</li>
+										    <li><b>8-B12G</b> - Registration of securities of certain successor issuers 12(g) of the Securities Exchange Act</li>
+										    <li><b>8-B12G/A</b> - Amendment to a previously filed 8-B12G</li>
+										    <li><b>8A12BEF</b> - Registration of listed debt securities 12(b)</li>
+										    <li><b>8A12BT</b> - 8A12BT</li>
+										    <li><b>8A12BT/A</b> - Amendment to a previously filed 8A12BT</li>
+										    <li><b>BW-3</b> - BW-3</li>
+										    <li><b>DEL AM</b> - Delaying amendment</li>
+										    <li><b>F-1</b> - Registration statement for certain foreign private issuers</li>
+										    <li><b>F-1/A</b> - This filing is a pre-effective amendment to an F-1 filing</li>
+										    <li><b>F-1MEF</b> - Registration of up to an additional 20% of securities for an offering filed on an F-1</li>
+										    <li><b>F-2</b> - Registration statement for certain foreign private issuers</li>
+										    <li><b>F-2/A</b> - Amendment to a previously filed F-2</li>
+										    <li><b>F-3</b> - Registration statement for certain foreign private issuers offered for certain transactions</li>
+										    <li><b>F-3/A</b> - Amendment to a previously filed F-3</li>
+										    <li><b>F-3DPOS</b> - Amendment to a previously filed F-3D</li>
+										    <li><b>F-4</b> - Registration statement for foreign private issuers issued in certain business transactions</li>
+										    <li><b>F-4/A</b> - Amendment to a previously filed F-4</li>
+										    <li><b>F-6</b> - Registration of depository shares evidenced by American Depository Receipts</li>
+										    <li><b>F-6 POS</b> - Post-effective amendment to a previously filed F-6</li>
+										    <li><b>F-6/A</b> - Amendment to a previously filed F-6</li>
+										    <li><b>N-1</b> - Registration statement for open-end management investment companies</li>
+										    <li><b>N-1/A</b> - Amendments to a previously filed N-1</li>
+										    <li><b>N-14</b> - Registration statement for investment companies business combination</li>
+										    <li><b>N-14/A</b> - Pre-effective amendment to a previously filed N-14</li>
+										    <li><b>N-1A</b> - Registration statement for Mutual Funds</li>
+										    <li><b>N-1A EL</b> - N-1A EL</li>
+										    <li><b>N-1A EL/A</b> - N-1A EL/A</li>
+										    <li><b>N-1A/A</b> - Pre-effective amendments</li>
+										    <li><b>N-2</b> - Registration statement for closed-end investment companies</li>
+										    <li><b>N-2/A</b> - RPre-effective amendment to an N-2 filing</li>
+										    <li><b>N-2MEF</b> - N-2MEF</li>
+										    <li><b>N-3</b> - Registration statement for separate accounts (management investment companies)</li>
+										    <li><b>N-3 EL</b> - N-3 EL</li>
+										    <li><b>N-3 EL/A</b> - N-3 EL/A</li>
+										    <li><b>N-3/A</b> - Pre-effective amendment to an N-3 filing</li>
+										    <li><b>N-4</b> - Registration statement for separate accounts (unit investment trusts)</li>
+										    <li><b>N-4 EL</b> - N-4 EL</li>
+										    <li><b>N-4 EL/A</b> - N-4 EL/A</li>
+										    <li><b>N-4/A</b> - Pre-effective amendment to an N-4 filing</li>
+										    <li><b>N-5</b> - Registration statement for small business investment companies</li>
+										    <li><b>N-5/A</b> - Pre-effective amendment to an N-5 filing</li>
+										    <li><b>N-54A</b> - Notification of election by business development companies</li>
+										    <li><b>N-54A/A</b> - Pre-effective amendment to an N-54A filing</li>
+										    <li><b>N-8A</b> - Notification of registration under section 8(a)</li>
+										    <li><b>N-8A/A</b> - Pre-effective amendment to an N-8A filing</li>
+										    <li><b>N-8B-2</b> - Registration statement for unit investment trusts</li>
+										    <li><b>N-8B-2/A</b> - Amendments to a previously filed N-8B-2</li>
+										    <li><b>N-8B-4</b> - Registration statement for face-amount certificate companies</li>
+										    <li><b>N-8B-4/A</b> - Pre-effective amendment to an N-8B-4 filing</li>
+										    <li><b>N14AE24</b> - N14AE24</li>
+										    <li><b>N14AE24/A</b> - N14AE24/A</li>
+										    <li><b>N14EL24</b> - N14EL24</li>
+										    <li><b>N14EL24/A</b> - N14EL24/A</li>
+										    <li><b>POS 8C</b> - POS 8C</li>
+										    <li><b>POS AM</b> - Post-effective amendment to an S-Type filing</li>
+										    <li><b>POS AMI</b> - Post-effective amendments</li>
+										    <li><b>POS EX</b> - POS EX</li>
+										    <li><b>POS462B</b> - Post effective amendment to proposed Securities Act Rule 462(b) registration statement</li>
+										    <li><b>POS462C</b> - Post effective amendment to proposed Securities Act Rule 462(c) registration statement</li>
+										    <li><b>S-1</b> - Registration statement for face-amount certificate companies</li>
+										    <li><b>S-1/A</b> - Amended Registration statement for face-amount certificate companies</li>
+										    <li><b>S-11</b> - Registration of securities of certain real estate companies</li>
+										    <li><b>S-11/A</b> - Pre-effective amendment to an S-11 filing</li>
+										    <li><b>S-11MEF</b> - Registration of up to an additional 20% of securities for any offering registered on a S-11</li>
+										    <li><b>S-1MEF</b> - Registration of up to an additional 20% of securities for any offering registered on an S-1</li>
+										    <li><b>S-2</b> - Optional registration form that may be used by some companies</li>
+										    <li><b>S-2/A</b> - Pre-effective amendment to S-2 filing</li>
+										    <li><b>S-20</b> - Initial registration statement for standardized options</li>
+										    <li><b>S-20/A</b> - Amendment to a previously filed S-20</li>
+										    <li><b>S-2MEF</b> - Registration of up to an additional 20% of securities for any offering registered on an S-2</li>
+										    <li><b>S-3</b> - Simplified registration form</li>
+										    <li><b>S-3/A</b> - Pre-effective amendment to an S-3 filing</li>
+										    <li><b>S-3D</b> - Registration statement of securities pursuant to dividend or interest reinvestment plans</li>
+										    <li><b>S-3D/A</b> - Amendment to a previously filed S-3D</li>
+										    <li><b>S-3DPOS</b> - Post-effective amendment to an S-3D filing</li>
+										    <li><b>S-3MEF</b> - Registration of up to an additional 20% of securities for any offering registered on a S-3</li>
+										    <li><b>S-4 POS</b> - Post-effective amendment to an S-4EF filing</li>
+										    <li><b>S-4EF</b> - Securities issued in connection with formation of a bank savings and loan etc</li>
+										    <li><b>S-4EF/A</b> - Pre-effective amendment to an S-4EF filing</li>
+										    <li><b>S-4MEF</b> - A new registration statement filed under Rule 462(b) to add securities to a prior related registrati</li>
+										    <li><b>S-6</b> - Initial registration statement for unit investment trusts</li>
+										    <li><b>S-6/A</b> - Pre-effective amendment to an S-6 filing</li>
+										    <li><b>S-6EL24</b> - S-6EL24</li>
+										    <li><b>S-6EL24/A</b> - S-6EL24/A</li>
+										    <li><b>S-8</b> - Securities offered to employees pursuant to employee benefit plans</li>
+										    <li><b>S-8 POS</b> - Post-effective amendment to an S-8 filing</li>
+										    <li><b>S-8/A</b> - Amendment to a previously filed S-8</li>
+										    <li><b>SB-1</b> - Optional filing for small business issuers for the registration of securities to be sold to public</li>
+										    <li><b>SB-1/A</b> - Pre-effective amendment to an SB-1 filing</li>
+										    <li><b>SB-2</b> - Optional form for the registration of securities to be sold to the public by small business issuers</li>
+										    <li><b>SB-2/A</b> - Pre-effective amendment to an SB-2 filing</li>
+										    <li><b>SB-2MEF</b> - Registration of up to an additional 20% of securities for any offering registered on a SB-2</li>
+								  		</ul>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2>3,4,5 (Insider Transactions)</h2>
+									<div>
+										<ul class="glossary">
+										    <li><b>3</b> - Initial filing by director officer or owner of more than ten percent.</li>
+										    <li><b>3/A</b> - An amendment to a 3 filing. Non-EDGAR filing</li>
+										    <li><b>4</b> - Statement of changes in beneficial ownership of securities</li>
+										    <li><b>4/A</b> - Amendment to a previously filed 4</li>
+										    <li><b>5</b> - Annual filing director officer or owner of more than ten percent.</li>
+										    <li><b>5/A</b> - Amendment to a previously filed 5</li>
+										</ul>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2>Mergers &amp; Acq.</h2>
+									<div>
+										<ul class="glossary">
+											<li><b>DEFM14A</b> - Official notification of matters relating to a merger or acquisition</li>
+										    <li><b>DEFM14C</b> - A definitive information statement relating to a merger or an acquisition</li>
+										    <li><b>PREM14A</b> - A preliminary proxy statement relating to a merger or acquisition</li>
+										    <li><b>PREM14C</b> - A preliminary information statement relating to a merger or acquisition</li>
+										    <li><b>S-4</b> - Registration of securities issued in business combination transactions</li>
+										    <li><b>S-4/A</b> - Pre-effective amendment to an S-4 filing</li>
+										    <li><b>SC 14D1</b> - Tender offer statement</li>
+										    <li><b>SC 14D1/A</b> - Amendment to a previously filed SC 14D1</li>
+										    <li><b>SC 14D9</b> - Solicitation/recommendation statements</li>
+										    <li><b>SC 14D9/A</b> - Amendment to a previously filed SC 14D9</li>
+										    <li><b>SC TO-C</b> - Written public communication relating to an issuer or third party tender offer not by the subject co</li>
+										    <li><b>SC TO-I</b> - Tender offer schedule and amendment filed by the issuer.</li>
+										    <li><b>SC TO-I/A</b> - Amendment to a previously filed SC TO-I</li>
+										    <li><b>SC TO-T</b> - Tender offer schedule and amendment filed by a third party.</li>
+										    <li><b>SC TO-T/A</b> - Amendment to a previously filed SC TO-T</li>
+										</ul>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2>Proxy Statements</h2>
+									<div>
+										<ul class="glossary">
+											<li><b>DEF 14A</b> - Official notification to shareholders of matters to be brought to a vote ("Proxy")</li>
+										    <li><b>DEF13E3</b> - Schedule filed as definitive materials</li>
+										    <li><b>DEF13E3/A</b> - Amendment to a previously filed DEF 13E3</li>
+										    <li><b>DEFA14A</b> - Additional proxy soliciting materials - definitive</li>
+										    <li><b>DEFA14C</b> - Additional information statement materials - definitive</li>
+										    <li><b>DEFC14A</b> - Definitive proxy statement in connection with contested solicitations</li>
+										    <li><b>DEFC14C</b> - Definitive information statement indicating contested solicitations</li>
+										    <li><b>DEFN14A</b> - Proxy statement filed by non-management not in connection with contested solicitations</li>
+										    <li><b>DEFR14A</b> - DEFR14A</li>
+										    <li><b>DEFR14C</b> - Revised information statement materials - definitive</li>
+										    <li><b>DEFS14A</b> - A definitive proxy statement giving notice regarding a special meeting</li>
+										    <li><b>DEFS14C</b> - A definitive information statement regarding a special meeting</li>
+										    <li><b>DFAN14A</b> - Additional proxy soliciting materials filed by non-management</li>
+										    <li><b>DFRN14A</b> - Revised definitive proxy statement filed by non-management</li>
+										    <li><b>PRE 14A</b> - A preliminary proxy statement providing notification matters to be brought to a vote</li>
+										    <li><b>PRE 14C</b> - A preliminary proxy statement containing all other information</li>
+										    <li><b>PRE13E3</b> - Initial statement - preliminary form</li>
+										    <li><b>PRE13E3/A</b> - Amendment to a previously filed PRE13E3</li>
+										    <li><b>PREC14A</b> - Preliminary proxy statement containing contested solicitations</li>
+										    <li><b>PREC14C</b> - Preliminary information statement containing contested solicitations</li>
+										    <li><b>PREN14A</b> - Non-management preliminary proxy statements not involving contested solicitations</li>
+										    <li><b>PRER14A</b> - Proxy soliciting materials. Revised preliminary material</li>
+										    <li><b>PRER14C</b> - Information statements. Revised preliminary material</li>
+										    <li><b>PRES14A</b> - A preliminary proxy statement giving notice regarding a special meeting</li>
+										    <li><b>PRES14C</b> - A preliminary information statement relating to a special meeting</li>
+										    <li><b>PRRN14A</b> - Non-management revised preliminary proxy soliciting materials</li>
+										    <li><b>PX14A6G</b> - Notice of exempt solicitation. Definitive material</li>
+										</ul>
+									</div>
+								</li>
+								<div class="spacer1"></div>
+								<hr />
+								<div class="spacer1"></div>
+								<li>
+									<h2>Other</h2>
+									<div>
+										<ul class="glossary">
+											<li>All forms not listed in one of the categories above</li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</div>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html"-->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html"-->
+			<!-- footer content end -->
+	</body>
+</html>

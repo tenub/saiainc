@@ -26,13 +26,14 @@
                       <option value="2">Quarterly Filings</option>
                       <option value="4">Registration Statements</option>
                     </select>
-                    <input type="submit" id="lookupSubmit" value="Look Up" class="roundRed" style="position:absolute;left:275px;top:25%;" />
+                    <label for="groupings_filter"><a href="sec-group-desc.shtml">View SEC Groupings Descriptions</a></label>
+                    <input type="submit" id="lookupSubmit" value="Look Up" class="roundRed" style="position:absolute;left:275px;top:15px;" />
                   </div>
                 </form>
                 <table class="hor-minimalist1">
                   <thead>
                     <tr>
-                      <th colspan="6" class="noBorder"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
+                      <th colspan="6" class="noBorder" align="right"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
                     </tr>
                     <tr>
                       <th>Filing Date</th>
@@ -127,31 +128,7 @@
                   </tbody>
                   <tfoot>
                     <tr>
-                      <th colspan="6" class="noBorder nav">
-                        <div>
-                          <a href="#">
-                            <div class="ui-icon ui-icon-arrowthickstop-1-w"></div>
-                          </a>
-                        </div>
-                        <div> | </div>
-                        <div>
-                          <a href="#">
-                            <div class="ui-icon ui-icon-arrowthick-1-w"></div>
-                          </a>
-                        </div>
-                        <div> | </div>
-                        <div>
-                          <a href="#">
-                            <div class="ui-icon ui-icon-arrowthick-1-e"></div>
-                          </a>
-                        </div>
-                        <div> | </div>
-                        <div>
-                          <a href="#">
-                            <div class="ui-icon ui-icon-arrowthickstop-1-e"></div>
-                          </a>
-                        </div>
-                      </th>
+                      <th colspan="6" class="noBorder" align="right"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
                     </tr>
                   </tfoot>
                 </table>
