@@ -19,10 +19,10 @@
 								<li class="first">
 									<h2>
 										<div>
-											Lowes<br />
+											<img src="assets/img/award_lowes.jpg" width="100" height="100" alt="Lowe's Award" />
+											<div>Lowes</div>
 											<div class="sub">Platinum Team Award<br />
 											2006</div>
-											<img src="assets/img/award_lowes.jpg" width="110" height="80" alt="Lowe's Award"/>
 										</div>
 									</h2>
 									<ul class="accordion1">
@@ -47,10 +47,10 @@
 								<li>
 									<h2>
 										<div>
-											Logistics Management<br />
+											<div>Logistics Management</div>
 											<div class="sub">Quest for Quality<br />
 											2006, 2003</div>
-											<img src="assets/img/award_logistics.jpg" width="110" height="80" alt="Lowe's Award"/>
+											<img src="assets/img/award_logistics.jpg" width="100" height="100" alt="Logistics Award" />
 										</div>
 									</h2>
 									<ul class="accordion1">
@@ -74,10 +74,10 @@
 								<li>
 									<h2>
 										<div>
-											InformationWeek<br />
+											<div>InformationWeek</div>
 											<div class="sub">Top 500 company for IT innovation<br />
 											2004</div>
-											<img src="assets/img/award_infoweek.jpg" width="110" height="80" alt="Lowe's Award"/>
+											<img src="assets/img/award_infoweek.jpg" width="100" height="100" alt="Infoweek Award" />
 										</div>
 									</h2>
 									<ul class="accordion1">
@@ -106,10 +106,10 @@
 								<li class="last">
 									<h2>
 										<div>
-											Borders Group's<br />
+											<div>Borders Group's</div>
 											<div class="sub">Provider of the Year Award<br />
 											2005</div>
-											<img src="assets/img/award_borders.jpg" width="110" height="80" alt="Lowe's Award"/>
+											<img src="assets/img/award_borders.jpg" width="100" height="100" alt="Border's Award" />
 										</div>
 									</h2>
 									<ul class="accordion1">

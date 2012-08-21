@@ -685,7 +685,7 @@ body > .container {
 }
 #main .container ul.awards h2 > div > img {
 	position: absolute;
-	left: 60%;
+	left: 20px;
 	top: 0;
 }
 #main .container ul.awards h2 > div > img.portrait {
