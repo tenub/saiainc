@@ -32,7 +32,7 @@
           <hr />
           <div class="spacer2"></div>
           <p>Are you looking for answers? Do you want to voice a comment? Or do you have a suggestion for us? We are here to assist in anyway possible. Simply send an e-mail to the appropriate department listed below for a fast and friendly reply.</p>
-          <table id="hor-minimalist1">
+          <table class="hor-minimalist1">
             <thead>
               <tr>
                 <th scope="col">Department</th>
