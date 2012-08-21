@@ -826,11 +826,17 @@ body > .container {
 #main .container ul.sitemap ul.accordion1 > li a:hover {
 	color: #d51d24;
 }
-#main .container .hor-minimalist1 div.popup {
-    width: 16px;
+#main .container div.popup {
+	width: 16px;
     height: 16px;
+    position: absolute;
+    right: -20px;
+    top: 2px;
 }
-#main .container .hor-minimalist1 div.popup > div.ui-icon {
+#main .container div.popup:hover {
+	cursor: pointer;
+}
+#main .container div.popup > div.ui-icon {
     float: right;
     position: static;
 }

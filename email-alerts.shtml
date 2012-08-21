@@ -1,0 +1,68 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<div class="formBody">
+						<h1>E-mail Alerts</h1>
+                        <p>To automatically receive E-mail Alerts:<br />
+                        1. Select the checkbox for each information category that interests you.<br />
+                        2. Enter your E-mail address in the space provided.<br />
+                        3. Click on the "Submit" button.</p>
+                        </div>
+                        <div class="spacer1"></div>
+                        <hr />
+                        <div class="spacer1"></div>
+                        <div class="formBody">
+                            <form class="fullWidth">
+                                <div>
+                                  <div>
+                                    <input type="checkbox" name="alert" id="alert_event" /><label for="alert_event">Saia, Inc. Event Alert</label>
+                                    <div class="spacer1"></div>
+                                    <input type="checkbox" name="alert" id="alert_news" /><label for="alert_news">Saia, Inc. News Alert</label>
+                                    <div class="spacer1"></div>
+                                    <input type="checkbox" name="alert" id="alert_financial" /><label for="alert_financial">Saia, Inc. Financial Report Alert</label>
+                                    <div class="spacer1"></div>
+                                    <input type="checkbox" name="alert" id="alert_annual" /><label for="alert_annual">Saia, Inc. Annual Report Alert</label>
+                                    <div class="spacer1"></div>
+                                    <input type="checkbox" name="alert" id="alert_sec" /><label for="alert_sec">Saia, Inc. SEC Filing Alert</label>
+                                    <div class="spacer1"></div>
+                                    <input type="checkbox" name="alert" id="alert_weekly" /><label for="alert_weekly" class="relative">Saia, Inc. Weekly Summary Alert
+                                        <div id="popupEmailWeekly" class="popup">
+                                            <div class="ui-icon ui-icon-info"></div>
+                                        </div>
+                                    </label>
+                                    <div class="spacer1"></div>
+                                    <input type="checkbox" name="alert" id="alert_volume" /><label for="alert_volume">Saia, Inc. Price &amp; Volume Alert
+                                    <div id="popupEmailVolume" class="popup">
+                                        <div class="ui-icon ui-icon-info"></div>
+                                    </div>
+                                    </label>
+                                  </div>
+                                  <div class="spacer2"></div>
+                                  <input type="text" placeholder="E-mail Address" name="alerts" id="email_alerts" class="required" style="width:40%;" /><input type="submit" value="Submit" class="cap" style="margin-left:-1px;" />
+                                </div>
+                            </form>
+                        </div>
+        			</div>
+                </div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>
