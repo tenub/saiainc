@@ -3,7 +3,7 @@
 	<head> 
 		<meta charset="utf-8"> 
 		<title>Saia LTL Freight</title> 	
-    		<!-- header content start -->
+    	<!-- header content start -->
 			<!--#include virtual="assets/templates/header-inc.html" -->
 			<!-- header content end -->
     		<div id="content">
@@ -33,7 +33,7 @@
                 <table class="hor-minimalist1">
                   <thead>
                     <tr>
-                      <th colspan="6" class="noBorder" align="right"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
+                      <th colspan="6" class="noBorder nav"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
                     </tr>
                     <tr>
                       <th>Filing Date</th>
@@ -128,7 +128,7 @@
                   </tbody>
                   <tfoot>
                     <tr>
-                      <th colspan="6" class="noBorder" align="right"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
+                      <th colspan="6" class="noBorder nav"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
                     </tr>
                   </tfoot>
                 </table>

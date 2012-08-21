@@ -10,32 +10,32 @@
     			<div id="main">
     				<div class="container">
   						<div class="formBody">
-  							<h1>SEC Filings</h1>
+  							<h1>Governance</h1>
                 <div class="spacer2"></div>
   							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet tortor nibh, eget porta nisl. Quisque ut pretium velit. Cras lobortis nunc eu felis luctus laoreet. Aenean libero lorem, suscipit sed accumsan sed, blandit quis velit <a href="#">Corporate Governance Guidelines <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a>. Maecenas pharetra molestie elit eu vulputate. Sed iaculis, lectus sit amet rhoncus convallis, velit lorem tincidunt sapien <a href="#">Code of Conduct <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a>.</p>
-                <ul class="oneColList" style="float:left;width:50%;">
-                  <li class="first"><h3><b>Audit Committee</b> (<a href="#">Charter <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a>)</h3></li>
+                <ul class="oneColList" style="float:left;width:45%;margin-right:20px;">
+                  <li class="first"><h3><b>Audit Committee</b><br />(<a href="#">Charter <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a>)</h3></li>
                   <li>Mr. Olson (Chair)</li>
                   <li>Mr. Holland</li>
                   <li>Mr. Rockel</li>
                 </ul>
                 <ul class="oneColList" style="float:right;width:50%;">
-                  <li class="first"><h3><b>Compensation Committee</b> (<a href="#">Charter <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a>)</h3></li>
+                  <li class="first"><h3><b>Compensation Committee</b><br />(<a href="#">Charter <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a>)</h3></li>
                   <li>Mrs. French (Chair)</li>
                   <li>Mr. Olsson</li>
                   <li>Mr. Martin</li>
                   <li>Mr. Ward</li>
                 </ul>
                 <div class="spacer1"></div>
-                <ul class="oneColList" style="float:left;width:50%;">
-                  <li class="first"><h3><b>Nominating and Governance Committee</b> (<a href="#">Charter <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a>)</h3></li>
+                <ul class="oneColList" style="float:left;width:45%;margin-right:20px;">
+                  <li class="first"><h3><b>Nominating and Governance Committee</b><br />(<a href="#">Charter <img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a>)</h3></li>
                   <li>Mr. Martin (Chair)</li>
                   <li>Mr. Olsson</li>
                   <li>Mr. Holland</li>
                   <li>Mr. Rockel</li>
                 </ul>
                 <ul class="oneColList" style="float:right;width:50%;">
-                  <li class="first"><h3><b>Lead Independent Director</b></h3></li>
+                  <li class="first"><h3><b>Lead Independent<br />Director</b></h3></li>
                   <li>Mr. Olsson</li>
                 </ul>
                 <div class="spacer2"></div>
