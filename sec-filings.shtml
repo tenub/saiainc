@@ -26,7 +26,7 @@
                       <option value="2">Quarterly Filings</option>
                       <option value="4">Registration Statements</option>
                     </select>
-                    <label for="groupings_filter"><a href="sec-group-desc.shtml">View SEC Groupings Descriptions</a></label>
+                    <label for="groupings_filter" style="margin-top:5px;"><a href="sec-group-desc.shtml">View SEC Groupings Descriptions</a></label>
                     <input type="submit" id="lookupSubmit" value="Look Up" class="roundRed" style="position:absolute;left:275px;top:15px;" />
                   </div>
                 </form>

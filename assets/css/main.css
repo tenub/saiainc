@@ -76,7 +76,7 @@ label{
 	border: none;
 }
 .hor-minimalist th.nav, .hor-minimalist1 th.nav, .hor-minimalist2 th.nav {
-	text-align: right;
+	text-align: left;
 }
 .left {
 	float: left;
@@ -649,7 +649,7 @@ body > .container {
 }
 #main .container ul.awards > li > h2 {
 	line-height: 26px;
-	height: 80px;
+	height: 100px;
 	cursor: pointer;
 	background: #fff;
 	border-radius: 10px;
@@ -657,6 +657,9 @@ body > .container {
 	padding: 5px 10px;
 	border: 1px solid #fff;
 	min-width: 433px;	
+}
+#main .container ul.awards > li > h2.small {
+	height: 80px;
 }
 #main .container ul.awards > li.first > h2 {
 	margin-top: 0;	
@@ -682,8 +685,20 @@ body > .container {
 }
 #main .container ul.awards h2 > div > img {
 	position: absolute;
-	left: 333px;
+	left: 60%;
 	top: 0;
+}
+#main .container ul.awards h2 > div > img.portrait {
+	position: absolute;
+	left: 20px;
+	top: 0;
+}
+#main .container ul.awards h2 > div > div {
+	position: relative;
+	left: 130px;
+}
+#main .container ul.awards h2.small > div > div {
+	position: static;
 }
 #main .container ul.awards h2 > div > div.sub {
 	font: 16px helvetica, arial, sans-serif;
@@ -721,7 +736,7 @@ body > .container {
 	margin-left: 0;
 }
 #main .container ul.awards > li > ul > li > div > p {
-	padding: 10px 0;
+	padding: 10px 0 10px 10px;
 }
 #main .container ul.awards > li > ul > li > div > h4 {
 	font: bold 18px helvetica, arial, sans-serif;
@@ -740,6 +755,10 @@ body > .container {
     z-index: 999;
 }
 #main .container ul.awards > li > h2 > span.ui-icon {
+    margin-top: 40px;
+    z-index: 999;
+}
+#main .container ul.awards > li > h2.small > span.ui-icon {
     margin-top: 3px;
     z-index: 999;
 }
@@ -967,12 +986,12 @@ body > .container {
 }
 #main .container ul.noBullets {
 	list-style: none;
-	margin: 0 0 0 20px;
+	margin: 0;
 	padding: 5px 0 10px 0;
 }
 #main .container ul.noBullets > li {
 	line-height: 1.5em;
-	margin: 15px 0;
+	margin: 20px 0;
 }
 #main .container ul.noBullets > li.first {
 	list-style: none;
@@ -997,6 +1016,11 @@ body > .container {
 #main .container ul.noBullets > .noBottomSpacing {
 	margin-bottom: 0;
 	padding-bottom: 0;
+}
+#main .container ul.qa > li > p {
+	padding: 0;
+	text-indent: -1.6em;
+	padding-left: 1.6em;
 }
 #main .container ul.twoColList {
 	margin: 0 0 20px 0;

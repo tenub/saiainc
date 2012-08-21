@@ -10,63 +10,74 @@
     			<div id="main">
     				<div class="container">
 						<img class="hero" src="assets/img/hero_ltl_index.jpg" alt="Truck Driving on Bridge" />
-    					<h1>Saia LTL</h1>
-    					<h2>The right carrier for you!</h2>
-    					<ul class="list noBullets">
-                            <li><b>Q.</b> Where are shares of Saia, Inc. traded and what is its symbol?<br />
-                            <b>A.</b> Our common stock trades on the NASDAQ National Market System under the symbol "SAIA".</li>
-
-                            <li><b>Q.</b> What is the CUSIP number for Saia, Inc. common stock?<br />
-                            <b>A.</b> 78709Y 10 5</li>
-
-                            <li><b>Q.</b> How many shares of common stock does Saia, Inc. have outstanding?<br />
-                            <b>A.</b> Approximately 15.9 million.</li>
-
-                            <li><b>Q.</b> How do I obtain an annual report, proxy statement or other financial documents?<br />
-                            <b>A.</b> All financial filings are available online by clicking on the "SEC Filings" icon or "Annual Report + Proxy Statement" specifically.</li>
-
-                            <li><b>Q.</b> What is Saia, Inc.'s fiscal year?<br />
-                            <b>A.</b> January 1 through December 31.</li>
-
-                            <li><b>Q.</b> Does Saia, Inc. pay a cash dividend on its common stock?<br />
-                            <b>A.</b> At the present time, we do not pay cash dividends on our common stock.
-
-                            <li><b>Q.</b> What securities analysts cover Saia, Inc.?<br />
-                            <b>A.</b> Click here for Analyst Coverage</li>
-
-                            <li><b>Q.</b> How do I transfer my stock certificates, change my address or obtain replacement stock certificates?<br />
-                            <b>A.</b> 
-                            Please contact our registrar and stock transfer agent:<br />
-                            <p class="noBotSpacing indent"><b>Computershare Trust Company, N.A.</b><br />
-                            250 Royall Street<br />
-                            Canton, MA 02021</p>
-                            <p class="noTopSpacing indent">Toll free number for shareholders:<br />
-                            800-884-4225</p>
-                            <p class="noTopSpacing indent">Outside the U.S. and Canada:<br />
-                            781-575-4706</p>
-                            <p class="noSpacing indent">Website:<br />
-                            <a href="http://computershare.com">www.computershare.com</a></p></li>
-
-
-                            <li><b>Q.</b> How can I obtain more information about Saia, Inc.?<br />
-                            <b>A.</b> Please call or write to us at:<br />
-                            <p class="noBotSpacing indent"><b>Saia, Inc.</b><br />
-                            Attn: Investor Relations<br />
-                            11465 Johns Creek Parkway, Suite 400<br />
-                            Johns Creek, GA 30097<br />
-                            678-542-3910<br />
-                            investors@saia.com</p></li>
-
-                            <li><b>Q.</b> Where is the home office of Saia, Inc.?<br />
-                            <b>A.</b><p class="noSpacing indent"><b>Saia, Inc.</b><br />
-                            11465 Johns Creek Parkway<br />
-                            Johns Creek, GA 30097</p></li>
-
-                            <li><b>Q.</b> Who are Saia, Inc.’s independent auditors?<br />
-                            <b>A.</b><p class="noSpacing indent"><b>KMPG</b><br />
-                            Suite 2000<br />
-                            303 Peachtree Street, N.E.<br />
-                            Atlanta, GA 30308-3210</p></li>
+    					<h1>Investor FAQs</h1>
+    					<ul class="list noBullets qa">
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> Where are shares of Saia, Inc. traded and what is its symbol?</b></p>
+                                <p><span style="margin-right:10px;">A</span> Our common stock trades on the NASDAQ National Market System under the symbol "SAIA".</p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> What is the CUSIP number for Saia, Inc. common stock?</b></p>
+                                <p><span style="margin-right:10px;">A</span> 78709Y 10 5</p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> How many shares of common stock does Saia, Inc. have outstanding?</b></p>
+                                <p><span style="margin-right:10px;">A</span> Approximately 15.9 million.</p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> How do I obtain an annual report, proxy statement or other financial documents?</b></p>
+                                <p><span style="margin-right:10px;">A</span> All financial filings are available online by clicking on the "SEC Filings" icon or "Annual Report + Proxy Statement" specifically.</p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> What is Saia, Inc.'s fiscal year?</b></p>
+                                <p><span style="margin-right:10px;">A</span> January 1 through December 31.</p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> Does Saia, Inc. pay a cash dividend on its common stock?</b></p>
+                                <p><span style="margin-right:10px;">A</span> At the present time, we do not pay cash dividends on our common stock.</p>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> What securities analysts cover Saia, Inc.?</b></p>
+                                <p><span style="margin-right:10px;">A</span> Click here for Analyst Coverage</p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> How do I transfer my stock certificates, change my address or obtain replacement stock certificates?</b></p>
+                                <p><span style="margin-right:10px;">A</span> 
+                                Please contact our registrar and stock transfer agent:<br style="line-height:2em;" />
+                                Computershare Trust Company, N.A<br />
+                                250 Royall Street<br />
+                                Canton, MA 02021<br style="line-height:2em;" />
+                                Toll free number for shareholders:<br />
+                                800-884-4225<br style="line-height:2em;" />
+                                Outside the U.S. and CanadA<br />
+                                781-575-4706<br style="line-height:2em;" />
+                                Website:<br />
+                                <a href="http://computershare.com">www.computershare.com</a></p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> How can I obtain more information about Saia, Inc.?</b></p>
+                                <p><span style="margin-right:10px;">A</span> Please call or write to us at:<br style="line-height:2em;" />
+                                Saia, Inc.<br />
+                                Attn: Investor Relations<br />
+                                11465 Johns Creek Parkway, Suite 400<br />
+                                Johns Creek, GA 30097<br />
+                                678-542-3910<br />
+                                investors@saiAcom</p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> Where is the home office of Saia, Inc.?</b></p>
+                                <p><span style="margin-right:10px;">A</span>
+                                Saia, Inc.<br />
+                                11465 Johns Creek Parkway<br />
+                                Johns Creek, GA 30097</p>
+                            </li>
+                            <li>
+                                <p><b><span style="margin-right:10px;">Q</span> Who are Saia, Inc.’s independent auditors?</b></p>
+                                <p><span style="margin-right:10px;">A</span>
+                                KMPG<br />
+                                Suite 2000<br />
+                                303 Peachtree Street, N.E.<br />
+                                Atlanta, GA 30308-3210</p>
+                            </li>
                     </ul>
     				</div>
     			</div>

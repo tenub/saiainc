@@ -45,7 +45,7 @@
                 <div class="spacer1"></div>
                 <ul class="accordion awards">
                   <li class="first">
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mr. H. A. Trucksess, III<br />
                         <div class="sub">Non-Executive Chairman</div>
@@ -61,7 +61,7 @@
                     </ul>
                   </li>
                   <li>
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mrs. Linda J. French<br />
                         <div class="sub">Associate Professor (Ret.)<br />William Jewell College</div>
@@ -78,7 +78,7 @@
                     </ul>
                   </li>
                   <li>
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mr.  John  J.  Holland<br />
                         <div class="sub">President<br />Greentree Advisors, LLC</div>
@@ -94,7 +94,7 @@
                     </ul>
                   </li>
                   <li>
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mr. William F. Martin, Jr.<br />
                         <div class="sub">Transportation Executive<br />Retired</div>
@@ -110,7 +110,7 @@
                     </ul>
                   </li>
                   <li>
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mr. Richard D. O'Dell<br />
                         <div class="sub">President &amp; CEO</div>
@@ -126,7 +126,7 @@
                     </ul>
                   </li>
                   <li>
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mr.  James  A.  Olson<br />
                         <div class="sub">Member of Plaza Belmont, LLC</div>
@@ -142,7 +142,7 @@
                     </ul>
                   </li>
                   <li>
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mr. Bjorn  E.  Olsson<br />
                         <div class="sub">Executive<br />Retired</div>
@@ -158,7 +158,7 @@
                     </ul>
                   </li>
                   <li>
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mr.  Douglas  W.  Rockel<br />
                         <div class="sub">Chairman, President &amp; CEO<br />Roots, Inc.</div>
@@ -174,7 +174,7 @@
                     </ul>
                   </li>
                   <li class="last">
-                    <h2>
+                    <h2 class="small">
                       <div>
                         Mr. Jeffrey C. Ward<br />
                         <div class="sub">Vice President<br />A.T. Kearney, Inc.</div>
