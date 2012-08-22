@@ -670,6 +670,9 @@ body > .container {
 	position: relative;
 	padding-left: 5px;
 }
+#main .container ul.directors h2 > div {
+	padding-left: 15px;
+}
 #main .container ul.awards h2:hover {
 	border: 1px solid #eee;
 	background: #eee;
@@ -742,6 +745,7 @@ body > .container {
 	font: bold 18px helvetica, arial, sans-serif;
 	color: #333;
 	line-height: 30px;
+	padding-left: 10px;
 }
 #main .container .accordion .ui-state-focus, #main .container .accordion1 .ui-state-focus, #main .container .stock .ui-state-focus {
     outline: none;

@@ -11,15 +11,6 @@
     				<div class="container">
     					<img class="hero" src="assets/img/hero_ltl_index.jpg" alt="Truck Driving on Bridge" />
 						<h1>Environment, Health &amp; Safety, and Security</h1>
-						
-						<p>At Saia, we've always been dedicated to managing our operations in a manner that protects the environment as well as the safety and security of our customers' freight. If you are shipping chemicals, rest assured that Saia is committed to the same environmental, health, safety and security (EHS'S) standards and performance improvement principles as your company.</p>
-						<p>In fact, we made a commitment to the American Chemistry Council's (ACC) Responsible Care® Program and becoming RC14001® certified. Responsible Care was launched in 1988 as the ACC's comprehensive EHS&amp;S performance improvement initiative. RC14001 builds on the Responsible Care Management Certification by including all of the requirements of the ISO 14001: 2004 specifications, the international specification for an environmental management system.</p>
-						
-						<p>Currently, Saia is the first and only less-than-truckload, non-bulk carrier in the United States to be certified RC14001, which required that our policies, procedures and an array of records be reviewed by an independent, third-party auditor.</p>
-						<p>In addition to our RC14001 certification, 28 of our facilities have been certified ISO 9001: 2000 during the first two phases of a planned certification process, meaning they have established a systemic approach to quality management.</p>
-						<p>As a partner company, Saia reports key performance data annually. Please visit <a href="http://responsiblecare.americanchemistry.com" target="_blank">www.responsiblecare-us.com</a> for more details.</p>
-						<div class="spacer3"></div>
-						<hr />
 						<div class="spacer2"></div>
 						<div class="imgContainer">
 							<img src="assets/img/env_cert_rc14001.jpg" alt="RC14001 Certification" width="150" height="150" class="left" />
@@ -29,6 +20,15 @@
 							<img src="assets/img/env_rc_20.jpg" alt="20 Years Responsible Care" width="150" height="150" class="right" />
 						</div>
 						<div class="spacer2"></div>
+						<hr />
+						<div class="spacer1"></div>
+						<p>At Saia, we've always been dedicated to managing our operations in a manner that protects the environment as well as the safety and security of our customers' freight. If you are shipping chemicals, rest assured that Saia is committed to the same environmental, health, safety and security (EHS'S) standards and performance improvement principles as your company.</p>
+						<p>In fact, we made a commitment to the American Chemistry Council's (ACC) Responsible Care® Program and becoming RC14001® certified. Responsible Care was launched in 1988 as the ACC's comprehensive EHS&amp;S performance improvement initiative. RC14001 builds on the Responsible Care Management Certification by including all of the requirements of the ISO 14001: 2004 specifications, the international specification for an environmental management system.</p>
+						
+						<p>Currently, Saia is the first and only less-than-truckload, non-bulk carrier in the United States to be certified RC14001, which required that our policies, procedures and an array of records be reviewed by an independent, third-party auditor.</p>
+						<p>In addition to our RC14001 certification, 28 of our facilities have been certified ISO 9001: 2000 during the first two phases of a planned certification process, meaning they have established a systemic approach to quality management.</p>
+						<p>As a partner company, Saia reports key performance data annually. Please visit <a href="http://responsiblecare.americanchemistry.com" target="_blank">www.responsiblecare-us.com</a> for more details.</p>
+						<div class="spacer1"></div>
 						<hr />
 						<div class="spacer2"></div>
 						<h3>Our Policies</h3>
@@ -42,7 +42,7 @@
 							<li>Community Outreach Initiatives</li>
 						</ul>
 						<p>Have a comment or suggestion on any of our policies? <a href="mailto:safety@saia.com">E-mail us</a>.</p>
-						<div class="spacer3"></div>
+						<div class="spacer1"></div>
 						<hr />
 						<div class="spacer2"></div>
 						<h3>Environmental Impact </h3>
@@ -52,7 +52,7 @@
 						<p>To become a SmartWay partner, Saia was required to complete an initial analysis of our entire fleet. This assessment looked at the age of our fleet, the type of technology we use, and company strategies relating to idle reduction and equipment retrofit. Following this initial assessment, our carbon dioxide and nitrogen oxide emissions were calculated. We were also asked to predict what our fleet would look like three years from our initial assessment. Saia is required to submit an annual update each June of every year to the SmartWay program, which tracks our progress and assesses our environmental impact.</p>
 						<p>Saia is committed to reducing greenhouse gas emissions and air pollution and improving the fuel efficiency of our fleet. In fact, Saia recently added several tractors that burn a low sulfur fuel. These new low sulfur engines result in approximately 50 percent less emissions per unit.</p>
 						<p>Saia is also in the process of installing "thin clients" in several of our terminals. They will replace computers that are now in use. Thin clients result in big energy savings as they consume 13 watts of energy as opposed to the 77 that a personal computer uses. Thin clients can also remain in service longer than a typical computer thus ultimately producing less surplus computer hardware that can end up in a landfill.</p>
-						<div class="spacer3"></div>
+						<div class="spacer1"></div>
 						<hr />
 						<div class="spacer2"></div>
 						<h3>Recycling</h3>
