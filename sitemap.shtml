@@ -1,0 +1,179 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+						<div class="fullBody">
+							<h1>Saia LTL Sitemap</h1>
+							<ul class="accordion sitemap">
+								<li>
+									<h2><a href="#" class="head">Home</a></h2>
+									<ul class="accordion1">
+										<li class="first">
+											<h3 class="noArrow"><a href="#" class="head">Contact Us</a></h3>
+										</li>
+										<li>
+											<h3><a href="#" class="head">SaiaSecure Login</a></h3>
+											<div>
+												<p><a href="#">Forgot Password</a></p>
+											</div>
+										</li>
+										<li>
+											<h3 class="noArrow"><a href="#" class="head">Request New ID</a></h3>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Get a Quote</a></h3>
+											<div>
+												<p><a href="#">LTL Quote</a></p>
+												<p><a href="#">Truckload Quote</a></p>
+												<p><a href="#">Headload Quote</a></p>
+												<p><a href="#">Expedited Quote</a></p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Create a Shipment</a></h3>
+											<div>
+												<p><a href="#">Bill of Lading</a></p>
+												<p><a href="#">VICS Bill of Lading</a></p>
+											</div>
+										</li>
+										<li>
+											<h3 class="noArrow"><a href="#" class="head">Schedule a Pick-Up</a></h3>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Create a Shipment</a></h3>
+											<div>
+												<p><a href="#">Bill of Lading</a></p>
+												<p><a href="#">VICS Bill of Lading</a></p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Shipment Tracking</a></h3>
+											<div>
+												<p><a href="#">Track by Bill of Lading</a></p>
+												<p><a href="#">Track by Pro Number</a></p>
+												<p><a href="#">Track by Purchase Order</a></p>
+												<p><a href="#">Track by Shipper Number</a></p>
+												<p><a href="#">Track by Partner Pro Number</a></p>
+												<p><a href="#">Track by POD Fax</a></p>
+												<p><a href="#">Track by E-mail Notification</a></p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Transit Times &amp; Coverage</a></h3>
+											<div>
+												<p><a href="#">Transit Calculator</a></p>
+												<p><a href="#">Terminal Map</a></p>
+												<p><a href="#">Terminal Locations</a></p>
+												<p><a href="#">Direct Points Listing</a></p>
+												<p><a href="#">Terminal Transit Matrix</a></p>
+												<p><a href="#">Transit Zipcode File</a></p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Shipping Tools</a></h3>
+											<div>
+												<p><a href="#">Shipping Labels</a></p>
+												<p><a href="#">Claim Status</a></p>
+												<p><a href="#">SuperRater+ Software</a></p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Transit Times &amp; Coverage</a></h3>
+											<div>
+												<p><a href="#">Transit Calculator</a></p>
+												<p><a href="#">Terminal Map</a></p>
+												<p><a href="#">Terminal Locations</a></p>
+												<p><a href="#">Direct Points Listing</a></p>
+												<p><a href="#">Terminal Transit Matrix</a></p>
+												<p><a href="#">Transit Zipcode File</a></p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Investor Relations</a></h3>
+											<div>
+												<p><a href="#">Annual &amp; Financial Reports</a></p>
+												<p><a href="#">Analyst Coverage</a></p>
+												<p><a href="#">Calendar of Events</a></p>
+												<p><a href="#">Profile</a></p>
+												<p><a href="#">Financial Releases</a></p>
+												<p><a href="#">Stock Quote</a></p>
+												<p><a href="#">Stock Chart</a></p>
+												<p><a href="#">SEC Filings</a></p>
+												<p><a href="#">Governance</a></p>
+												<p><a href="#">Management Team</a></p>
+												<p><a href="#">E-mail Alerts</a></p>
+												<p><a href="#">Investor FAQs</a></p>
+												<p><a href="#">Contact Investor Relations</a></p>
+												<p><a href="#">Newsroom</a></p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">Terms &amp; Conditions</a></h3>
+											<div>
+												<p><a href="#">Privacy Policies</a></p>
+											</div>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<h2><a href="#" class="head">About</a></h2>
+									<ul class="accordion1">
+										<li>
+											<h3><a href="#" class="head">I am having trouble viewing your site.</a></h3>
+											<div>
+												<p>This website is designed to work with all browsers version 4.0 and above. The site is best viewed with the latest versions, to download go to www.browsers.com for the latest versions.</p>
+											</div>
+										</li>
+										<li>
+											<h3><a href="#" class="head">I can’t see the whole site, the right side is cut off.</a></h3>
+											<div>
+												<p>If using Windows, go to: START > SETTINGS > CONTROL PANEL > DISPLAY > SETTINGS > SCREEN AREA and set your resolution to 1024x768 or larger.</p>
+											</div>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<h2><a href="#" class="head">Services</a></h2>
+									<ul class="accordion1">
+										<li>How can I obtain a proof of delivery (POD) or delivery receipt?</li>
+										<li>Can I access my Bill of Lading/PODs on-line?</li>
+										<li>How long are documents available on-line?</li>
+										<li>What is a freight bill/pro # and how should it be entered?</li>
+										<li>How do I save images from the web page?</li>
+									</ul>
+								</li>
+								<li>
+									<h2><a href="#" class="head">Resources</a></h2>
+									<ul class="accordion1">
+										<li>Does E-Billing mean that my invoices will arrive via email?</li>
+										<li>What can I do with this invoice in PDF?</li>
+										<li>What do I need to receive invoices electronically?</li>
+										<li>How do I get Adobe Acrobat Reader software?</li>
+										<li>Will E-Billing cost me anything?</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

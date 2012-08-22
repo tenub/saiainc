@@ -1,0 +1,47 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+	<head> 
+		<meta charset="utf-8"> 
+		<title>Saia LTL Freight</title> 	
+    		<!-- header content start -->
+			<!--#include virtual="assets/templates/header-inc.html" -->
+			<!-- header content end -->
+    		<div id="content">
+    			<div id="main">
+    				<div class="container">
+    					<h1>Terms of Use</h1>
+                        <div class="spacer2"></div>
+    					<h2>Subhead Goes Here</h2>
+    					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin scelerisque magna hendrerit ante scelerisque suscipit. Etiam euismod arcu eu mauris tempus non viverra enim lacinia. Fusce facilisis suscipit eros vitae varius. Nulla facilisi. Etiam ipsum tellus, laoreet ac varius porttitor, semper nec odio. Sed imperdiet posuere eros at porta. Nunc ultrices gravida urna ut lobortis.</p>
+                        <div>
+    					    <ul class="list">
+                                <li class="noTopSpacing">Maecenas felis risus, pretium nec faucibus id, dignissim et velit. Etiam porttitor gravida rhoncus. Vestibulum sit amet tristique risus.</li>
+                                <li>Cras ultricies euismod turpis, a egestas nisi elementum et.</li>
+                                <li>Donec a est a felis fermentum consectetur. Fusce ultrices sagittis erat in ultricies.</li>
+                            </ul>
+                        </div>
+                        <div class="fullBody">
+                            <h2>Subhead Goes Here</h2>
+                            <div class="spacer5"></div>
+                            <ul class="list">
+                                <li class="noTopSpacing">Maecenas felis risus, pretium nec faucibus id, dignissim et velit. Etiam porttitor gravida rhoncus. Vestibulum sit amet tristique risus.</li>
+                                <li>Cras ultricies euismod turpis, a egestas nisi elementum et.</li>
+                                <li>Donec a est a felis fermentum consectetur. Fusce ultrices sagittis erat in ultricies.</li>
+                            </ul>
+                        </div>
+    				</div>
+    			</div>
+    			<div id="sidebar">
+    				<div class="container">
+						<!-- sidebar content start -->
+						<!--#include virtual="assets/templates/sidebar-index-inc.html" -->
+						<!-- sidebar content end -->
+    					<div class="spacer"></div>
+    				</div>
+    			</div>
+    		</div>
+    		<!-- footer content start -->
+			<!--#include virtual="assets/templates/footer-inc.html" -->
+			<!-- footer content end -->
+	</body>
+</html>

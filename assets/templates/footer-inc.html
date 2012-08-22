@@ -74,8 +74,8 @@
     			<div class="bottom">
 					<ul>
     				<li>&copy; 2012 Saia, All Rights Reserved</li>
-						<li><a href="sitemap.html">Sitemap</a></li>
-						<li><a href="sitemap.html">Website Terms of Use</a></li>
+						<li><a href="sitemap.shtml">Sitemap</a></li>
+						<li><a href="terms-of-use.shtml">Website Terms of Use</a></li>
 						<li><a class="cbOpen" href="modals/leaving.html">Company Store</a></li>
 						<li><a class="cbOpen" href="modals/employee-login.html">Employee Login</a></li>
 					</ul>
@@ -114,7 +114,7 @@
                     $("div.desc").hide();
                     $("#" + test).show();
                 });
-            });​
+            });
         </script>
         <script type="text/javascript">
             $(document).ready(function() {
@@ -125,10 +125,6 @@
             $(function(){
                 $(".accordion").accordion({active: false, collapsible: true, header: "h2", autoHeight: false});
             });
-            $('.accordion .head').click(function() {
-                $(this).next().toggle('slow');
-                return false;
-            }).next().hide();
             $(function(){
                 $(".accordion1").accordion({active: false, collapsible: true, header: "h3", autoHeight: false});
             });
