@@ -33,7 +33,14 @@
                 <table class="hor-minimalist1">
                   <thead>
                     <tr>
-                      <th colspan="6" class="noBorder nav"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
+                      <th colspan="6" class="noBorder nav">
+                        <ul>
+                          <li><a href="#"><div class="first"></div></a></li>
+                          <li><a href="#"><div class="prev"></div></a></li>
+                          <li><a href="#"><div class="next"></div></a></li>
+                          <li><a href="#"><div class="last"></div></a></li>
+                        </ul>
+                      </th>
                     </tr>
                     <tr>
                       <th>Filing Date</th>
@@ -128,7 +135,14 @@
                   </tbody>
                   <tfoot>
                     <tr>
-                      <th colspan="6" class="noBorder nav"><a href="#">First</a> | <a href="#">Previous</a> | <a href="#">Next</a> | <a href="#">Last</a></th>
+                      <th colspan="6" class="noBorder nav">
+                        <ul>
+                          <li><a href="#"><div class="first"></div></a></li>
+                          <li><a href="#"><div class="prev"></div></a></li>
+                          <li><a href="#"><div class="next"></div></a></li>
+                          <li><a href="#"><div class="last"></div></a></li>
+                        </ul>
+                      </th>
                     </tr>
                   </tfoot>
                 </table>

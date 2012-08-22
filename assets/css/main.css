@@ -103,19 +103,55 @@ label{
 	position: absolute;
 	left: 0;
 }
-.hor-minimalist1 th.nav > div {
+.hor-minimalist1 th.nav ul > li {
 	float: left;
+	padding: 5px 10px;
 }
-.hor-minimalist1 th.nav div .ui-icon-arrowthickstop-1-w, .hor-minimalist1 th.nav div .ui-icon-arrowthickstop-1-e {
-	position: relative;
-	top: 1px;
+.hor-minimalist1 th.nav ul > li:hover {
+	cursor: pointer;
 }
-.hor-minimalist1 th.nav > div div {
-	background-image: url('images/ui-icons_222_256x240.png');
-	margin: 0 10px;
+.hor-minimalist1 th.nav a > div {
+	background: url('../img/sprite_nav.png') no-repeat;
 }
-.hor-minimalist1 th.nav > div:hover div {
-	background-image: url('images/ui-icons_222222_256x240.png');
+.hor-minimalist1 th.nav a > div.first {
+	background-position: -16px 0;
+	width: 20px;
+	height: 10px;
+}
+.hor-minimalist1 th.nav li:hover div.first {
+	background-position: -36px 0;
+	width: 20px;
+	height: 10px;
+}
+.hor-minimalist1 th.nav a > div.prev {
+	background-position: 0 0;
+	width: 8px;
+	height: 10px;
+}
+.hor-minimalist1 th.nav li:hover div.prev {
+	background-position: -8px 0;
+	width: 8px;
+	height: 10px;
+}
+.hor-minimalist1 th.nav a > div.next {
+	background-position: 0 -10px;
+	width: 8px;
+	height: 10px;
+}
+.hor-minimalist1 th.nav li:hover div.next {
+	background-position: -8px -10px;
+	width: 8px;
+	height: 10px;
+}
+.hor-minimalist1 th.nav a > div.last {
+	background-position: -16px -10px;
+	width: 20px;
+	height: 10px;
+}
+.hor-minimalist1 th.nav li:hover div.last {
+	background-position: -36px -10px;
+	width: 20px;
+	height: 10px;
 }
 #content table.ui-datepicker-calendar tbody td > a {
     color: #333;
