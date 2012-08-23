@@ -37,6 +37,13 @@
                         <ul>
                           <li><a href="#"><div class="first"></div></a></li>
                           <li><a href="#"><div class="prev"></div></a></li>
+                          <li class="pages">
+                            <a href="#">1</a>
+                            <a href="#">2</a>
+                            <a href="#">3</a>
+                            <span>&hellip;</span>
+                            <a href="#">12</a>
+                          </li>
                           <li><a href="#"><div class="next"></div></a></li>
                           <li><a href="#"><div class="last"></div></a></li>
                         </ul>
@@ -133,18 +140,6 @@
                       <td><a href="#"><img src="assets/img/ico_word_small.png" width="16" height="16" alt="MS Word Icon" /></a>&nbsp;<a href="#"><img src="assets/img/ico_excel_small.png" width="16" height="16" alt="MS Excel Icon" /></a>&nbsp;<a href="#"><img src="assets/img/ico_pdf_small.png" width="16" height="16" alt="Adobe PDF Icon" /></a></td>
                     </tr>
                   </tbody>
-                  <tfoot>
-                    <tr>
-                      <th colspan="6" class="noBorder nav">
-                        <ul>
-                          <li><a href="#"><div class="first"></div></a></li>
-                          <li><a href="#"><div class="prev"></div></a></li>
-                          <li><a href="#"><div class="next"></div></a></li>
-                          <li><a href="#"><div class="last"></div></a></li>
-                        </ul>
-                      </th>
-                    </tr>
-                  </tfoot>
                 </table>
   						</div>
   					</div>
