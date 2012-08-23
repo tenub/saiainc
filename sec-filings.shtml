@@ -38,7 +38,7 @@
                           <li><a href="#"><div class="first"></div></a></li>
                           <li><a href="#"><div class="prev"></div></a></li>
                           <li class="pages">
-                            <a href="#">1</a>
+                            <a href="#" class="selected">1</a>
                             <a href="#">2</a>
                             <a href="#">3</a>
                             <span>&hellip;</span>

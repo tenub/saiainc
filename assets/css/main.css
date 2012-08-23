@@ -124,6 +124,14 @@ label{
 	background: #ccc;
 	color: #fff;
 }
+#main .container .hor-minimalist1 th.nav ul > li > a.selected {
+	background: #333;
+	color: #fff;
+	border: 1px solid #333;
+}
+#main .container .hor-minimalist1 th.nav ul > li > a.selected:hover {
+	border: 1px solid #ccc;
+}
 .hor-minimalist1 th.nav a > div {
 	background: url('../img/sprite_nav.png') no-repeat;
 }
