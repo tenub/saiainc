@@ -87,7 +87,7 @@
 													<td><span class="bold">01/31/12</span></td>
 													<td><a href="#">Saia Reports Fourth Quarter Earnings per Share of $0.15	</a></td>
 												</tr>
-												<tr>
+												<tr class="last">
 													<td><span class="bold">01/11/12</span></td>
 													<td><a href="#">Saia to Announce Fourth Quarter 2011 Results on January 31, 2012</a></td>
 												</tr>
@@ -169,7 +169,7 @@
 													<td><span class="bold">01/31/11</span></td>
 													<td><a href="#">Saia Reports Fourth Quarter Earnings per Share of $0.15	</a></td>
 												</tr>
-												<tr>
+												<tr class="last">
 													<td><span class="bold">01/11/11</span></td>
 													<td><a href="#">Saia to Announce Fourth Quarter 2011 Results on January 31, 2012</a></td>
 												</tr>
@@ -251,7 +251,7 @@
 													<td><span class="bold">01/31/10</span></td>
 													<td><a href="#">Saia Reports Fourth Quarter Earnings per Share of $0.15	</a></td>
 												</tr>
-												<tr>
+												<tr class="last">
 													<td><span class="bold">01/11/10</span></td>
 													<td><a href="#">Saia to Announce Fourth Quarter 2011 Results on January 31, 2012</a></td>
 												</tr>
@@ -333,7 +333,7 @@
 													<td><span class="bold">01/31/09</span></td>
 													<td><a href="#">Saia Reports Fourth Quarter Earnings per Share of $0.15	</a></td>
 												</tr>
-												<tr>
+												<tr class="last">
 													<td><span class="bold">01/11/09</span></td>
 													<td><a href="#">Saia to Announce Fourth Quarter 2011 Results on January 31, 2012</a></td>
 												</tr>
@@ -415,7 +415,7 @@
 													<td><span class="bold">01/31/08</span></td>
 													<td><a href="#">Saia Reports Fourth Quarter Earnings per Share of $0.15	</a></td>
 												</tr>
-												<tr>
+												<tr class="last">
 													<td><span class="bold">01/11/08</span></td>
 													<td><a href="#">Saia to Announce Fourth Quarter 2011 Results on January 31, 2012</a></td>
 												</tr>
@@ -497,7 +497,7 @@
 													<td><span class="bold">01/31/07</span></td>
 													<td><a href="#">Saia Reports Fourth Quarter Earnings per Share of $0.15	</a></td>
 												</tr>
-												<tr>
+												<tr class="last">
 													<td><span class="bold">01/11/07</span></td>
 													<td><a href="#">Saia to Announce Fourth Quarter 2011 Results on January 31, 2012</a></td>
 												</tr>

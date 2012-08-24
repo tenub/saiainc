@@ -326,7 +326,7 @@
                         <div class="noTopSpacing">
                           <div class="halves">
                             <input type="text" placeholder="$ Invested" name="stock_info" id="money_invested" class="left required" />
-                            <div style="position:absolute;left:50%;top:18px;;color:#666;text-align:center;">or</div>
+                            <div style="position:absolute;left:50%;top:8px;;color:#666;text-align:center;">or</div>
                             <input type="text" placeholder="Shares Purchased" name="stock_info" id="shares_purchased" class="right required" />
                             <div class="clear"></div>
                           </div>

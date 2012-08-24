@@ -121,8 +121,9 @@ label{
 	margin: 0;
 }
 #main .container .hor-minimalist1 th.nav ul > li.pages > a:hover {
-	background: #ccc;
+	background: #d51d24;
 	color: #fff;
+	border: 1px solid #d51d24;
 }
 #main .container .hor-minimalist1 th.nav ul > li > a.selected {
 	background: #333;
@@ -130,7 +131,7 @@ label{
 	border: 1px solid #333;
 }
 #main .container .hor-minimalist1 th.nav ul > li > a.selected:hover {
-	border: 1px solid #ccc;
+	border: 1px solid #d51d24;
 }
 .hor-minimalist1 th.nav a > div {
 	background: url('../img/sprite_nav.png') no-repeat;
@@ -894,6 +895,11 @@ body > .container {
     position: absolute;
     right: -20px;
     top: 2px;
+}
+#main .container form > div > div div.popup {
+	position: static;
+	float: left;
+	margin-left: 2px;
 }
 #main .container div.popup:hover {
 	cursor: pointer;
@@ -2333,6 +2339,7 @@ label.min {
 	padding: 10px 0;
 	border-bottom: 1px solid #999;
     vertical-align: bottom;
+    text-align: left;
 }
 .hor-minimalist td, .hor-minimalist1 td, .hor-minimalist2 td {
 	padding: 6px 0;

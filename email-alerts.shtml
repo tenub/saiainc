@@ -22,31 +22,35 @@
                         <div class="formBody">
                             <form class="fullWidth">
                                 <div>
-                                  <div>
-                                    <input type="checkbox" name="alert" id="alert_event" /><label for="alert_event">Saia, Inc. Event Alert</label>
-                                    <div class="spacer1"></div>
-                                    <input type="checkbox" name="alert" id="alert_news" /><label for="alert_news">Saia, Inc. News Alert</label>
-                                    <div class="spacer1"></div>
-                                    <input type="checkbox" name="alert" id="alert_financial" /><label for="alert_financial">Saia, Inc. Financial Report Alert</label>
-                                    <div class="spacer1"></div>
-                                    <input type="checkbox" name="alert" id="alert_annual" /><label for="alert_annual">Saia, Inc. Annual Report Alert</label>
-                                    <div class="spacer1"></div>
-                                    <input type="checkbox" name="alert" id="alert_sec" /><label for="alert_sec">Saia, Inc. SEC Filing Alert</label>
-                                    <div class="spacer1"></div>
-                                    <input type="checkbox" name="alert" id="alert_weekly" /><label for="alert_weekly" class="relative">Saia, Inc. Weekly Summary Alert
-                                        <div id="popupEmailWeekly" class="popup">
-                                            <div class="ui-icon ui-icon-info"></div>
+                                    <div>
+                                        <input type="checkbox" name="alert" id="alert_event" /><label for="alert_event">Saia, Inc. Event Alert</label>
+                                        <div class="spacer1"></div>
+                                        <input type="checkbox" name="alert" id="alert_news" /><label for="alert_news">Saia, Inc. News Alert</label>
+                                        <div class="spacer1"></div>
+                                        <input type="checkbox" name="alert" id="alert_financial" /><label for="alert_financial">Saia, Inc. Financial Report Alert</label>
+                                        <div class="spacer1"></div>
+                                        <input type="checkbox" name="alert" id="alert_annual" /><label for="alert_annual">Saia, Inc. Annual Report Alert</label>
+                                        <div class="spacer1"></div>
+                                        <input type="checkbox" name="alert" id="alert_sec" /><label for="alert_sec">Saia, Inc. SEC Filing Alert</label>
+                                        <div class="spacer1"></div>
+                                        <input type="checkbox" name="alert" id="alert_weekly" class="left" />
+                                        <div>
+                                            <label for="alert_weekly" class="left">Saia, Inc. Weekly Summary Alert</label>
+                                            <div id="popupEmailWeekly" class="popup">
+                                                <div class="ui-icon ui-icon-info"></div>
+                                            </div>
                                         </div>
-                                    </label>
-                                    <div class="spacer1"></div>
-                                    <input type="checkbox" name="alert" id="alert_volume" /><label for="alert_volume">Saia, Inc. Price &amp; Volume Alert
-                                    <div id="popupEmailVolume" class="popup">
-                                        <div class="ui-icon ui-icon-info"></div>
+                                        <div class="spacer1"></div>
+                                        <input type="checkbox" name="alert" id="alert_volume" class="left" />
+                                        <div>
+                                            <label for="alert_volume" class="left">Saia, Inc. Price &amp; Volume Alert</label>
+                                            <div id="popupEmailVolume" class="popup">
+                                                <div class="ui-icon ui-icon-info"></div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    </label>
-                                  </div>
-                                  <div class="spacer2"></div>
-                                  <input type="text" placeholder="E-mail Address" name="alerts" id="email_alerts" class="required" style="width:40%;" /><input type="submit" value="Submit" class="cap" style="margin-left:-1px;" />
+                                    <div class="spacer2"></div>
+                                    <input type="text" placeholder="E-mail Address" name="alerts" id="email_alerts" class="required" style="width:40%;" /><input type="submit" value="Submit" class="cap" style="margin-left:-1px;" />
                                 </div>
                             </form>
                         </div>

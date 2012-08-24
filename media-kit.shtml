@@ -39,8 +39,8 @@
               <input type="text" placeholder="Company" name="contact_info" id="company" class="required" />
               <input type="text" placeholder="E-mail" name="contact_info" id="email" class="required" />
               <input type="text" placeholder="Phone Number" name="contact_info" id="phone_num" class="form" />
-              <input type="text" placeholder="Address 1" name="contact_info" id="address" class="form" />
-              <input type="text" placeholder="Address 2" name="contact_info" id="address" class="form" />
+              <input type="text" placeholder="Address 1" name="contact_info" id="address1" class="form" />
+              <input type="text" placeholder="Address 2" name="contact_info" id="address2" class="form" />
               <input type="text" placeholder="City" name="contact_info" id="city" class="form" />
               <div class="halves">
                 <input type="text" placeholder="State" name="contact_info" id="state" class="left form" />

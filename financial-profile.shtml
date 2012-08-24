@@ -40,10 +40,12 @@
                       <td>Volume</td>
                       <td>77,402</td>
                     </tr>
-                    <tfoot>
-                      <td colspan="2" class="disclaimer">Data as of 08/14/12 4:00 PM ET. Minimum 20 minute delay. <a href="#">Refresh quote</a></td>
-                    </tfoot>
                   </tbody>
+                  <tfoot>
+                    <tr>
+                      <td colspan="2" class="disclaimer">Data as of 08/14/12 4:00 PM ET. Minimum 20 minute delay. <a href="#">Refresh quote</a></td>
+                    </tr>
+                  </tfoot>
                 </table>
                 <p class="disclaimer">Quotes delayed at least 15 minutes. Market data provided by <a href="http://www.interactivedata.com" target="_blank">Interactive Data</a>. <a href="http://www.interactivedata.com/index.php/Contents/show/content/quoteTerms" target="_blank">Terms &amp; Conditions</a>. Powered and implemented by <a href="http://www.interactivedata.com/idms" target="_blank">Interactive Data Managed Solutions</a>.</p>
                 <div class="spacer3"></div>
@@ -56,10 +58,10 @@
                 </ul>
                 <div class="spacer1"></div>
                 <h3>Calendar of Events</h3>
-                <p>For a calendar of events past and present pertaining to Saia's financial information <a href="#">please click here &gt;</a></p>
+                <p>For a calendar of events past and present pertaining to Saia's financial information <a href="calendar-events.shtml">please click here &gt;</a></p>
                 <div class="spacer2"></div>
                 <h3>Company News</h3>
-                <p>For all financial related news <a href="#">please click here &gt;</a></p>
+                <p>For all financial related news <a href="financial-releases.shtml">please click here &gt;</a></p>
   						</div>
   					</div>
     			</div>

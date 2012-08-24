@@ -14,11 +14,13 @@
                 <div class="spacer2"></div>
   							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet tortor nibh, eget porta nisl. Quisque ut pretium velit. Cras lobortis nunc eu felis luctus laoreet. Aenean libero lorem, suscipit sed accumsan sed, blandit quis velit. Maecenas pharetra molestie elit eu vulputate. Sed iaculis, lectus sit amet rhoncus convallis, velit lorem tincidunt sapien.</p>
                 <table class="hor-minimalist1">
-                  <tbody class="spanned">
-                    <thead>
+                  <thead>
+                    <tr>
                       <th>Firm</th>
                       <th>Analyst</th>
-                    </thead>
+                    </tr>
+                  </thead>
+                  <tbody class="spanned">
                     <tr>
                       <td>BB&amp;T Capital Markets</td>
                       <td>Thom Albrecht</td>
@@ -55,10 +57,12 @@
                       <td>Wolfe Trahan &amp; Co.</td>
                       <td>Ed Wolfe &amp; Scott Group</td>
                     </tr>
-                    <tfoot>
-                      <td colspan="2" class="disclaimer">Saia, Inc. is followed by the analysts listed above. Please note that any opinions, estimates or forecasts regarding Saia, Inc.'s performance made by these analysts are theirs alone and do not represent opinions, forecasts or predictions of Saia, Inc. or its management. Saia, Inc. does not by its reference above or distribution imply its endorsement of or concurrence with such information, conclusions or recommendations.</td>
-                    </tfoot>
                   </tbody>
+                  <tfoot>
+                    <tr>
+                      <td colspan="2" class="disclaimer">Saia, Inc. is followed by the analysts listed above. Please note that any opinions, estimates or forecasts regarding Saia, Inc.'s performance made by these analysts are theirs alone and do not represent opinions, forecasts or predictions of Saia, Inc. or its management. Saia, Inc. does not by its reference above or distribution imply its endorsement of or concurrence with such information, conclusions or recommendations.</td>
+                    </tr>
+                  </tfoot>
                 </table>
   						</div>
   					</div>
