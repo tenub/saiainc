@@ -155,6 +155,7 @@
 	font: 13px helvetica, arial, sans-serif;
 	line-height: 1.5em;
 	padding: 10px 0;
+	color: #333;
 }
 #lbContent > div > p > a {
 	font: 13px helvetica, arial, sans-serif;
@@ -446,6 +447,39 @@
 	clear: both;
 	margin: 0;
 	padding: 0;
+}
+#lbContent ul.list {
+	list-style: none;
+	margin: 10px 0 0 12px;
+}
+#lbContent ul.list > li {
+	line-height: 1.5em;
+	vertical-align: text-top;
+	position: relative;
+}
+#lbContent ul.list > li:before {
+    background: url('images/ui-icons_222222_256x240.png') no-repeat -32px 0;
+    width: 16px;
+    height: 16px;
+    display: block;
+    position: absolute;
+    content: " ";
+    top: 0;
+    left: -16px;
+}
+#lbContent ul.list a {
+	color: #d51d24;
+}
+#lbContent ul.list a:hover {
+	color: #333;
+}
+#lbContent .calContent h2 {
+	font: 22px helvetica, arial, sans-serif;
+	color: #333;
+}
+#lbContent .calContent h3 {
+	font: 18px helvetica, arial, sans-serif;
+	color: #333;
 }
 #lbContent #csi {
 	margin: 10px 0 0 0;
