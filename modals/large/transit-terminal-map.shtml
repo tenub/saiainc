@@ -1,7 +1,0 @@
-                            <div>
-                                <h2>Terminal Map</h2>
-                                <p>Please select a terminal you wish to view.</p>
-                            </div>
-                            <div class="formBody">
-                                <div class="mapContainer"><img src="assets/img/map-terminal-locations.gif" class="hero" alt="Terminal Location Map" /></div>
-                            </div>
