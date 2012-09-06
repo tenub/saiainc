@@ -1,5 +1,5 @@
- 	
-    	<!-- header content start -->
+<!DOCTYPE html>
+  		<!-- header content start -->
 			<!--#include virtual="assets/templates/header-inc.html" -->
 			<!-- header content end -->
     		<div id="content">
